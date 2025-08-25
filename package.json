@@ -1,0 +1,17 @@
+{
+  "name": "astrologly-content",
+  "private": false,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "gen:tomorrow": "node scripts/generate-daily-openai.mjs --target=tomorrow",
+    "gen:today": "node scripts/generate-daily-openai.mjs --target=today",
+    "validate": "node scripts/validate.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "zod": "^3.22.4"
+  }
+}

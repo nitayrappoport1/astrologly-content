@@ -1,0 +1,50 @@
+name: Rotate Current Horoscope
+
+on:
+  schedule:
+    # 00:05 Israel time (5 minutes after generation)
+    - cron: "5 21 * * *"  # 00:05 IDT (March-October) 
+    - cron: "5 22 * * *"  # 00:05 IST (October-March)
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ github.token }}
+      
+      - name: Get today's date in Israel timezone
+        id: date
+        run: |
+          TODAY=$(TZ=Asia/Jerusalem date +%F)
+          echo "today=$TODAY" >> $GITHUB_OUTPUT
+          echo "Today's date in Israel: $TODAY"
+      
+      - name: Check if today's file exists
+        id: check
+        run: |
+          if [ -f "daily/${{ steps.date.outputs.today }}.json" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+            echo "File daily/${{ steps.date.outputs.today }}.json exists"
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo "File daily/${{ steps.date.outputs.today }}.json does not exist"
+          fi
+      
+      - name: Copy today's file to current.json
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          cp "daily/${{ steps.date.outputs.today }}.json" daily/current.json
+          echo "Copied daily/${{ steps.date.outputs.today }}.json to daily/current.json"
+      
+      - name: Commit and push if changed
+        if: steps.check.outputs.exists == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add daily/current.json
+          git diff --staged --quiet || (git commit -m "Rotate current horoscope to ${{ steps.date.outputs.today }} [skip ci]" && git push)

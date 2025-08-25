@@ -1,0 +1,3 @@
+# Astrologly Content Repository
+
+This repository serves as the content management system for Astrologly's daily horoscope predictions. It automatically generates fresh, personalized horoscope content for all 12 zodiac signs using OpenAI's GPT-4o-mini model, following strict style guidelines to ensure consistency and quality. The content is served via GitHub Raw URLs and consumed by the main Astrologly website, with automated daily generation and rotation workflows ensuring fresh content is always available.
