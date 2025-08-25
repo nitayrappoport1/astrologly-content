@@ -69,10 +69,29 @@ Return ONLY valid JSON matching the exact schema provided, no other text.
 
 ${styleGuide}
 
+CRITICAL WORD COUNT REQUIREMENTS (MUST FOLLOW):
+- headline: 6-10 words (aim for 8)
+- general: 90-140 words (aim for 115) - MUST include "Do this today:" with one specific action
+- love: 45-80 words (aim for 60)
+- career: 45-80 words (aim for 60)  
+- mood: 20-40 words (aim for 30)
+
+These word counts are MANDATORY. Content that is too short will be rejected.
+
 IMPORTANT: Avoid repeating any of these sentences from recent days:
 ${avoidSentences ? avoidSentences : '(No previous content to avoid)'}`;
 
   const userPrompt = `Generate complete daily horoscopes for ${targetDate} for all 12 zodiac signs.
+
+REMEMBER THE WORD COUNTS:
+- headline: 6-10 words
+- general: 90-140 words with "Do this today:" action
+- love: 45-80 words  
+- career: 45-80 words
+- mood: 20-40 words
+
+Make the content engaging, specific, and actionable. Each sign should feel personalized.
+
 Return a JSON object with this exact structure:
 {
   "date": "${targetDate}",
