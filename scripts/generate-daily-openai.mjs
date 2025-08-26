@@ -38,12 +38,13 @@ async function loadPreviousDays(count = 3) {
   return previous;
 }
 
-function extractPreviousContent(previousDays) {
+function extractPreviousContent(previousDays, sign) {
   if (!previousDays.length) return '';
   
   const sentences = new Set();
   previousDays.forEach(day => {
-    Object.values(day.entries || {}).forEach(entry => {
+    const entry = day.entries?.[sign];
+    if (entry) {
       ['headline', 'general', 'love', 'career', 'mood'].forEach(field => {
         if (entry[field]) {
           entry[field].split(/[.!?]+/).forEach(s => {
@@ -52,101 +53,129 @@ function extractPreviousContent(previousDays) {
           });
         }
       });
-    });
+    }
   });
   
-  return Array.from(sentences).join('\n');
+  return Array.from(sentences).slice(0, 20).join('\n'); // Limit to avoid token overflow
 }
 
-async function generateHoroscopes(targetDate) {
-  const styleGuide = await readFile(join(__dirname, '..', 'templates', 'STYLE_GUIDE.md'), 'utf-8');
-  const previousDays = await loadPreviousDays(3);
-  const avoidSentences = extractPreviousContent(previousDays);
-  
-  const systemPrompt = `You are a professional astrologer writing daily horoscopes for Astrologly.
-Follow the style guide exactly. Generate horoscopes for all 12 zodiac signs for ${targetDate}.
-Return ONLY valid JSON matching the exact schema provided, no other text.
+async function generateSignHoroscope(sign, signName, targetDate, styleGuide, previousContent) {
+  const systemPrompt = `You are a professional astrologer writing a daily horoscope for ${signName} on ${targetDate}.
 
 ${styleGuide}
 
-CRITICAL WORD COUNT REQUIREMENTS (MUST FOLLOW):
-- headline: 6-10 words (aim for 8)
-- general: 90-140 words (aim for 115) - MUST include "Do this today:" with one specific action
-- love: 45-80 words (aim for 60)
-- career: 45-80 words (aim for 60)  
-- mood: 20-40 words (aim for 30)
+CRITICAL: You MUST meet these EXACT word counts (count every single word):
+- headline: EXACTLY 7-9 words
+- general: EXACTLY 110-130 words. MUST end with "Do this today:" followed by one specific action.
+- love: EXACTLY 55-70 words
+- career: EXACTLY 55-70 words  
+- mood: EXACTLY 25-35 words
 
-These word counts are MANDATORY. Content that is too short will be rejected.
+Write engaging, specific content. Make it feel personal to ${signName}.
 
-IMPORTANT: Avoid repeating any of these sentences from recent days:
-${avoidSentences ? avoidSentences : '(No previous content to avoid)'}`;
+${previousContent ? `AVOID repeating these phrases from recent days:\n${previousContent}` : ''}`;
 
-  const userPrompt = `Generate complete daily horoscopes for ${targetDate} for all 12 zodiac signs.
+  const userPrompt = `Write a complete horoscope for ${signName} for ${targetDate}.
 
-REMEMBER THE WORD COUNTS:
-- headline: 6-10 words
-- general: 90-140 words with "Do this today:" action
-- love: 45-80 words  
-- career: 45-80 words
-- mood: 20-40 words
-
-Make the content engaging, specific, and actionable. Each sign should feel personalized.
-
-Return a JSON object with this exact structure:
+Return ONLY this JSON structure with NO other text:
 {
-  "date": "${targetDate}",
-  "tz": "Asia/Jerusalem",
-  "entries": {
-    "aries": { "headline": "", "general": "", "love": "", "career": "", "mood": "", "lucky_numbers": [], "lucky_color": "", "author": "Astrologly", "image": "" },
-    "taurus": { ... },
-    "gemini": { ... },
-    "cancer": { ... },
-    "leo": { ... },
-    "virgo": { ... },
-    "libra": { ... },
-    "scorpio": { ... },
-    "sagittarius": { ... },
-    "capricorn": { ... },
-    "aquarius": { ... },
-    "pisces": { ... }
-  }
+  "headline": "7-9 word compelling headline here",
+  "general": "110-130 words of main horoscope. Must be exactly in this range. Include varied sentence structures. Cover multiple life areas. End with 'Do this today:' and one specific action.",
+  "love": "55-70 words about love and relationships. Be specific and actionable. Address both singles and couples.",
+  "career": "55-70 words about career and finances. Include practical advice.",
+  "mood": "25-35 words describing the emotional tone of the day.",
+  "lucky_numbers": [3 random numbers between 1-50],
+  "lucky_color": "one color word"
 }`;
 
   try {
     const completion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4o-mini',  // Using gpt-4o-mini for cost effectiveness
       messages: [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: userPrompt }
       ],
-      temperature: 0.9,
+      temperature: 0.8,
+      max_tokens: 1000,
       response_format: { type: 'json_object' }
     });
 
     const content = completion.choices[0].message.content;
-    const horoscopes = JSON.parse(content);
+    const horoscope = JSON.parse(content);
     
-    // Ensure required fields
-    horoscopes.date = targetDate;
-    horoscopes.tz = 'Asia/Jerusalem';
+    // Add static fields
+    horoscope.author = 'Astrologly';
+    horoscope.image = '';
     
-    // Validate all signs present
-    const requiredSigns = ['aries', 'taurus', 'gemini', 'cancer', 'leo', 'virgo', 
-                          'libra', 'scorpio', 'sagittarius', 'capricorn', 'aquarius', 'pisces'];
-    for (const sign of requiredSigns) {
-      if (!horoscopes.entries[sign]) {
-        throw new Error(`Missing sign: ${sign}`);
-      }
-      // Ensure static fields
-      horoscopes.entries[sign].author = 'Astrologly';
-      horoscopes.entries[sign].image = '';
-    }
+    // Validate word counts
+    const generalWords = horoscope.general.trim().split(/\s+/).length;
+    const loveWords = horoscope.love.trim().split(/\s+/).length;
+    const careerWords = horoscope.career.trim().split(/\s+/).length;
+    const moodWords = horoscope.mood.trim().split(/\s+/).length;
     
-    return horoscopes;
+    console.log(`  ${signName}: general=${generalWords}, love=${loveWords}, career=${careerWords}, mood=${moodWords}`);
+    
+    return horoscope;
   } catch (error) {
-    console.error('OpenAI API error:', error);
+    console.error(`Error generating ${signName}:`, error.message);
     throw error;
   }
+}
+
+async function generateAllHoroscopes(targetDate) {
+  const styleGuide = await readFile(join(__dirname, '..', 'templates', 'STYLE_GUIDE.md'), 'utf-8');
+  const previousDays = await loadPreviousDays(3);
+  
+  const signs = [
+    { slug: 'aries', name: 'Aries' },
+    { slug: 'taurus', name: 'Taurus' },
+    { slug: 'gemini', name: 'Gemini' },
+    { slug: 'cancer', name: 'Cancer' },
+    { slug: 'leo', name: 'Leo' },
+    { slug: 'virgo', name: 'Virgo' },
+    { slug: 'libra', name: 'Libra' },
+    { slug: 'scorpio', name: 'Scorpio' },
+    { slug: 'sagittarius', name: 'Sagittarius' },
+    { slug: 'capricorn', name: 'Capricorn' },
+    { slug: 'aquarius', name: 'Aquarius' },
+    { slug: 'pisces', name: 'Pisces' }
+  ];
+  
+  const horoscopes = {
+    date: targetDate,
+    tz: 'Asia/Jerusalem',
+    entries: {}
+  };
+  
+  console.log('Generating horoscopes for each sign...');
+  
+  // Process signs in batches of 3 to avoid rate limits
+  for (let i = 0; i < signs.length; i += 3) {
+    const batch = signs.slice(i, i + 3);
+    const promises = batch.map(async (sign) => {
+      const previousContent = extractPreviousContent(previousDays, sign.slug);
+      const horoscope = await generateSignHoroscope(
+        sign.slug,
+        sign.name,
+        targetDate,
+        styleGuide,
+        previousContent
+      );
+      return { slug: sign.slug, horoscope };
+    });
+    
+    const results = await Promise.all(promises);
+    results.forEach(({ slug, horoscope }) => {
+      horoscopes.entries[slug] = horoscope;
+    });
+    
+    // Small delay between batches to avoid rate limits
+    if (i + 3 < signs.length) {
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+  }
+  
+  return horoscopes;
 }
 
 async function main() {
@@ -187,7 +216,7 @@ async function main() {
   console.log(`Generating horoscopes for ${targetDate} (${target})...`);
   
   try {
-    const horoscopes = await generateHoroscopes(targetDate);
+    const horoscopes = await generateAllHoroscopes(targetDate);
     const jsonContent = JSON.stringify(horoscopes, null, 2);
     
     // Write dated file
