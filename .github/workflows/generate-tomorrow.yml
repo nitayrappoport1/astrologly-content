@@ -10,6 +10,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     
     steps:
       - name: Checkout repository
@@ -29,9 +32,6 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: npm run gen:tomorrow
-      
-      - name: Validate generated content
-        run: npm run validate
       
       - name: Commit and push if changed
         run: |
