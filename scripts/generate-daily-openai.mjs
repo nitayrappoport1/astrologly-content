@@ -379,13 +379,81 @@ async function main() {
       console.log('Updated next.json');
     }
 
-    // Run validation
-    console.log('Running validation...');
+    // Run validation on newly generated file only
+    console.log(`Validating generated file ${targetDate}.json...`);
     try {
-      execSync('npm run validate', { cwd: join(__dirname, '..'), stdio: 'inherit' });
-      console.log('Validation passed!');
+      // Import validation function directly instead of running full npm script
+      const { readFile: readFileForValidation } = await import('fs/promises');
+      const { z } = await import('zod');
+      
+      // Define validation schema (copied from validate.mjs)
+      function countWords(text) {
+        return text.trim().split(/\s+/).filter(w => w.length > 0).length;
+      }
+      
+      function wordCount(min, max, tolerance = 0.1) {
+        return z.string().refine(
+          (val) => {
+            const count = countWords(val);
+            const minWithTolerance = Math.floor(min * (1 - tolerance));
+            const maxWithTolerance = Math.ceil(max * (1 + tolerance));
+            return count >= minWithTolerance && count <= maxWithTolerance;
+          },
+          (val) => {
+            const count = countWords(val);
+            return {
+              message: `Word count ${count} not in range ${Math.floor(min * 0.9)}-${Math.ceil(max * 1.1)} (target: ${min}-${max})`
+            };
+          }
+        );
+      }
+      
+      const HoroscopeEntrySchema = z.object({
+        headline: wordCount(6, 10),
+        general: wordCount(90, 140),
+        love: wordCount(45, 80),
+        career: wordCount(45, 80),
+        mood: wordCount(20, 40),
+        lucky_numbers: z.array(z.number().int().min(1).max(50)).min(2).max(4),
+        lucky_color: z.string().min(1),
+        author: z.literal('Astrologly'),
+        image: z.literal('')
+      });
+      
+      const DailyHoroscopeSchema = z.object({
+        date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'Date must be YYYY-MM-DD format'),
+        tz: z.literal('Asia/Jerusalem'),
+        entries: z.object({
+          aries: HoroscopeEntrySchema,
+          taurus: HoroscopeEntrySchema,
+          gemini: HoroscopeEntrySchema,
+          cancer: HoroscopeEntrySchema,
+          leo: HoroscopeEntrySchema,
+          virgo: HoroscopeEntrySchema,
+          libra: HoroscopeEntrySchema,
+          scorpio: HoroscopeEntrySchema,
+          sagittarius: HoroscopeEntrySchema,
+          capricorn: HoroscopeEntrySchema,
+          aquarius: HoroscopeEntrySchema,
+          pisces: HoroscopeEntrySchema
+        })
+      });
+      
+      // Validate the generated file
+      const content = await readFileForValidation(targetFile, 'utf-8');
+      const data = JSON.parse(content);
+      DailyHoroscopeSchema.parse(data);
+      
+      console.log(`✓ Generated file ${targetDate}.json is valid`);
     } catch (validationError) {
-      console.error('Validation failed. Please check the generated content.');
+      console.error(`✗ Generated file ${targetDate}.json failed validation:`);
+      if (validationError.errors) {
+        validationError.errors.forEach(err => {
+          console.error(`  - ${err.path.join('.')}: ${err.message}`);
+        });
+      } else {
+        console.error(`  - ${validationError.message}`);
+      }
       process.exit(1);
     }
 
