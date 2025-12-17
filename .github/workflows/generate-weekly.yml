@@ -1,0 +1,39 @@
+name: Generate Weekly Horoscopes (All Languages)
+
+on:
+  schedule:
+    # Run every Sunday at 22:00 UTC (00:00 Israel Monday)
+    - cron: '0 22 * * 0'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          cd astrologly-content
+          npm install
+
+      - name: Generate next week's horoscopes (all languages)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          cd astrologly-content
+          node scripts/generate-weekly-multilang.mjs --next
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add astrologly-content/weekly/*.json
+          git commit -m "📅 Generated next week's horoscopes (all languages)" || exit 0
+          git push
