@@ -1,0 +1,47 @@
+name: Calculate Astronomical Data
+
+on:
+  schedule:
+    # Run at 01:15 Israel Time (23:15 UTC previous day)
+    - cron: '15 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  calculate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          cd astrologly-content
+          npm install
+
+      - name: Calculate moon phase
+        run: |
+          cd astrologly-content
+          node scripts/calculate-moon-phase.mjs --target=tomorrow
+
+      - name: Update Mercury retrograde status
+        run: |
+          cd astrologly-content
+          node scripts/calculate-mercury-retrograde.mjs --target=tomorrow
+
+      - name: Calculate planetary transits
+        run: |
+          cd astrologly-content
+          node scripts/calculate-transits.mjs --target=tomorrow
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add astrologly-content/moon/*.json astrologly-content/mercury/*.json astrologly-content/transits/*.json
+          git commit -m "🌙 Updated astronomical data (moon, mercury, transits)" || exit 0
+          git push

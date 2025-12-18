@@ -30,7 +30,7 @@ async function loadPreviousDays(count = 3) {
       .sort()
       .reverse()
       .slice(0, count);
-    
+
     const previous = [];
     for (const file of jsonFiles) {
       try {
@@ -48,7 +48,7 @@ async function loadPreviousDays(count = 3) {
 
 function extractPreviousContent(previousDays, sign) {
   if (!previousDays.length) return '';
-  
+
   const sentences = new Set();
   previousDays.forEach(day => {
     const entry = day.entries?.[sign];
@@ -63,7 +63,7 @@ function extractPreviousContent(previousDays, sign) {
       });
     }
   });
-  
+
   return Array.from(sentences).slice(0, 20).join('\n');
 }
 
@@ -107,23 +107,23 @@ Return ONLY valid JSON:
 
   try {
     const completion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-nano',
       messages: [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: userPrompt }
       ],
       temperature: 0.7,
-      max_tokens: 800,
+      max_completion_tokens: 800,
       response_format: { type: 'json_object' }
     });
 
     const content = completion.choices[0].message.content;
     const horoscope = JSON.parse(content);
-    
+
     // Add static fields
     horoscope.author = 'Astrologly';
     horoscope.image = '';
-    
+
     // Ensure lucky numbers are integers
     if (horoscope.lucky_numbers) {
       horoscope.lucky_numbers = horoscope.lucky_numbers.map(n => parseInt(n));
@@ -134,7 +134,7 @@ Return ONLY valid JSON:
         Math.floor(Math.random() * 49) + 1
       ];
     }
-    
+
     // Validate word counts
     const counts = {
       headline: countWords(horoscope.headline),
@@ -143,23 +143,23 @@ Return ONLY valid JSON:
       career: countWords(horoscope.career),
       mood: countWords(horoscope.mood)
     };
-    
+
     console.log(`  ${signName} (attempt ${attempt}): headline=${counts.headline}, general=${counts.general}, love=${counts.love}, career=${counts.career}, mood=${counts.mood}`);
-    
+
     // Check if word counts are within acceptable range
-    const valid = 
+    const valid =
       counts.headline >= 6 && counts.headline <= 10 &&
       counts.general >= 90 && counts.general <= 140 &&
       counts.love >= 45 && counts.love <= 80 &&
       counts.career >= 45 && counts.career <= 80 &&
       counts.mood >= 20 && counts.mood <= 40;
-    
+
     if (!valid && attempt < 3) {
       console.log(`    Retrying ${signName} due to word count issues...`);
       await new Promise(resolve => setTimeout(resolve, 500));
       return generateSignHoroscope(sign, signName, targetDate, styleGuide, previousContent, attempt + 1);
     }
-    
+
     return horoscope;
   } catch (error) {
     console.error(`Error generating ${signName}:`, error.message);
@@ -175,7 +175,7 @@ Return ONLY valid JSON:
 async function generateAllHoroscopes(targetDate) {
   const styleGuide = await readFile(join(__dirname, '..', 'templates', 'STYLE_GUIDE.md'), 'utf-8');
   const previousDays = await loadPreviousDays(3);
-  
+
   const signs = [
     { slug: 'aries', name: 'Aries' },
     { slug: 'taurus', name: 'Taurus' },
@@ -190,15 +190,15 @@ async function generateAllHoroscopes(targetDate) {
     { slug: 'aquarius', name: 'Aquarius' },
     { slug: 'pisces', name: 'Pisces' }
   ];
-  
+
   const horoscopes = {
     date: targetDate,
     tz: 'Asia/Jerusalem',
     entries: {}
   };
-  
+
   console.log('Generating horoscopes for each sign...');
-  
+
   // Process signs one by one with retries
   for (const sign of signs) {
     const previousContent = extractPreviousContent(previousDays, sign.slug);
@@ -210,11 +210,11 @@ async function generateAllHoroscopes(targetDate) {
       previousContent
     );
     horoscopes.entries[sign.slug] = horoscope;
-    
+
     // Small delay between signs
     await new Promise(resolve => setTimeout(resolve, 500));
   }
-  
+
   return horoscopes;
 }
 
@@ -227,7 +227,7 @@ async function main() {
   const args = process.argv.slice(2);
   const targetFlag = args.find(a => a.startsWith('--target='));
   const target = targetFlag ? targetFlag.split('=')[1] : 'tomorrow';
-  
+
   let targetDate;
   if (target === 'tomorrow') {
     targetDate = getIsraelDate(1);
@@ -240,7 +240,7 @@ async function main() {
 
   const dailyDir = join(__dirname, '..', 'daily');
   const targetFile = join(dailyDir, `${targetDate}.json`);
-  
+
   // Check if file already exists
   if (existsSync(targetFile)) {
     console.log(`File ${targetDate}.json already exists. Skipping generation to maintain idempotency.`);
@@ -254,27 +254,27 @@ async function main() {
   }
 
   console.log(`Generating horoscopes for ${targetDate} (${target})...`);
-  
+
   try {
     const horoscopes = await generateAllHoroscopes(targetDate);
     const jsonContent = JSON.stringify(horoscopes, null, 2);
-    
+
     // Write dated file
     await writeFile(targetFile, jsonContent);
     console.log(`Created ${targetFile}`);
-    
+
     // Update next.json if generating tomorrow
     if (target === 'tomorrow') {
       await writeFile(join(dailyDir, 'next.json'), jsonContent);
       console.log('Updated next.json');
     }
-    
+
     // Update current.json if generating today
     if (target === 'today') {
       await writeFile(join(dailyDir, 'current.json'), jsonContent);
       console.log('Updated current.json');
     }
-    
+
     // Run validation
     console.log('Running validation...');
     try {
@@ -284,7 +284,7 @@ async function main() {
       console.error('❌ Validation failed. Please check the generated content.');
       process.exit(1);
     }
-    
+
   } catch (error) {
     console.error('Generation failed:', error.message);
     process.exit(1);

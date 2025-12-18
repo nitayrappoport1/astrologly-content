@@ -1,0 +1,39 @@
+name: Generate Daily Horoscopes (All Languages)
+
+on:
+  schedule:
+    # Run at 00:00 Israel Time (22:00 UTC previous day)
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          cd astrologly-content
+          npm install
+
+      - name: Generate tomorrow's horoscopes (all languages)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          cd astrologly-content
+          node scripts/generate-daily-multilang.mjs --target=tomorrow
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add astrologly-content/daily/*.json
+          git commit -m "🌟 Generated tomorrow's daily horoscopes (all languages)" || exit 0
+          git push

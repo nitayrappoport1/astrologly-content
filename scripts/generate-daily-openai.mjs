@@ -70,13 +70,12 @@ MUST be EXACTLY 7-9 words. Count each word carefully.
 Return only the headline text, no quotes or punctuation wrapping.`;
     
     const headlineCompletion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-nano',
       messages: [
         { role: 'system', content: `You are writing a horoscope headline. ${styleGuide}` },
         { role: 'user', content: headlinePrompt }
       ],
-      temperature: 0.8,
-      max_tokens: 50
+      max_completion_tokens: 50
     });
     if (!headlineCompletion.choices[0].message.content) {
       console.error(`Empty headline response for ${signName}`);
@@ -94,13 +93,12 @@ MUST be EXACTLY 110-130 words. Structure:
 Count every word carefully. Write engaging, varied content.${previousContent ? `\n\nAvoid these recent phrases:\n${previousContent.slice(0, 500)}` : ''}`;
     
     const generalCompletion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-nano',
       messages: [
         { role: 'system', content: `You are a professional astrologer. ${styleGuide}` },
         { role: 'user', content: generalPrompt }
       ],
-      temperature: 0.8,
-      max_tokens: 200
+      max_completion_tokens: 200
     });
     sections.general = generalCompletion.choices[0].message.content.trim();
 
@@ -113,13 +111,12 @@ Be specific and actionable.
 Count every word carefully.`;
     
     const loveCompletion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-nano',
       messages: [
         { role: 'system', content: `You are writing relationship advice. ${styleGuide}` },
         { role: 'user', content: lovePrompt }
       ],
-      temperature: 0.8,
-      max_tokens: 120
+      max_completion_tokens: 120
     });
     sections.love = loveCompletion.choices[0].message.content.trim();
 
@@ -131,13 +128,12 @@ Include practical, actionable advice.
 Count every word carefully.`;
     
     const careerCompletion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-nano',
       messages: [
         { role: 'system', content: `You are writing career guidance. ${styleGuide}` },
         { role: 'user', content: careerPrompt }
       ],
-      temperature: 0.8,
-      max_tokens: 120
+      max_completion_tokens: 120
     });
     sections.career = careerCompletion.choices[0].message.content.trim();
 
@@ -149,13 +145,12 @@ Be descriptive and evocative.
 Count every word carefully.`;
     
     const moodCompletion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
+      model: 'gpt-4.1-nano',
       messages: [
         { role: 'system', content: `You are describing today's mood. ${styleGuide}` },
         { role: 'user', content: moodPrompt }
       ],
-      temperature: 0.8,
-      max_tokens: 60
+      max_completion_tokens: 60
     });
     sections.mood = moodCompletion.choices[0].message.content.trim();
 
@@ -169,12 +164,12 @@ Count every word carefully.`;
 Return as JSON: {"numbers": [n1, n2, n3], "color": "color"}`;
       
       const luckyCompletion = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'gpt-4.1-nano',
         messages: [
           { role: 'user', content: luckyPrompt }
         ],
         temperature: 0.9,
-        max_tokens: 100,
+        max_completion_tokens: 100,
         response_format: { type: 'json_object' }
       });
       
@@ -221,10 +216,10 @@ Return as JSON: {"numbers": [n1, n2, n3], "color": "color"}`;
       console.log(`  Retrying general section for ${signName} (was ${generalWords} words)`);
       const retryPrompt = `Rewrite this to be EXACTLY ${generalWords < 110 ? '115' : '120'} words:\n\n${horoscope.general}\n\nMUST end with "Do this today:" followed by action.`;
       const retry = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'gpt-4.1-nano',
         messages: [{ role: 'user', content: retryPrompt }],
         temperature: 0.7,
-        max_tokens: 200
+        max_completion_tokens: 200
       });
       horoscope.general = retry.choices[0].message.content.trim();
     }
@@ -233,10 +228,10 @@ Return as JSON: {"numbers": [n1, n2, n3], "color": "color"}`;
       console.log(`  Retrying love section for ${signName} (was ${loveWords} words)`);
       const retryPrompt = `Rewrite this to be EXACTLY ${loveWords < 55 ? '60' : '63'} words:\n\n${horoscope.love}`;
       const retry = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'gpt-4.1-nano',
         messages: [{ role: 'user', content: retryPrompt }],
         temperature: 0.7,
-        max_tokens: 120
+        max_completion_tokens: 120
       });
       horoscope.love = retry.choices[0].message.content.trim();
     }
@@ -245,10 +240,10 @@ Return as JSON: {"numbers": [n1, n2, n3], "color": "color"}`;
       console.log(`  Retrying career section for ${signName} (was ${careerWords} words)`);
       const retryPrompt = `Rewrite this to be EXACTLY ${careerWords < 55 ? '60' : '63'} words:\n\n${horoscope.career}`;
       const retry = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'gpt-4.1-nano',
         messages: [{ role: 'user', content: retryPrompt }],
         temperature: 0.7,
-        max_tokens: 120
+        max_completion_tokens: 120
       });
       horoscope.career = retry.choices[0].message.content.trim();
     }
@@ -257,10 +252,10 @@ Return as JSON: {"numbers": [n1, n2, n3], "color": "color"}`;
       console.log(`  Retrying mood section for ${signName} (was ${moodWords} words)`);
       const retryPrompt = `Rewrite this to be EXACTLY ${moodWords < 25 ? '28' : '30'} words:\n\n${horoscope.mood}`;
       const retry = await openai.chat.completions.create({
-        model: 'gpt-4o-mini',
+        model: 'gpt-4.1-nano',
         messages: [{ role: 'user', content: retryPrompt }],
         temperature: 0.7,
-        max_tokens: 60
+        max_completion_tokens: 60
       });
       horoscope.mood = retry.choices[0].message.content.trim();
     }

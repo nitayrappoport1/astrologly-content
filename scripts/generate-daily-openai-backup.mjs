@@ -25,7 +25,7 @@ async function loadPreviousDays(count = 3) {
     .sort()
     .reverse()
     .slice(0, count);
-  
+
   const previous = [];
   for (const file of jsonFiles) {
     try {
@@ -40,7 +40,7 @@ async function loadPreviousDays(count = 3) {
 
 function extractPreviousContent(previousDays, sign) {
   if (!previousDays.length) return '';
-  
+
   const sentences = new Set();
   previousDays.forEach(day => {
     const entry = day.entries?.[sign];
@@ -55,7 +55,7 @@ function extractPreviousContent(previousDays, sign) {
       });
     }
   });
-  
+
   return Array.from(sentences).slice(0, 20).join('\n'); // Limit to avoid token overflow
 }
 
@@ -90,31 +90,30 @@ Return ONLY this JSON structure with NO other text:
 
   try {
     const completion = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',  // Using gpt-4o-mini for cost effectiveness
+      model: 'gpt-4.1-nano',  // Using gpt-5-nano for cost effectiveness
       messages: [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: userPrompt }
       ],
-      temperature: 0.8,
-      max_tokens: 1000,
+      max_completion_tokens: 1000,
       response_format: { type: 'json_object' }
     });
 
     const content = completion.choices[0].message.content;
     const horoscope = JSON.parse(content);
-    
+
     // Add static fields
     horoscope.author = 'Astrologly';
     horoscope.image = '';
-    
+
     // Validate word counts
     const generalWords = horoscope.general.trim().split(/\s+/).length;
     const loveWords = horoscope.love.trim().split(/\s+/).length;
     const careerWords = horoscope.career.trim().split(/\s+/).length;
     const moodWords = horoscope.mood.trim().split(/\s+/).length;
-    
+
     console.log(`  ${signName}: general=${generalWords}, love=${loveWords}, career=${careerWords}, mood=${moodWords}`);
-    
+
     return horoscope;
   } catch (error) {
     console.error(`Error generating ${signName}:`, error.message);
@@ -125,7 +124,7 @@ Return ONLY this JSON structure with NO other text:
 async function generateAllHoroscopes(targetDate) {
   const styleGuide = await readFile(join(__dirname, '..', 'templates', 'STYLE_GUIDE.md'), 'utf-8');
   const previousDays = await loadPreviousDays(3);
-  
+
   const signs = [
     { slug: 'aries', name: 'Aries' },
     { slug: 'taurus', name: 'Taurus' },
@@ -140,15 +139,15 @@ async function generateAllHoroscopes(targetDate) {
     { slug: 'aquarius', name: 'Aquarius' },
     { slug: 'pisces', name: 'Pisces' }
   ];
-  
+
   const horoscopes = {
     date: targetDate,
     tz: 'Asia/Jerusalem',
     entries: {}
   };
-  
+
   console.log('Generating horoscopes for each sign...');
-  
+
   // Process signs in batches of 3 to avoid rate limits
   for (let i = 0; i < signs.length; i += 3) {
     const batch = signs.slice(i, i + 3);
@@ -163,18 +162,18 @@ async function generateAllHoroscopes(targetDate) {
       );
       return { slug: sign.slug, horoscope };
     });
-    
+
     const results = await Promise.all(promises);
     results.forEach(({ slug, horoscope }) => {
       horoscopes.entries[slug] = horoscope;
     });
-    
+
     // Small delay between batches to avoid rate limits
     if (i + 3 < signs.length) {
       await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }
-  
+
   return horoscopes;
 }
 
@@ -187,7 +186,7 @@ async function main() {
   const args = process.argv.slice(2);
   const targetFlag = args.find(a => a.startsWith('--target='));
   const target = targetFlag ? targetFlag.split('=')[1] : 'tomorrow';
-  
+
   let targetDate;
   if (target === 'tomorrow') {
     targetDate = getIsraelDate(1);
@@ -200,7 +199,7 @@ async function main() {
 
   const dailyDir = join(__dirname, '..', 'daily');
   const targetFile = join(dailyDir, `${targetDate}.json`);
-  
+
   // Check if file already exists
   if (existsSync(targetFile)) {
     console.log(`File ${targetDate}.json already exists. Skipping generation to maintain idempotency.`);
@@ -214,21 +213,21 @@ async function main() {
   }
 
   console.log(`Generating horoscopes for ${targetDate} (${target})...`);
-  
+
   try {
     const horoscopes = await generateAllHoroscopes(targetDate);
     const jsonContent = JSON.stringify(horoscopes, null, 2);
-    
+
     // Write dated file
     await writeFile(targetFile, jsonContent);
     console.log(`Created ${targetFile}`);
-    
+
     // Update next.json if generating tomorrow
     if (target === 'tomorrow') {
       await writeFile(join(dailyDir, 'next.json'), jsonContent);
       console.log('Updated next.json');
     }
-    
+
     // Run validation
     console.log('Running validation...');
     try {
@@ -238,7 +237,7 @@ async function main() {
       console.error('Validation failed. Please check the generated content.');
       process.exit(1);
     }
-    
+
   } catch (error) {
     console.error('Generation failed:', error.message);
     process.exit(1);
