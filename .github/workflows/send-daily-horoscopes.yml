@@ -1,0 +1,29 @@
+name: Send Daily Horoscopes via Email
+
+on:
+  schedule:
+    # Runs at 12:00 UTC (7:00 AM EST / 8:00 AM EDT)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Allows manual trigger for testing
+
+jobs:
+  send-horoscopes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Send daily horoscopes
+        env:
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+        run: node scripts/send-daily-horoscopes.mjs
