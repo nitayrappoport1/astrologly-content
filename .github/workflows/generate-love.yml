@@ -19,21 +19,17 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: |
-          cd astrologly-content
-          npm install
+        run: npm install
 
       - name: Generate tomorrow's love horoscopes (all languages)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          cd astrologly-content
-          node scripts/generate-love-multilang.mjs --target=tomorrow
+        run: node scripts/generate-love-multilang.mjs --target=tomorrow
 
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add astrologly-content/love/*.json
-          git commit -m "💕 Generated tomorrow's love horoscopes (all languages)" || exit 0
+          git add love/*.json
+          git commit -m "Generated tomorrow's love horoscopes (all languages)" || exit 0
           git push
