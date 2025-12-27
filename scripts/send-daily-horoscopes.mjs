@@ -126,12 +126,21 @@ async function getContactsBySign(sign) {
 }
 
 /**
+ * Generate unsubscribe URL for email
+ */
+function getUnsubscribeUrl(email) {
+  const token = Buffer.from(email).toString('base64');
+  return `https://astrologly.com/api/unsubscribe?email=${encodeURIComponent(email)}&token=${encodeURIComponent(token)}`;
+}
+
+/**
  * Format horoscope content as HTML email
  */
-function formatEmailContent(sign, horoscope, date, language = 'en') {
+function formatEmailContent(sign, horoscope, date, language = 'en', email = '') {
   const symbol = SIGN_SYMBOLS[sign];
   const displayDate = formatDisplayDate(date, language);
   const signName = capitalize(sign);
+  const unsubscribeUrl = getUnsubscribeUrl(email);
 
   // Clean up markdown from general section
   const general = horoscope.general
@@ -201,7 +210,7 @@ function formatEmailContent(sign, horoscope, date, language = 'en') {
       <p style="margin: 0;">
         <a href="https://astrologly.com" style="color: #9ca3af;">Website</a> •
         <a href="https://astrologly.com/privacy" style="color: #9ca3af;">Privacy</a> •
-        <a href="{{{ unsubscribe_url }}}" style="color: #9ca3af;">Unsubscribe</a>
+        <a href="${unsubscribeUrl}" style="color: #9ca3af;">Unsubscribe</a>
       </p>
     </div>
   </div>
@@ -234,7 +243,7 @@ async function sendHoroscopeEmails(sign, horoscope, date) {
     // Resend API uses snake_case: first_name, last_name
     const language = contact.last_name?.toLowerCase() || 'en';
     const subject = `${symbol} Your ${signName} Horoscope for Today`;
-    const html = formatEmailContent(sign, horoscope, date, language);
+    const html = formatEmailContent(sign, horoscope, date, language, contact.email);
 
     try {
       const { error } = await resend.emails.send({
