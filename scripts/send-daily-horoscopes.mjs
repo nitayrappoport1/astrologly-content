@@ -200,7 +200,8 @@ function formatEmailContent(sign, horoscope, date, language = 'en') {
       <p style="margin: 0 0 8px 0;">© ${new Date().getFullYear()} Astrologly. All rights reserved.</p>
       <p style="margin: 0;">
         <a href="https://astrologly.com" style="color: #9ca3af;">Website</a> •
-        <a href="https://astrologly.com/privacy" style="color: #9ca3af;">Privacy</a>
+        <a href="https://astrologly.com/privacy" style="color: #9ca3af;">Privacy</a> •
+        <a href="{{{ unsubscribe_url }}}" style="color: #9ca3af;">Unsubscribe</a>
       </p>
     </div>
   </div>
