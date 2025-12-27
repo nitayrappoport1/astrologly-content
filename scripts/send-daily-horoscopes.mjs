@@ -1,10 +1,11 @@
 /**
- * Send Daily Horoscopes to Beehiiv Segments
+ * Send Daily Horoscopes via Resend
  *
  * This script reads today's horoscope content from the daily JSON files
- * and sends personalized emails to each zodiac sign segment via Beehiiv API.
+ * and sends personalized emails to each zodiac sign subscriber via Resend API.
  */
 
+import { Resend } from 'resend';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -12,8 +13,9 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BEEHIIV_API_KEY = process.env.BEEHIIV_API_KEY;
-const BEEHIIV_PUBLICATION_ID = process.env.BEEHIIV_PUBLICATION_ID;
+const resend = new Resend(process.env.RESEND_API_KEY);
+const AUDIENCE_ID = process.env.RESEND_AUDIENCE_ID;
+const FROM_EMAIL = process.env.RESEND_FROM_EMAIL || 'horoscope@astrologly.com';
 
 const SIGNS = [
   'aries', 'taurus', 'gemini', 'cancer', 'leo', 'virgo',
@@ -47,9 +49,17 @@ function getTodayDate() {
 /**
  * Format date for display
  */
-function formatDisplayDate(dateStr) {
+function formatDisplayDate(dateStr, language = 'en') {
   const date = new Date(dateStr + 'T00:00:00');
-  return date.toLocaleDateString('en-US', {
+  const locales = {
+    en: 'en-US',
+    es: 'es-ES',
+    fr: 'fr-FR',
+    pt: 'pt-BR',
+    de: 'de-DE',
+    it: 'it-IT'
+  };
+  return date.toLocaleDateString(locales[language] || 'en-US', {
     weekday: 'long',
     year: 'numeric',
     month: 'long',
@@ -79,36 +89,48 @@ function getHoroscopeContent(date) {
 }
 
 /**
- * Get segment ID by name from Beehiiv
+ * Get all contacts for a specific zodiac sign
  */
-async function getSegmentId(segmentName) {
-  const response = await fetch(
-    `https://api.beehiiv.com/v2/publications/${BEEHIIV_PUBLICATION_ID}/segments`,
-    {
-      headers: {
-        'Authorization': `Bearer ${BEEHIIV_API_KEY}`,
-        'Content-Type': 'application/json'
+async function getContactsBySign(sign) {
+  const contacts = [];
+  let cursor = undefined;
+
+  try {
+    do {
+      const params = { audienceId: AUDIENCE_ID };
+      if (cursor) params.cursor = cursor;
+
+      const { data, error } = await resend.contacts.list(params);
+
+      if (error) {
+        console.error('Error fetching contacts:', error);
+        break;
       }
-    }
-  );
 
-  if (!response.ok) {
-    const error = await response.text();
-    console.error('Failed to fetch segments:', error);
-    return null;
+      if (data?.data) {
+        // Filter by sign (stored in first_name field - Resend uses snake_case)
+        const signContacts = data.data.filter(
+          contact => contact.first_name?.toLowerCase() === sign.toLowerCase() && !contact.unsubscribed
+        );
+        contacts.push(...signContacts);
+      }
+
+      cursor = data?.cursor;
+    } while (cursor);
+
+    return contacts;
+  } catch (error) {
+    console.error(`Error getting contacts for ${sign}:`, error);
+    return [];
   }
-
-  const data = await response.json();
-  const segment = data.data?.find(s => s.name.toLowerCase() === segmentName.toLowerCase());
-  return segment?.id;
 }
 
 /**
  * Format horoscope content as HTML email
  */
-function formatEmailContent(sign, horoscope, date) {
+function formatEmailContent(sign, horoscope, date, language = 'en') {
   const symbol = SIGN_SYMBOLS[sign];
-  const displayDate = formatDisplayDate(date);
+  const displayDate = formatDisplayDate(date, language);
   const signName = capitalize(sign);
 
   // Clean up markdown from general section
@@ -122,59 +144,65 @@ function formatEmailContent(sign, horoscope, date) {
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body { font-family: Georgia, serif; line-height: 1.7; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; }
-    h1 { color: #6b46c1; font-size: 28px; margin-bottom: 5px; }
-    h2 { color: #553c9a; font-size: 20px; margin-top: 25px; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; }
-    .date { color: #718096; font-size: 14px; margin-bottom: 20px; }
-    .headline { font-style: italic; color: #553c9a; font-size: 18px; margin-bottom: 20px; }
-    .section { margin-bottom: 20px; }
-    .lucky-box { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 12px; margin: 25px 0; }
-    .lucky-box h3 { margin-top: 0; color: white; }
-    .cta-button { display: inline-block; background: #6b46c1; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; margin-top: 20px; }
-    .footer { margin-top: 30px; padding-top: 20px; border-top: 1px solid #e2e8f0; font-size: 12px; color: #718096; }
-  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>${signName} Daily Horoscope</title>
 </head>
-<body>
-  <h1>${symbol} ${signName} Daily Horoscope</h1>
-  <p class="date">${displayDate}</p>
+<body style="margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background-color: #f4f4f5;">
+  <div style="max-width: 600px; margin: 0 auto; padding: 20px;">
+    <div style="background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); border-radius: 16px; padding: 32px; color: white; text-align: center;">
+      <div style="font-size: 48px; margin-bottom: 16px;">${symbol}</div>
+      <h1 style="margin: 0 0 8px 0; font-size: 28px;">${signName} Daily Horoscope</h1>
+      <p style="margin: 0; opacity: 0.8;">${displayDate}</p>
+    </div>
 
-  <p class="headline">"${horoscope.headline}"</p>
+    <div style="background: white; border-radius: 16px; padding: 32px; margin-top: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+      <p style="font-size: 18px; font-style: italic; color: #6366f1; border-left: 4px solid #6366f1; padding-left: 16px; margin: 0 0 24px 0;">
+        "${horoscope.headline}"
+      </p>
 
-  <div class="section">
-    <p>${general}</p>
-  </div>
+      <p style="font-size: 16px; line-height: 1.7; color: #374151; margin: 0 0 24px 0;">
+        ${general}
+      </p>
 
-  <h2>Love & Relationships</h2>
-  <div class="section">
-    <p>${horoscope.love}</p>
-  </div>
+      <div style="background: #f9fafb; border-radius: 12px; padding: 20px; margin-bottom: 16px;">
+        <h3 style="margin: 0 0 12px 0; color: #1f2937; font-size: 16px;">💕 Love & Relationships</h3>
+        <p style="margin: 0; color: #4b5563; line-height: 1.6;">${horoscope.love}</p>
+      </div>
 
-  <h2>Career & Finance</h2>
-  <div class="section">
-    <p>${horoscope.career}</p>
-  </div>
+      <div style="background: #f9fafb; border-radius: 12px; padding: 20px; margin-bottom: 16px;">
+        <h3 style="margin: 0 0 12px 0; color: #1f2937; font-size: 16px;">💼 Career & Finance</h3>
+        <p style="margin: 0; color: #4b5563; line-height: 1.6;">${horoscope.career}</p>
+      </div>
 
-  <h2>Today's Mood</h2>
-  <div class="section">
-    <p>${horoscope.mood}</p>
-  </div>
+      <div style="background: #f9fafb; border-radius: 12px; padding: 20px; margin-bottom: 16px;">
+        <h3 style="margin: 0 0 12px 0; color: #1f2937; font-size: 16px;">🌟 Today's Mood</h3>
+        <p style="margin: 0; color: #4b5563; line-height: 1.6;">${horoscope.mood}</p>
+      </div>
 
-  <div class="lucky-box">
-    <h3>Today's Lucky Elements</h3>
-    <p><strong>Lucky Numbers:</strong> ${horoscope.lucky_numbers.join(', ')}</p>
-    <p><strong>Lucky Color:</strong> ${capitalize(horoscope.lucky_color)}</p>
-  </div>
+      <div style="background: linear-gradient(135deg, #fdf4ff 0%, #faf5ff 100%); border-radius: 12px; padding: 20px; text-align: center;">
+        <h3 style="margin: 0 0 12px 0; color: #7c3aed; font-size: 16px;">✨ Lucky Elements</h3>
+        <p style="margin: 0; color: #6b7280;">
+          <strong>Numbers:</strong> ${horoscope.lucky_numbers?.join(', ') || 'N/A'}<br>
+          <strong>Color:</strong> ${capitalize(horoscope.lucky_color || 'N/A')}
+        </p>
+      </div>
 
-  <p style="text-align: center;">
-    <a href="https://astrologly.com/horoscope/today/${sign}" class="cta-button">
-      Read Full Horoscope on Astrologly
-    </a>
-  </p>
+      <div style="text-align: center; margin-top: 32px;">
+        <a href="https://astrologly.com/horoscope/today/${sign}"
+           style="display: inline-block; background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); color: white; text-decoration: none; padding: 14px 32px; border-radius: 8px; font-weight: 600;">
+          Read Full Horoscope →
+        </a>
+      </div>
+    </div>
 
-  <div class="footer">
-    <p>Sent with cosmic love by <a href="https://astrologly.com">Astrologly</a></p>
-    <p>You're receiving this because you subscribed to ${signName} horoscopes.</p>
+    <div style="text-align: center; padding: 24px; color: #9ca3af; font-size: 12px;">
+      <p style="margin: 0 0 8px 0;">© ${new Date().getFullYear()} Astrologly. All rights reserved.</p>
+      <p style="margin: 0;">
+        <a href="https://astrologly.com" style="color: #9ca3af;">Website</a> •
+        <a href="https://astrologly.com/privacy" style="color: #9ca3af;">Privacy</a>
+      </p>
+    </div>
   </div>
 </body>
 </html>
@@ -182,50 +210,56 @@ function formatEmailContent(sign, horoscope, date) {
 }
 
 /**
- * Send horoscope email to a specific segment
+ * Send horoscope emails to all subscribers of a specific sign
  */
-async function sendHoroscopeEmail(sign, horoscope, date) {
-  const segmentName = `${capitalize(sign)} Subscribers`;
-  const segmentId = await getSegmentId(segmentName);
+async function sendHoroscopeEmails(sign, horoscope, date) {
+  const contacts = await getContactsBySign(sign);
 
-  if (!segmentId) {
-    console.log(`  Segment not found: "${segmentName}", skipping...`);
-    return false;
+  if (contacts.length === 0) {
+    console.log(`  No subscribers for ${capitalize(sign)}`);
+    return { sent: 0, failed: 0 };
   }
 
-  const signName = capitalize(sign);
+  console.log(`  Found ${contacts.length} ${capitalize(sign)} subscribers`);
+
   const symbol = SIGN_SYMBOLS[sign];
-  const emailContent = formatEmailContent(sign, horoscope, date);
+  const signName = capitalize(sign);
 
-  // Create and send post
-  const response = await fetch(
-    `https://api.beehiiv.com/v2/publications/${BEEHIIV_PUBLICATION_ID}/posts`,
-    {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${BEEHIIV_API_KEY}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        title: `${symbol} Your ${signName} Horoscope for Today`,
-        subtitle: horoscope.headline,
-        content: emailContent,
-        segment_ids: [segmentId],
-        status: 'confirmed', // Sends immediately
-        send_to_email: true,
-        send_to_web: false
-      })
+  let sent = 0;
+  let failed = 0;
+
+  // Send emails individually (Resend batch has limitations)
+  for (const contact of contacts) {
+    // Resend API uses snake_case: first_name, last_name
+    const language = contact.last_name?.toLowerCase() || 'en';
+    const subject = `${symbol} Your ${signName} Horoscope for Today`;
+    const html = formatEmailContent(sign, horoscope, date, language);
+
+    try {
+      const { error } = await resend.emails.send({
+        from: `Astrologly <${FROM_EMAIL}>`,
+        to: contact.email,
+        subject,
+        html,
+      });
+
+      if (error) {
+        console.error(`    ✗ Failed ${contact.email}: ${error.message}`);
+        failed++;
+      } else {
+        sent++;
+      }
+
+      // Rate limiting - wait 100ms between requests
+      await new Promise(resolve => setTimeout(resolve, 100));
+
+    } catch (error) {
+      console.error(`    ✗ Error ${contact.email}: ${error.message}`);
+      failed++;
     }
-  );
-
-  if (response.ok) {
-    console.log(`  ${symbol} Sent to ${signName} Subscribers`);
-    return true;
-  } else {
-    const error = await response.json();
-    console.error(`  Failed to send to ${signName}:`, error);
-    return false;
   }
+
+  return { sent, failed };
 }
 
 /**
@@ -234,11 +268,12 @@ async function sendHoroscopeEmail(sign, horoscope, date) {
 async function main() {
   console.log('===========================================');
   console.log('   Astrologly Daily Horoscope Sender');
+  console.log('        (Powered by Resend)');
   console.log('===========================================\n');
 
-  if (!BEEHIIV_API_KEY || !BEEHIIV_PUBLICATION_ID) {
-    console.error('Error: Missing Beehiiv credentials!');
-    console.error('Please set BEEHIIV_API_KEY and BEEHIIV_PUBLICATION_ID environment variables.');
+  if (!process.env.RESEND_API_KEY || !AUDIENCE_ID) {
+    console.error('Error: Missing Resend credentials!');
+    console.error('Please set RESEND_API_KEY and RESEND_AUDIENCE_ID environment variables.');
     process.exit(1);
   }
 
@@ -256,35 +291,41 @@ async function main() {
     process.exit(1);
   }
 
-  console.log('Sending horoscopes to segments...\n');
+  console.log('Sending horoscopes to subscribers...\n');
 
-  let successCount = 0;
-  let failCount = 0;
+  let totalSent = 0;
+  let totalFailed = 0;
 
   for (const sign of SIGNS) {
     const horoscope = horoscopeData.entries[sign];
 
     if (!horoscope) {
       console.log(`  Warning: No horoscope data for ${sign}`);
-      failCount++;
+      totalFailed++;
       continue;
     }
 
-    try {
-      const success = await sendHoroscopeEmail(sign, horoscope, today);
-      if (success) successCount++;
-      else failCount++;
+    console.log(`\n${SIGN_SYMBOLS[sign]} ${capitalize(sign)}:`);
 
-      // Rate limiting - wait 2 seconds between requests
-      await new Promise(resolve => setTimeout(resolve, 2000));
+    try {
+      const { sent, failed } = await sendHoroscopeEmails(sign, horoscope, today);
+      totalSent += sent;
+      totalFailed += failed;
+
+      if (sent > 0) {
+        console.log(`  ✓ Sent: ${sent}${failed > 0 ? `, Failed: ${failed}` : ''}`);
+      }
+
+      // Rate limiting - wait 1 second between signs
+      await new Promise(resolve => setTimeout(resolve, 1000));
     } catch (error) {
       console.error(`  Error sending ${sign}: ${error.message}`);
-      failCount++;
+      totalFailed++;
     }
   }
 
   console.log('\n===========================================');
-  console.log(`   Complete! Sent: ${successCount}, Failed: ${failCount}`);
+  console.log(`   Complete! Sent: ${totalSent}, Failed: ${totalFailed}`);
   console.log('===========================================');
 }
 

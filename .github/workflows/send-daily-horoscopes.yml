@@ -2,8 +2,8 @@ name: Send Daily Horoscopes via Email
 
 on:
   schedule:
-    # Runs at 12:00 UTC (7:00 AM EST / 8:00 AM EDT)
-    - cron: '0 12 * * *'
+    # Runs at 14:00 UTC (6:00 AM PST / 7:00 AM PDT in LA)
+    - cron: '0 14 * * *'
   workflow_dispatch: # Allows manual trigger for testing
 
 jobs:
@@ -24,6 +24,7 @@ jobs:
 
       - name: Send daily horoscopes
         env:
-          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
-          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
         run: node scripts/send-daily-horoscopes.mjs
