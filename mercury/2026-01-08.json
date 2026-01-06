@@ -1,0 +1,18 @@
+{
+  "date": "2026-01-08",
+  "status": "direct",
+  "currentPeriod": null,
+  "nextPeriod": {
+    "starts": "2026-02-26",
+    "ends": "2026-03-20",
+    "sign": "pisces"
+  },
+  "descriptions": {
+    "en": "Mercury is direct and moving forward smoothly. This is a favorable time for communication, contracts, technology purchases, and travel plans. Express yourself clearly and make important decisions with confidence.",
+    "es": "Mercurio está directo y avanzando sin problemas. Este es un momento favorable para la comunicación, contratos, compras de tecnología y planes de viaje. Exprésese claramente y tome decisiones importantes con confianza.",
+    "fr": "Mercure est direct et avance en douceur. C'est une période favorable pour la communication, les contrats, les achats technologiques et les projets de voyage. Exprimez-vous clairement et prenez des décisions importantes avec confiance.",
+    "pt": "Mercúrio está direto e avançando suavemente. Este é um momento favorável para comunicação, contratos, compras de tecnologia e planos de viagem. Expresse-se claramente e tome decisões importantes com confiança.",
+    "it": "Mercurio è diretto e si muove in avanti senza problemi. Questo è un momento favorevole per la comunicazione, i contratti, gli acquisti tecnologici e i piani di viaggio. Esprimetevi chiaramente e prendete decisioni importanti con fiducia.",
+    "de": "Merkur ist direktläufig und bewegt sich reibungslos vorwärts. Dies ist eine günstige Zeit für Kommunikation, Verträge, Technologiekäufe und Reisepläne. Drücken Sie sich klar aus und treffen Sie wichtige Entscheidungen mit Zuversicht."
+  }
+}
