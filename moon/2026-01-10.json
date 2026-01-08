@@ -1,0 +1,14 @@
+{
+  "date": "2026-01-10",
+  "phase": "last_quarter",
+  "illumination": 0.55,
+  "zodiac_sign": "leo",
+  "descriptions": {
+    "en": "The Last Quarter Moon is a time for release and forgiveness. Let go of what no longer serves you.",
+    "es": "La Luna del Último Cuarto es un momento de liberación y perdón. Suelte lo que ya no le sirve.",
+    "fr": "Le Dernier Quartier de Lune est un temps de libération et de pardon. Lâchez ce qui ne vous sert plus.",
+    "pt": "A Lua do Último Quarto é um momento de liberação e perdão. Deixe ir o que não mais lhe serve.",
+    "it": "L'Ultimo Quarto di Luna è un tempo di rilascio e perdono. Lascia andare ciò che non ti serve più.",
+    "de": "Das Letzte Viertel des Mondes ist eine Zeit der Befreiung und Vergebung. Lassen Sie los, was Ihnen nicht mehr dient."
+  }
+}
