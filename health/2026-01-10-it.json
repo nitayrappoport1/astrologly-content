@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-10",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Ariete, il 10 gennaio 2026 è un ottimo giorno per dedicarti alla cura del tuo corpo. Sfrutta questa giornata per praticare attività energizzanti come una passeggiata all'aperto o una sessione di yoga. Cura l’alimentazione, scegli cibi freschi e nutritivi, e ricorda di idratarti adeguatamente. Riposa bene per mantenere alto il livello di energia e benessere.",
+      "mental": "Cara Ariete, il 10 gennaio 2026, prenditi del tempo per respirare profondamente e praticare la mindfulness. Ricorda di ascoltare le tue emozioni senza giudizio e di dedicare momenti alla meditazione. Mantieni la calma di fronte alle sfide, focalizzandoti sul presente. Il benessere mentale nasce dal riconoscere i tuoi bisogni e coltivare gentilezza verso te stessa.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 10 gennaio 2026 dedicati a migliorare il benessere fisico: fai una passeggiata di 30 minuti all'aperto, bevi molta acqua e mangia alimenti energizzanti come frutta e verdura fresca. Dedica attenzione all’igiene del corpo e dormi almeno 7-8 ore per rinforzare energia e vitalità. Cuida di te con amore quotidianamente.",
+      "mental": "Toro, il 10 gennaio 2026 è un buon momento per dedicarti alla calma interiore. Pratica la respirazione profonda e la meditazione quotidiana per ridurre lo stress. Concentrati su pensieri positivi e lasciar andare le preoccupazioni. Ricorda di concederti momenti di pausa e ascoltare il tuo respiro, coltivando equilibrio e serenità mentale ogni giorno.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per migliorare il benessere fisico il 10 gennaio 2026, dedicati a un' alimentazione equilibrata ricca di frutta, verdura e proteine magre. Riserva almeno 30 minuti per un’attività aerobica moderata, come camminate veloci o yoga, favorendo energia e vitalità. Ricorda di idratarti adeguatamente e di ascoltare i segnali del tuo corpo per un’efficace cura di te.",
+      "mental": "Il 10 gennaio 2026, i Gemelli troveranno beneficio nel dedicare tempo alla meditazione quotidiana e alla respirazione consapevole. Prenditi momenti per riflettere sui tuoi sentimenti e scrivi un diario. Mantieni un equilibrio tra attività e riposo, praticando tecniche di rilassamento per gestire lo stress. Coltiva gentilezza verso te stesso e cerca il supporto di amici e familiari.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per i Cancro, il 10 gennaio 2026 è importante dedicare attenzione al proprio benessere fisico. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine. Integra esercizi moderati come camminate o yoga per migliorare energia e relax. Ricorda di idratarti bene e di ascoltare il corpo, concedendoti momenti di riposo per riequilibrare energia e salute complessiva.",
+      "mental": "Il 10 gennaio 2026, Cancro, dedica tempo alla meditazione e alla respirazione profonda per migliorare la chiarezza mentale. Coltiva l’autocompassione, ascoltando le tue emozioni senza giudizio. Pratica tecniche di rilassamento e lasciati andare alle attività che ti portano serenità. Ricorda di creare spazio per il riposo e di circondarti di energie positive.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Leone, il 10 gennaio 2026, dedica attenzione al benessere fisico. Attiva una routine quotidiana di esercizio moderato, come camminate o yoga, per aumentare energia e flessibilità. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine. Ricorda di idratarti correttamente e di riposare a sufficienza. Il cura del corpo favorisce il benessere generale e vitalità.",
+      "mental": "Caro Leone, il 10 gennaio 2026, dedicati alla pratica quotidiana di mindfulness, respirazioni profonde e meditazione per migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio e di concederti pause di respiro e riflessione per gestire lo stress. Coltiva l’equilibrio emotivo attraverso attività rilassanti e momenti di gratitudine.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Per la Vergine il 10 gennaio 2026, concentrati su un’Alimentazione equilibrata e ricca di fibre, acqua e vitamine. Dedica del tempo a praticare esercizio fisico leggero come yoga o camminate quotidiane per migliorare energia e benessere. Cura attentamente la tua igiene personale e riposa sufficientemente per rigenerare corpo e mente. Ascolta il tuo corpo e prendi pause quando necessario.",
+      "mental": "Il 10 gennaio 2026, Vergine, concentra la tua energia nella pratica della mindfulness quotidiana. Dedica alcuni minuti al giorno alla meditazione o alla respirazione profonda per calmare la mente e ridurre lo stress. Cerca di affrontare le sfide con serenità, abbracciando l’imperfezione. Ricorda che il benessere emotivo si costruisce con cura e attenzione costante.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per i Bilancia del 10 gennaio 2026, dedicati a una routine di esercizio equilibrata, come yoga o passeggiate all’aperto. Mantieni una dieta equilibrata, ricca di frutta, verdura e proteine leggere. Dormi abbastanza e idratati con regolarità. Prenditi cura del corpo con massaggi o tecniche di rilassamento, migliorando energia e benessere generale.",
+      "mental": "Il 10 gennaio 2026, Bilancia, concentrati su pratiche di mindfulness come la meditazione quotidiana e la respirazione profonda per favorire chiarezza mentale. Trova equilibrio dedicando tempo alle attività che ti appassionano e circondandoti di persone positive. Ricorda di ascoltare le tue emozioni senza giudizio, gestendo lo stress con pause rigenerative e pratiche di gratitudine.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 10 gennaio 2026, Scorpione dovrebbe concentrarsi sul migliorare la propria energia attraverso attività fisiche moderate come yoga o passeggiate all'aperto. È importante dedicare tempo alla cura del corpo, mantenendo una dieta equilibrata e idratandosi adeguatamente. Riposare a sufficienza aiuta a rinvigorire mente e corpo, favorendo il benessere complessivo.",
+      "mental": "Il 10 gennaio 2026, per gli Scorpione è fondamentale dedicare tempo alla meditazione e alla respirazione profonda, per promuovere la chiarezza mentale e l’equilibrio emotivo. Cerca di affrontare le sfide con calma, riconoscendo i tuoi sentimenti senza giudizio. Pratica il journaling quotidiano per elaborare emozioni e rafforzare il benessere psico-emotivo, mantenendo sempre un focus sulla consapevolezza.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 10 gennaio 2026, Sagittario dovrebbe concentrarsi su esercizi cardiovascolari, come camminate veloci o corsa leggera, per migliorare energia e vitalità. Dedica attenzione alla cura del corpo, con idratazione costante e alimentazione equilibrata ricca di frutta e verdura. Riposa adeguatamente e ascolta i segnali del tuo corpo per mantenere benessere e equilibrio giornaliero.",
+      "mental": "Il 10 gennaio 2026, Sagittario, concentrati sulla chiarezza mentale praticando la meditazione quotidiana. Coltiva l’equilibrio emotivo dedicando tempo alle attività che ti appassionano e ti rilassano. Gestisci lo stress con tecniche di respirazione profonda e ascolta il tuo corpo. Ricorda di essere gentile con te stesso, accettando le emozioni senza giudizio, per un benessere duraturo.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 10 gennaio 2026, i Capricorno dovrebbero concentrarsi su un equilibrio tra attività fisica e riposo. Dedica del tempo a esercizi leggeri come yoga o passeggiate all’aperto, che migliorano energia e benessere. Cura l’alimentazione, privilegiando cibi nutrienti e idratazione. Ricorda di ascoltare il tuo corpo e concederti pause per mantenere vitalità e salute durature.",
+      "mental": "Il 10 gennaio 2026, il Capricorno può beneficiare di pratiche di meditazione quotidiana per migliorare la chiarezza mentale. Dedica spazio alla riflessione, journaling e respiri profondi per mantenere l’equilibrio emotivo. Gestisci lo stress concedendoti pause rigeneranti e ascoltando il tuo corpo. Ricorda che concederti tempo e cura personale rinforza il benessere mentale e emotivo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 10 gennaio 2026, Acquario, dedicati alla cura del corpo. Fai attività fisica moderata come una passeggiata, yoga o stretching per aumentare energia e benessere. Idratati adeguatamente e segui una dieta equilibrata ricca di frutta, verdura e proteine leggere. Concediti momenti di rilassamento per ridurre lo stress e migliorare la vitalità complessiva.",
+      "mental": "Per l’Acquario del 10 gennaio 2026, concentrati sulla calma interiore praticando tecniche di respirazione e meditazione quotidiana. Ricorda di dedicare tempo al relax, evitando sovraccarichi emotivi. Coltiva la consapevolezza attraverso momenti di gratitudine e journaling. Mantieni mente aperta e flessibile, affrontando le sfide con calma e compassione verso te stesso e gli altri.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 10 gennaio 2026, i Pesci possono migliorare la loro salute fisica dedicando attenzione all'alimentazione equilibrata e all'idratazione. Incorporate esercizi dolci come yoga o nuoto per mantenersi energici e rilassati. Potrebbe essere utile dedicare tempo alla cura della pelle e al riposo, favorendo il benessere complessivo e riequilibrando energia e vitalità.",
+      "mental": "Cari Pesci, nel 2026-01-10, dedicati a praticare la mindfulness quotidiana per migliorare la chiarezza mentale e l’equilibrio emotivo. Prenditi del tempo per respirare profondamente quando senti stress, e scrivi un diario per rilasciare emozioni. Ricorda di essere gentile con te stesso e di coltivare momenti di calma e gratitudine ogni giorno.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
