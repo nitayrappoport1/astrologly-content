@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-11",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Per Ariete il 2026-01-11, dedicati a una routine equilibrata di esercizio fisico, preferibilmente attività energizzanti come yoga o una camminata all'aperto. Mantieni una dieta ricca di frutta, verdura e proteine leggere. Ricorda di idratarti frequentemente e di ascoltare il tuo corpo, concedendoti pause rigeneranti per migliorare il benessere e aumentare l’energia durante la giornata.",
+      "mental": "Il 11 gennaio 2026, Ariete, dedicati alla mindfulness per calmare la mente. Pratica respirazioni profonde e journaling per liberare stress e ritrovare chiarezza. Ricorda di ascoltare le tue emozioni senza giudizio. Concediti pause rigeneranti e circondati di pensieri positivi. Il tuo equilibrio interiore ti aiuterà a affrontare con serenità ogni sfida.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 11 gennaio 2026, dedicati alla cura del tuo corpo. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine magre. Fai almeno 30 minuti di esercizio aerobico, come camminare o nuotare, per aumentare energia e vitalità. Ricorda di idratarti adeguatamente e di ascoltare sempre i segnali del tuo corpo. Prenditi cura di te!",
+      "mental": "Toro, il 11 gennaio 2026, concentra l’attenzione sulla cura della tua mente ed emozioni. Dedica momenti di riflessione quotidiana, pratichi la respirazione profonda e la meditazione per favorire la chiarezza mentale. Gestisci lo stress con attività piacevoli e lasciati guidare dall’autenticità delle tue emozioni, trovando equilibrio e serenità nel presente.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Il 11 gennaio 2026, coltiva il benessere fisico dedicando attenzione all’alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti a esercizi cardiovascolari o stretching, migliorando energia e flessibilità. Idratati regolarmente e riposa a sufficienza per favorire il recupero muscolare. Ascolta il tuo corpo e prendi pause rilassanti ogni giorno.",
+      "mental": "Cari Gemelli, il 2026-01-11 sarà un giorno ideale per coltivare la calma interiore. Dedica qualche minuto alla meditazione o alla respirazione profonda per chiarire la mente. Cerca di ascoltare le tue emozioni senza giudizio, praticando gentilezza verso te stesso. Studia i tuoi pensieri e mantieni un atteggiamento di gratitudine, facilitando equilibrio e serenità.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 11 gennaio 2026, dedica attenzione al tuo benessere fisico. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre. Fai esercizio leggero come camminate o yoga per migliorare energia e flessibilità. Riposa adeguatamente e idratati con acqua. Ascolta il tuo corpo, evitando eccessi, e cura il sonno per affrontare la giornata con vitalità.",
+      "mental": "Il 11 gennaio 2026, Cancro, concentrati sulla pratica quotidiana di mindfulness per ritrovare equilibrio emotivo. Prenditi del tempo per riflettere e scaricare le tensioni, magari attraverso tecniche di respirazione profonda o journaling. Ricorda di ascoltare il tuo cuore e chiedere supporto quando necessario, coltivando così una mente chiara e uno spirito sereno.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Leone, per migliorare il tuo benessere fisico, dedica almeno 30 minuti quotidiani a esercizi cardiovascolari come camminate veloci o stretching. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine magre. Idratati adeguatamente e cura il riposo notturno. Ricorda di ascoltare il tuo corpo e fare pause quando necessario per mantenere alta energia e vitalità.",
+      "mental": "Leone, il 11 gennaio 2026 è un momento ideale per dedicarti alla calma e alla riflessione. Pratica la mindfulness quotidiana, respira profondamente e prendi qualche minuto per meditare. Ricorda di ascoltare le tue emozioni senza giudizio e di coltivare pensieri positivi. Cura il tuo benessere interiore per affrontare ogni sfida con serenità e chiarezza.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 2026-01-11, Vergine, concentrati sulla cura del corpo attraverso un’alimentazione equilibrata e idratazione adeguata. Dedica del tempo a esercizi di stretching e yoga per aumentare energia e flessibilità. Dormi bene, evita stress e ascolta il tuo corpo. Piccoli cambiamenti quotidiani porteranno benessere duraturo, migliorando vitalità e armonia fisica.",
+      "mental": "Vergine, il 11 gennaio 2026 è il momento perfetto per dedicarti alla cura della tua mente e del tuo cuore. Pratica la meditazione quotidiana, respira profondamente e prendi pause di riflessione. Ricorda di ascoltare le tue emozioni, scrivile e circondati di persone positive. Mantieni un diario di gratitudine per rafforzare il benessere emotivo e trovare equilibrio interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per Bilancia il 11 gennaio 2026, concentrati su un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti a esercizi moderati come yoga, passeggiate o stretching per mantenere energia e vitalità. Ricorda di idratarti adeguatamente e di riposare abbastanza. Prenditi cura del benessere del corpo, ascoltando i tuoi bisogni.",
+      "mental": "Il 11 gennaio 2026, la Bilancia si trovi a cercare equilibrio interiore. Dedica del tempo a pratiche di mindfulness, come la meditazione o la respirazione profonda, per ridurre lo stress. Concentrati su ciò che ti rende felice, mantieni chiarezza mentale evitando decisioni affrettate e coltiva relazioni positive per sostenere il tuo benessere emotivo.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 2026-01-11, i nativi dello Scorpione si sentiranno energici. Dedica del tempo a esercizi di stretching o yoga per rilassare corpo e mente. Curare alimentazione equilibrata e idratazione è fondamentale. Riposa adeguatamente e ascolta il tuo corpo. Piccoli passi quotidiani migliorano il benessere, rafforzando energia e vitalità duratura.",
+      "mental": "Il 11 gennaio 2026, i Scorpione sono invitati a dedicare del tempo alla pratica della mindfulness, per ritrovare calma e chiarezza mentale. Coltivare l’auto-riflessione e rispettare i propri tempi aiuterà a gestire lo stress emotivo. Ricorda di respirare profondamente e di ascoltare i tuoi bisogni, per mantenere equilibrio interiore e benessere.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Per il Sagittario del 11 gennaio 2026, dedicati a mantenere un equilibrio tra esercizio e riposo. Favorisci attività all'aperto come camminate o yoga per stimolare energia e vitalità. Curare l'alimentazione, integrando frutta e verdura fresca, ti aiuterà a rafforzare il sistema immunitario. Ricorda di idratarti adeguatamente e ascoltare il tuo corpo, evitando stress e affaticamenti.",
+      "mental": "Il 11 gennaio 2026, Sagittario, concentrati sulla ricerca di chiarezza mentale attraverso la meditazione e la respirazione consapevole. Prenditi del tempo per riflettere sulle tue emozioni e praticare il riconoscimento dei tuoi sentimenti senza giudizio. Gestisci lo stress dedicando momenti di calma e praticando mindfulness quotidiana, così potrai mantenere equilibrio ed energia positiva durante questa giornata importante.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 11 gennaio 2026, i Capricorno sono incoraggiati a dedicare attenzione al proprio benessere fisico. Pratica attività moderata come camminate o yoga per aumentare l’energia e ridurre lo stress. Cura il riposo e l’alimentazione, privilegiando cibi nutrienti e idratazione. Ascolta il tuo corpo, concediti pause rigeneranti e mantieni una routine equilibrata per sentirsi in forma e vitali.",
+      "mental": "Il 11 gennaio 2026, Capricorno, concentrati sulla chiarezza mentale praticando meditazione quotidiana. dedicati momenti di riflessione per ricaricare le emozioni e mantenere l’equilibrio. Gestisci lo stress con attività rilassanti come lo yoga o il passeggiare all’aria aperta. Ricorda di ascoltare te stesso e di concederti pause, per coltivare benessere interiore e serenità.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 2026-01-11, l’Acquario dovrebbe dedicare attenzione alla cura del corpo: mantenere un’alimentazione equilibrata, idratarsi adeguatamente e praticare un’attività fisica moderata come camminate o yoga. É un giorno ideale per rafforzare la propria energia attraverso pause rilassanti e stretching, favorendo il benessere fisico complessivo. Ascolta il tuo corpo e sii gentile con te stesso.",
+      "mental": "Per l'Acquario il 2026-01-11, concentrati sulla calma mentale attraverso pratiche di mindfulness e respirazione profonda. Dedica del tempo al journaling per liberare emozioni e riflettere. Ricorda di stabilire confini sani e di concederti pause. La gestione dello stress ti aiuterà a mantenere equilibrio emotivo e chiarezza mentale, affrontando la giornata con serenità e consapevolezza.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 2026-01-11, i Pesci dovrebbero concentrarsi sulla cura del corpo e sull'aumento dell'energia. Dedica 20-30 minuti a esercizi di stretching o yoga per stimolare la flessibilità. Segui una dieta equilibrata ricca di frutta, verdura e proteine leggere. Riposa adeguatamente e idratati con regolarità, ascoltando il tuo corpo e prevenendo affaticamenti.",
+      "mental": "Pesci, il 2026-01-11 è un giorno ideale per concentrarti sulla calma interiore. Pratica la meditazione quotidiana e respira profondamente per ridurre lo stress. Coltiva pensieri positivi e dedicati momenti di silenzio per favorire la chiarezza mentale. Ricorda che il benessere emotivo si costruisce con gentilezza verso te stesso e pazienza nel processo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
