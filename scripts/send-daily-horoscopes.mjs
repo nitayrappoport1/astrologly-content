@@ -260,8 +260,8 @@ async function sendHoroscopeEmails(sign, horoscope, date) {
         sent++;
       }
 
-      // Rate limiting - wait 100ms between requests
-      await new Promise(resolve => setTimeout(resolve, 100));
+      // Rate limiting - Resend allows 2 requests/second, wait 550ms to be safe
+      await new Promise(resolve => setTimeout(resolve, 550));
 
     } catch (error) {
       console.error(`    ✗ Error ${contact.email}: ${error.message}`);
