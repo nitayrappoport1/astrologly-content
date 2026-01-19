@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-21",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Ciao Ariete, il 21 gennaio 2026 porta energia positiva. Dedica del tempo a esercizi cardiovascolari come corsa o camminate intense, per stimolare vitalità e resistenza. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Ricorda di idratarti bene e dedicare qualche momento al relax, per favorire il benessere generale e il recupero energetico.",
+      "mental": "Per l'Ariete il 21 gennaio 2026, dedicati alla meditazione quotidiana per coltivare chiarezza mentale. Prenditi momenti per respirare profondamente e riconoscere le tue emozioni senza giudizio. Gestisci lo stress facendo pause regolari e pratiche di mindfulness. Ricorda di ascoltare il tuo corpo e di circondarti di persone positive, mantenendo così equilibrio ed energia positiva nel cuore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 21 gennaio 2026 è ottimo per concentrarsi sul benessere fisico. Dedica almeno 30 minuti quotidiani a una camminata all’aperto o yoga per migliorare energia e flessibilità. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine magre. Ricorda di idratarti bene e riposare adeguatamente per rinvigorire corpo e mente.",
+      "mental": "Caro Toro, il 21 gennaio 2026 è il momento perfetto per dedicarti alla cura di te stesso. Pratica la mindfulness quotidiana per migliorare la chiarezza mentale e ridurre lo stress. Dedica qualche minuto alla respirazione profonda e all’ascolto delle emozioni. Ricorda di concederti pause, di essere gentile con te stesso e di cercare equilibrio tra mente e cuore.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Cari Gemelli, per mantenere il benessere fisico, dedicati a un'alimentazione equilibrata ricca di frutta, verdura e proteine magre. Ricorda di bere molta acqua e di praticare esercizio moderato, come camminate o yoga, almeno tre volte a settimana. Dormi sufficientemente e dedica tempo al relax per ricaricare energie e favorire il benessere complessivo.",
+      "mental": "Per i Gemelli il 21 gennaio 2026, concentrati sulla chiarezza mentale praticando tecniche di respirazione profonda e meditazione quotidiana. Mantieni l’equilibrio emozionale dedicando tempo a te stesso e condividendo i tuoi sentimenti con persone di fiducia. Gestisci lo stress con attività creative o ricreative, ricordando che il benessere interiore favorisce chiarezza e serenità.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 21 gennaio 2026, concentrati sul mantenimento del benessere fisico: cura l'alimentazione con pasti equilibrati ricchi di frutta, verdura e proteine. Dedica del tempo a esercizi leggeri come camminate o yoga per stimolare energia e flessibilità. Assicurati di riposarti abbastanza e idratarti regolarmente, ascoltando i segnali del tuo corpo per mantenerti in forma e vitalità.",
+      "mental": "Il 21 gennaio 2026, Cancro, dedica del tempo alla meditazione quotidiana per rafforzare la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio, praticando il journaling per liberare sentimenti repressi. Gestisci lo stress con esercizi di respirazione profonda e concediti momenti di calma per recuperare energia emotiva. La tua cura interiore favorirà equilibrio e benessere.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Ciao Leone, il tuo benessere fisico è importante. Dedica almeno 30 minuti al giorno a esercizi moderati come camminate o stretching per aumentare energia e vitalità. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e acqua. Riposa bene e ascolta il tuo corpo, evitando stress e concedendoti momenti di relax. Il tuo corpo merita cura e attenzione.",
+      "mental": "Caro Leone, il 21 gennaio 2026 è un giorno ideale per dedicarti alla gestione dello stress e alla centratura mentale. Pratica la respirazione consapevole e qualche minuto di meditazione ogni mattina. Ricorda di ascoltare le tue emozioni senza giudizio e concediti pause di riflessione. La tua calma e chiarezza mentale rafforzeranno il tuo benessere complessivo.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 21 gennaio 2026, Vergine, dedicati alla cura del corpo con attenzione. Favorisci attività leggere come yoga o passeggiate all’aria aperta per migliorare energia e benessere. Mantieni una dieta equilibrata ricca di frutta, verdura e acqua. Ricorda di ascoltare il tuo corpo e concederti momenti di riposo per rinvigorirti. La costanza ti porterà maggiore vitalità e equilibrio.",
+      "mental": "Il 21 gennaio 2026, Vergine, dedica tempo alla meditazione quotidiana per migliorare la chiarezza mentale. Pratica tecniche di respirazione profonda per gestire lo stress e coltiva la gratitudine per mantenere l’equilibrio emotivo. Ricorda di ascoltare le tue emozioni senza giudizio e di concederti pause di auto-cura, rafforzando il benessere interiore e la serenità.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Il 21 gennaio 2026, Bilancia dovrebbe concentrarsi su un'alimentazione equilibrata e un’attività fisica moderata. Dedica almeno 30 minuti a camminate all’aria aperta o yoga, per migliorare energia e benessere. Prenditi cura della tua pelle con idratazione costante e rutine di bellezza rilassanti. Mantieni un sonno regolare e ascolta il tuo corpo per evitare affaticamenti.",
+      "mental": "Il 21 gennaio 2026, la Bilancia può favorire il benessere mentale praticando la meditazione quotidiana per ritrovare calma e chiarezza. Prenditi del tempo per riflettere sui tuoi pensieri e riconoscere le emozioni, senza giudizio. Usa tecniche di respirazione profonda per gestire lo stress e mantenere l’equilibrio interiore, coltivando pace e serenità.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 21 gennaio 2026, la salute degli Scorpione richiede attenzione particolare. Dedica tempo all’attività fisica moderata, come yoga o passeggiate, per aumentare energia e benessere. Cura il corpo con alimentazione equilibrata e idratazione costante. Ascolta i segnali del tuo corpo, concediti riposo e pratiche di rilassamento per mantenere equilibrio e vitalità.",
+      "mental": "Il 21 gennaio 2026, lo Scorpione è invitato a dedicare tempo alla meditazione e alle pratiche di respirazione profonda per rafforzare la chiarezza mentale. Coltiva l’equilibrio emotivo attraverso la consapevolezza e il dialogo interiore gentile. Gestisci lo stress dedicando momenti di quiete ogni giorno, concentrandoti su ciò che ti dà pace e sicurezza, con attenzione e compassione.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 21 gennaio 2026, Sagittario dovrebbe dedicare attenzione al proprio benessere fisico. Concentrati su esercizi all'aperto come camminate o yoga per aumentare energia e vitalità. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Ricorda di ascoltare il tuo corpo, riposarti quando necessario e idratarti adeguatamente per mantenere equilibrio e salute ottimale.",
+      "mental": "Il 21 gennaio 2026, Sagittario dovrebbe dedicare del tempo alla meditazione e alle pratiche di respirazione profonda per migliorare la chiarezza mentale e ridurre lo stress. Coltivare la consapevolezza di sé e mantenere un atteggiamento positivo aiuterà a trovare equilibrio emotivo. Dedica momenti alla natura e ascolta le tue emozioni per rinforzare il benessere psicologico.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 21 gennaio 2026, Capricorno dovrebbe dedicare attenzione alla cura del corpo. Pratica esercizi moderati come camminate o yoga per energizzare mente e corpo. Mantieni una dieta equilibrata ricca di nutrienti essenziali e assicurati di dormire a sufficienza. Idratati regolarmente e ascolta i segnali del tuo corpo per mantenere alta la vitalità e il benessere complessivo.",
+      "mental": "Capricorno il 21 gennaio 2026, concentrati sulla chiarezza mentale dedicando momenti di meditazione quotidiana. Ricorda di riconoscere e accettare le tue emozioni senza giudizio, per mantenere un equilibrio interiore. Per gestire lo stress, pianifica pause regolari e pratiche di respirazione profonda. Coltiva la mindfulness per affrontare le sfide con calma e consapevolezza, migliorando il benessere emotivo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 21 gennaio 2026, per l’Acquario, è importante dedicare attenzione all’equilibrio fisico. Pratica esercizi energizzanti come yoga o passeggiate all’aperto per potenziare l’energia. Segui un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Ricordati di idratarti adeguatamente e di dedicare del tempo al relax e al riposo per mantenere il corpo in forma e vitalità.",
+      "mental": "Il 21 gennaio 2026, Acquario, dedica del tempo alla meditazione quotidiana per migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudicarle, praticando la respirazione profonda nelle situazioni di stress. Coltiva momenti di consapevolezza, circondandoti di persone positive e praticando gratitudine, per mantenere equilibrio emotivo e benessere mentale.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 21 gennaio 2026, i Pesci dovrebbero concentrarsi sulla cura del corpo con attività gentle come yoga o passeggiate all'aperto. Nutriti con alimenti equilibrati e idratate bene. Dedicate tempo al riposo e al relax per mantenere alti i livelli di energia. Evitate stress eccessivi, ascoltate il vostro corpo e concedetevi pause rigeneranti.",
+      "mental": "Il 21 gennaio 2026, Pesci, concentra la tua attenzione sulla calma interiore e sulla pratica della mindfulness. Dedica alcuni minuti al giorno alla meditazione o alla respirazione profonda per favorire la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio e di circondarti di energia positiva. Prenditi del tempo per te stesso e coltiva il benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
