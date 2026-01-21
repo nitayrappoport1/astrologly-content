@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-23",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Per gli Ariete del 23 gennaio 2026, concentrati su esercizi energizzanti come corsa o yoga al mattino per aumentare vitalità. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre. Dedica attenzione alla cura del corpo con idratazione costante e sonno regolare, evitando stress eccessivi. Ascolta il tuo corpo e concediti pause rigenerative.",
+      "mental": "Ariete, il 23 gennaio 2026, concentra l’attenzione sulla calma e la consapevolezza. Prenditi del tempo per praticare la meditazione o respirazioni profonde per schiarire la mente. Ricorda di ascoltare le tue emozioni senza giudizio e di stabilire momenti di pausa durante la giornata. La mindfulness ti aiuterà a ritrovare equilibrio e serenità nel lavoro e nelle relazioni.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Toro, oggi dedicati alla cura del tuo corpo: mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine magre. Pratica esercizio fisico moderato, come una passeggiata all’aperto o yoga, per rinvigorire energia e flessibilità. Ricordati di idratarti adeguatamente e di riposare bene, ascoltando il tuo corpo per mantenere benessere e vitalità.",
+      "mental": "Toro, il 23 gennaio 2026 è il momento perfetto per dedicarti alla cura di te stesso. Pratica respirazioni profonde e meditazione quotidiana per migliorare la chiarezza mentale. Ricorda di riconoscere e accettare le tue emozioni senza giudizio. Dedica tempo a attività che ti rilassano, come il journaling o una passeggiata nella natura, per mantenere equilibrio e serenità.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per i Gemelli il 23 gennaio 2026, concentrati su attività che stimolino la mente e il corpo, come camminate leggere o yoga. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre per aumentare l’energia. Bevi molta acqua e dormi almeno 7-8 ore per favorire il benessere generale e il recupero fisico.",
+      "mental": "Il 23 gennaio 2026, i Gemelli sono incoraggiati a dedicare tempo alla mindfulness e alle pratiche di respirazione profonda. Concentratevi sulla consapevolezza del momento presente per migliorare la chiarezza mentale e l’equilibrio emotivo. Prendete pause regolari e ascoltate le vostre emozioni, trovando momenti di calma anche nella routine quotidiana. La cura di sé favorirà serenità e stabilità.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 23 gennaio 2026, dedicati alla cura del corpo attraverso attività leggere come camminate o yoga, favorendo il rilassamento muscolare e il benessere generale. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e cereali integrali. Ascolta il tuo corpo: riposa quando necessario e idratati adeguatamente per aumentare l’energia e prevenire affaticamenti.",
+      "mental": "Il 23 gennaio 2026, Cancro, concentra l’attenzione sulla cura di te stesso: dedica qualche minuto ogni giorno alla meditazione o alla respirazione profonda per rinsaldare la chiarezza mentale. Ricorda di condividere i tuoi sentimenti con persone di fiducia e praticare momenti di gratitudine. Gestisci lo stress con attività rilassanti e alimenta il tuo benessere emotivo con gentilezza verso te stesso.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Leone, per mantenere il tuo benessere fisico, cerca di seguire una dieta equilibrata ricca di frutta, verdura e proteine. Dedica almeno 30 minuti giornalieri all’attività fisica moderata, come camminate o yoga. Assicurati di bere molta acqua e di dormire almeno 7-8 ore a notte. Ricorda di ascoltare il tuo corpo e prendersi momenti di relax.",
+      "mental": "Carissimo Leone, il 23 gennaio 2026, dedicati alla mindfulness: pratiche di respirazione profonda e meditazione quotidiana ti aiuteranno a coltivare chiarezza mentale e equilibrio emotivo. Ricorda di ascoltare le tue emozioni senza giudizio e di concederti pause rigeneranti. Cura il tuo benessere mentale con gentilezza, e affronterai le sfide con serenità e forza interiore.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 23 gennaio 2026, Vergine, dedica attenzione alla tua energia: integra esercizi di stretching e camminate quotidiane per rinvigorire il corpo. Cura l’alimentazione con pasti equilibrati ricchi di frutta e verdura. Riposa adeguatamente e ascolta i segnali del tuo corpo. Mantieni una routine di autogestione del benessere, perché piccoli gesti costanti migliorano significativamente la tua vitalità.",
+      "mental": "Il 23 gennaio 2026, Vergine, concentrati sulla pratica della meditazione quotidiana per migliorare la chiarezza mentale e ridurre lo stress. Dedica del tempo alla scrittura journaling per esplorare emozioni e trovare equilibrio. Ricorda di respirare profondamente durante le sfide, coltivando pazienza e gentilezza verso te stesso. Con costanza, rafforzerai il tuo benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per la Bilancia del 23 gennaio 2026, concentrati su esercizi equilibrati come yoga o stretching, che favoriscono il benessere mentale e fisico. Mantieni una dieta ricca di frutta, verdura e acqua, evitando cibi troppo pesanti. Riposa adeguatamente e concediti pause durante la giornata. Dedica attenzione alla cura del corpo e ascolta i tuoi segnali di stanchezza.",
+      "mental": "Cara Bilancia, il 23 gennaio 2026 è un giorno perfetto per dedicarti alla respirazione consapevole e alla meditazione. Prenditi del tempo per riflettere sui tuoi sentimenti e scrivi un diario. Ricorda che l’equilibrio si raggiunge ascoltando te stessa e praticando la gentilezza verso gli altri. Concentrati sulla calma interiore e sul trovare armonia quotidiana.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 23 gennaio 2026, lo Scorpione dovrebbe dedicarsi a un’attività fisica regolare, come yoga o camminate all'aperto, per migliorare energia e benessere. Concentrati sull'alimentazione equilibrata e sull’idratazione, evitando zuccheri raffinati. Ritrova equilibrio attraverso massaggi o tecniche di rilassamento muscolare. Ascolta il tuo corpo, riposando quando necessario. La cura di sé porterà maggiore vitalità e serenità.",
+      "mental": "Il 23 gennaio 2026, Scorpione, focalizza l’attenzione sulla calma interiore e sulla chiarezza mentale. Pratica tecniche di respirazione e mindfulness per alleviare lo stress. Dedica del tempo alla riflessione e ascolta le tue emozioni senza giudizio. Ricorda di concederti momenti di relax e autocompassione, favorendo un equilibrio emotivo duraturo e una mente lucida.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il Sagittario il 23 gennaio 2026 dovrebbe concentrarsi su attività che migliorano energia e vitalità, come yoga o passeggiate all'aperto. Mantieni una dieta equilibrata ricca di frutta e verdura, idratati regolarmente e dedica tempo al riposo. Ascolta il tuo corpo, evita stress e fai esercizi di stretching per mantenere flessibilità e benessere generale.",
+      "mental": "Il 23 gennaio 2026, Sagittario, concentrati su pratiche di mindfulness quotidiana, come meditazione o respirazione profonda, per migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni e concederti momenti di relax, evitando il sovraccarico. Coltiva pensieri positivi e circondati di persone supportive, mantenendo un equilibrio tra avventura e introspezione. Il tuo benessere emozionale si rafforza così.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 23 gennaio 2026, Capricorno può potenziare il suo benessere fisico integrando attività fisiche regolari come camminate e yoga, favorendo la flessibilità e il rilassamento. Mantieni una dieta equilibrata ricca di vitamine e minerali, bevi molta acqua e riposa adeguatamente. Ascolta il corpo e dedica momenti di cura a te stesso per aumentare energia e vitalità.",
+      "mental": "Il 23 gennaio 2026, Capricorno, dedica del tempo alla meditazione e alla respirazione profonda per migliorare la chiarezza mentale. Prova a scrivere i tuoi pensieri e sentimenti, per liberare la mente. Prenditi pause durante la giornata per pratiche di mindfulness e gestione dello stress, così potrai mantenere equilibrio emotivo e serenità interiore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Per Acquario il 23 gennaio 2026, concentrati sulla cura del corpo attraverso attività leggere come camminate o yoga per mantenere energia equilibrata. Assicurati di idratarti regolarmente e di seguire una dieta equilibrata ricca di frutta, verdura e proteine. Dedica del tempo al riposo e alla cura della pelle, favorendo il benessere fisico e mentale.",
+      "mental": "Il 23 gennaio 2026, l'Acquario può beneficiare di pratiche di meditazione quotidiana per favorire la chiarezza mentale e l'equilibrio emotivo. Dedica del tempo alla respirazione consapevole e all'espressione dei tuoi sentimenti con amici fidati. Ricorda di prenderti pause, evitare il sovraccarico e coltivare momenti di gratitudine per mantenere il benessere emotivo e mentale.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Per Pesci il 23 gennaio 2026, concentrati su un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti al giorno a movimento dolce, come passeggiate o yoga, per aumentare energia e benessere. Ricorda di idratarti adeguatamente e di ascoltare il tuo corpo, concedendoti momenti di relax e recupero.",
+      "mental": "Per Pesci del 23 gennaio 2026, dedicati alla mindfulness quotidiana, come meditazioni brevi o respirazioni profonde. Pratica la consapevolezza per chiarire la mente e ridurre lo stress. Coltiva l’auto-accoglienza, ascolta le tue emozioni senza giudizio e cerca momenti di calma per riequilibrare il cuore. La cura di sé rafforzerà il tuo benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
