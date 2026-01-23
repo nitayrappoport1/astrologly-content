@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-25",
+  "language": "es",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "El 25 de enero de 2026, Aries, enfócate en mantenerte activo y cuidar tu cuerpo. Incorpora ejercicio cardiovascular moderado, como correr o andar en bicicleta, para potenciar tu energía. Prioriza una alimentación equilibrada, rica en frutas y verduras. No olvides hidratarte bien y descansar lo suficiente. Escucha a tu cuerpo y tódalo con atención para prevenir lesiones y mantener tu vitalidad.",
+      "mental": "El 25 de enero de 2026, Aries, enfoca tu energía en la claridad mental practicando la meditación diaria. Tómate momentos para respirar profundamente y reflexionar sobre tus emociones. Equilibra tu entusiasmo dejando espacio para la introspección y el autocuidado. Incorporar técnicas de mindfulness te ayudará a manejar el estrés y mantener tu bienestar emocional en armonía con tus metas.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Para Tauro el 25 de enero de 2026, enfoca en mantener una rutina equilibrada de ejercicio suave como caminar o yoga para fortalecer tu cuerpo y mejorar tu energía. Prioriza una alimentación nutritiva y rica en minerales, y asegúrate de descansar lo suficiente. Hidrátate constantemente y realiza masajes o baños relajantes para cuidar tu bienestar físico integral.",
+      "mental": "Tauro, el 25 de enero de 2026, enfócate en la claridad mental practicando la meditación diaria y respiraciones profundas. Equilibra tus emociones dedicando tiempo a actividades que te reconforten y te conecten contigo mismo. Maneja el estrés estableciendo límites claros y priorizando el descanso. Cultiva la atención plena para mantenerte en el presente y fortalecer tu bienestar emocional.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Para Géminis el 25 de enero de 2026, prioriza el cuidado integral de tu cuerpo. Mantén una rutina de ejercicio moderada, como caminatas o yoga, para aumentar tu energía. Alimenta tu cuerpo con frutas, verduras y agua suficiente. Descansa bien y evita el estrés excesivo. Escucha las señales de tu cuerpo y date momentos de relajación para fortalecer tu bienestar físico.",
+      "mental": "Querido Géminis, en esta jornada enfócate en la respiración consciente y practica la meditación diaria para mejorar tu claridad mental. Mantén equilibrio emocional compartiendo tus sentimientos con seres queridos y realizando actividades que te llenen de alegría. Aprovecha momentos de silencio para reflexionar, reducir el estrés y fortalecer tu bienestar emocional. Cuida tu mente, cuida de ti.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Para mejorar tu bienestar físico ante el cáncer, mantén una alimentación balanceada rica en frutas, verduras y proteínas magras. Prioriza la hidratación y el descanso adecuado. Realiza ejercicios suaves como caminar o yoga para fortalecer tu cuerpo y aumentar tu energía. Escucha a tu cuerpo y consulta a tu médico antes de iniciar nuevas actividades físicas. Cuida tu cuerpo con amor y atención.",
+      "mental": "El 25 de enero de 2026, enfócate en cuidar tu bienestar emocional practicando la meditación diaria y respiraciones profundas. Dedica tiempo a la introspección y conecta con tus emociones sin juzgarlas. Prioriza el descanso y evita sobrecargarte de responsabilidades. Rodéate de personas que te apoyen y recuerda que cuidar de ti mismo es clave para mantener la calma y claridad mental.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Leo, el 25 de enero de 2026, enfócate en mantener una rutina equilibrada de ejercicio cardiovascular y fortalecimiento muscular para potenciar tu energía. Prioriza una alimentación nutritiva, rica en frutas, verduras y agua, y asegúrate de dormir lo suficiente. Dedica tiempo a relajarte y cuidar tu cuerpo, fomentando así tu bienestar físico y emocional.",
+      "mental": "Querido Leo, el 25 de enero de 2026, enfócate en practicar la atención plena y respiraciones profundas para mantener la claridad mental. Tómate tiempo para escuchar tus emociones sin juzgarlas. Desconecta de las pantallas y pasa tiempo en la naturaleza. Prioriza el autocuidado y busca apoyo si lo necesitas. Recuerda que tu bienestar emocional es fundamental para tu equilibrio.",
+      "recommended_activity": "caminar",
+      "diet_focus": "granos integrales",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "El 25 de enero de 2026, Virgo, enfócate en mantener un equilibrio en tu bienestar físico. Incorpora ejercicio suave como yoga o caminatas, y aliméntate con alimentos nutritivos. Prioriza la hidratación y descansa lo suficiente para renovar energía. Dedica tiempo a cuidar tu cuerpo con masajes y estiramientos, fortaleciendo tu salud y vitalidad en este día.",
+      "mental": "El 25 de enero de 2026, los Virgo deben centrarse en practicar la atención plena para mantener la claridad mental y reducir el estrés. Dedica momentos a la respiración profunda y a la meditación diaria, y evita la sobrecarga emocional. Usa la escritura reflexiva para procesar sentimientos y busca apoyo en seres queridos para fortalecer tu bienestar emocional.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "El 25 de enero de 2026, Libra, enfócate en mantener un equilibrio en tu bienestar físico. Incorpora ejercicios suaves como yoga o caminatas diarias para aumentar tu energía. Cuida tu cuerpo con una alimentación equilibrada, hidratación adecuada y tiempo de descanso. Escucha a tu cuerpo y prioriza tu salud física para sentirte vital y revitalizado durante todo el día.",
+      "mental": "Para Libra el 25 de enero de 2026, prioriza la claridad mental practicando la meditación diaria y respiraciones profundas. Mantén el equilibrio emocional estable evitando decisiones impulsivas, y busca actividades que te relajen. Gestiona el estrés con paseos al aire libre y reconoce tus emociones sin juzgarlas. Cultivar la atención plena fortalecerá tu bienestar emocional y mental en este día.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Para Escorpio en 25 de enero de 2026, prioriza el descanso y una alimentación equilibrada para mantener altos niveles de energía. Incorpora ejercicios cardiovasculares y de fuerza tres veces por semana para fortalecer tu cuerpo. No olvides hidratarte adecuadamente y cuidar tu piel con productos naturales. Escucha las señales de tu cuerpo y busca descanso cuando lo necesites para mantenerte saludable y vital.",
+      "mental": "El 25 de enero de 2026, enfoca tu energía en la respiración consciente y la meditación para mantener claridad mental. Practica actividades que te conecten con tus emociones, como escribir o escuchar música relajante. Tómate tiempo para descansar, prioriza el autocuidado y evita sobrecargarte. El equilibrio emocional y la atención plena te brindarán paz y renovada energía durante esta jornada.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "El 25 de enero de 2026, Sagitario sentirá un aumento en su energía. Aprovecha esta jornada para realizar ejercicio al aire libre, como caminatas o ciclismo. Prioriza una alimentación equilibrada, rica en frutas y verduras, y mantente hidratado. No olvides descansar lo suficiente para reponer energías y cuidar tu bienestar físico. ¡Escucha a tu cuerpo y actúa con calma!",
+      "mental": "Sagitario, hoy es importante que te tomes un momento para respirar profundamente y conectar contigo mismo. Practica técnicas de mindfulness, como la meditación o la respiración consciente, para aclarar tu mente. Reconoce tus emociones sin juzgarlas, y busca actividades que te brinden paz interior. Mantén un equilibrio emocional y prioriza tu bienestar mental para afrontar el día con tranquilidad y claridad.",
+      "recommended_activity": "meditación",
+      "diet_focus": "hidratación",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "El 25 de enero de 2026, Capricornio, enfócate en mantener una rutina de ejercicio regular, como caminar o yoga, para mejorar tu energía y bienestar. Prioriza una alimentación equilibrada y rica en nutrientes. Descansa lo suficiente y cuida tu postura. Bebe agua con frecuencia y dedica tiempo a la relajación, fortaleciendo tu cuerpo y mente en esta etapa.",
+      "mental": "Para Capricornio en esta fecha, enfócate en practicar la respiración consciente y la meditación diaria para mejorar tu claridad mental y reducir el estrés. Dedica tiempo a reflexionar y conectar contigo mismo para equilibrar tus emociones. Prioriza el descanso y establece límites claros, permitiéndote actuar con paciencia y confianza. Cultivar la autocompasión potenciará tu bienestar emocional y mental.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Acuario, el 25 de enero de 2026, enfoca tu energía en mantener una rutina equilibrada de ejercicio. Incorpora actividades que disfrutes, como natación o yoga, para fortalecer tu cuerpo y reducir el estrés. Cuida tu alimentación con alimentos frescos y nutritivos. No olvides descansar lo suficiente y hidratarte bien para mantener altos niveles de energía y bienestar general.",
+      "mental": "Acuario, en este día, prioriza la claridad mental practicando la meditación o respiración consciente. Dedica tiempo a expresar tus emociones y busca actividades que te brinden paz interior, como pasear en la naturaleza o escribir. Gestiona el estrés reconectando con tu esencia y manteniendo un equilibrio emocional. Tu bienestar mental florecerá con pequeños momentos de atención plena.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Para Piscis en 25 de enero de 2026, enfócate en mantener una rutina equilibrada de ejercicio suave como yoga o natación para potenciar tus niveles de energía. Prioriza una alimentación saludable y descansos adecuados para fortalecer tu cuerpo. Cuida tu hidratación y dedica tiempo a relajarte y desconectar. La constancia en estas prácticas mejorará tu bienestar general y revitalizará tu espíritu.",
+      "mental": "Para Piscis el 25 de enero de 2026, enfócate en la respiración consciente y la meditación diaria para aclarar tu mente y reducir el estrés. Practica la autocompasión y expresa tus emociones con confianza, buscando apoyo cuando lo necesites. Dedica tiempo a actividades creativas que nutran tu alma, fortaleciendo tu equilibrio emocional y promoviendo bienestar integral.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    }
+  }
+}
