@@ -1,0 +1,14 @@
+{
+  "date": "2026-02-01",
+  "phase": "full_moon",
+  "illumination": 1,
+  "zodiac_sign": "gemini",
+  "descriptions": {
+    "en": "The Full Moon illuminates everything, bringing clarity and culmination. This is a time of completion, celebration, and release.",
+    "es": "La Luna Llena ilumina todo, trayendo claridad y culminación. Este es un momento de finalización, celebración y liberación.",
+    "fr": "La Pleine Lune illumine tout, apportant clarté et culmination. C'est un temps d'achèvement, de célébration et de libération.",
+    "pt": "A Lua Cheia ilumina tudo, trazendo clareza e culminação. Este é um momento de conclusão, celebração e liberação.",
+    "it": "La Luna Piena illumina tutto, portando chiarezza e culminazione. Questo è un tempo di completamento, celebrazione e rilascio.",
+    "de": "Der Vollmond beleuchtet alles und bringt Klarheit und Höhepunkt. Dies ist eine Zeit des Abschlusses, der Feier und der Befreiung."
+  }
+}
