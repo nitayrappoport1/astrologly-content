@@ -1,0 +1,63 @@
+{
+  "date": "2026-02-16",
+  "planets": {
+    "sun": {
+      "sign": "aquarius",
+      "degree": 25.6,
+      "retrograde": false
+    },
+    "moon": {
+      "sign": "libra",
+      "degree": 7.4,
+      "retrograde": false
+    },
+    "mercury": {
+      "sign": "libra",
+      "degree": 24,
+      "retrograde": false
+    },
+    "venus": {
+      "sign": "sagittarius",
+      "degree": 4.3,
+      "retrograde": false
+    },
+    "mars": {
+      "sign": "leo",
+      "degree": 0.6,
+      "retrograde": true
+    },
+    "jupiter": {
+      "sign": "virgo",
+      "degree": 14.2,
+      "retrograde": false
+    },
+    "saturn": {
+      "sign": "aquarius",
+      "degree": 28.8,
+      "retrograde": false
+    },
+    "uranus": {
+      "sign": "taurus",
+      "degree": 24.8,
+      "retrograde": false
+    },
+    "neptune": {
+      "sign": "aries",
+      "degree": 0.5,
+      "retrograde": false
+    },
+    "pluto": {
+      "sign": "capricorn",
+      "degree": 6.6,
+      "retrograde": false
+    }
+  },
+  "descriptions": {
+    "en": "The planetary transits shape the cosmic energies affecting all zodiac signs. Pay attention to aspects between your natal planets and current transits for personalized insights.",
+    "es": "Los tránsitos planetarios dan forma a las energías cósmicas que afectan a todos los signos del zodíaco. Preste atención a los aspectos entre sus planetas natales y los tránsitos actuales para obtener información personalizada.",
+    "fr": "Les transits planétaires façonnent les énergies cosmiques affectant tous les signes du zodiaque. Faites attention aux aspects entre vos planètes natales et les transits actuels pour des aperçus personnalisés.",
+    "pt": "Os trânsitos planetários moldam as energias cósmicas que afetam todos os signos do zodíaco. Preste atenção aos aspectos entre seus planetas natais e os trânsitos atuais para insights personalizados.",
+    "it": "I transiti planetari modellano le energie cosmiche che influenzano tutti i segni zodiacali. Presta attenzione agli aspetti tra i tuoi pianeti natali e i transiti attuali per approfondimenti personalizzati.",
+    "de": "Die Planetentransite formen die kosmischen Energien, die alle Sternzeichen beeinflussen. Achten Sie auf Aspekte zwischen Ihren Geburtsplaneten und aktuellen Transiten für personalisierte Einblicke."
+  }
+}
