@@ -1,0 +1,22 @@
+{
+  "date": "2026-02-17",
+  "status": "pre_shadow",
+  "currentPeriod": {
+    "started": "2026-02-12",
+    "ends": "2026-02-26",
+    "sign": "pisces"
+  },
+  "nextPeriod": {
+    "starts": "2026-02-26",
+    "ends": "2026-03-20",
+    "sign": "pisces"
+  },
+  "descriptions": {
+    "en": "Mercury is in pre-retrograde shadow. You may begin to feel the retrograde effects. Back up important data, double-check communications, and prepare for potential delays in the coming weeks.",
+    "es": "Mercurio está en sombra pre-retrógrada. Puede comenzar a sentir los efectos retrógrados. Haga copias de seguridad de datos importantes, verifique las comunicaciones dos veces y prepárese para posibles retrasos en las próximas semanas.",
+    "fr": "Mercure est dans l'ombre pré-rétrograde. Vous pouvez commencer à ressentir les effets rétrogrades. Sauvegardez les données importantes, vérifiez deux fois les communications et préparez-vous à d'éventuels retards dans les semaines à venir.",
+    "pt": "Mercúrio está na sombra pré-retrógrada. Você pode começar a sentir os efeitos retrógrados. Faça backup de dados importantes, verifique as comunicações duas vezes e prepare-se para possíveis atrasos nas próximas semanas.",
+    "it": "Mercurio è nell'ombra pre-retrograda. Potresti iniziare a sentire gli effetti retrogradi. Esegui il backup dei dati importanti, ricontrolla le comunicazioni e preparati a possibili ritardi nelle prossime settimane.",
+    "de": "Merkur ist im Vor-Rückläufigkeits-Schatten. Sie können beginnen, die rückläufigen Effekte zu spüren. Sichern Sie wichtige Daten, überprüfen Sie Kommunikationen doppelt und bereiten Sie sich auf mögliche Verzögerungen in den kommenden Wochen vor."
+  }
+}
