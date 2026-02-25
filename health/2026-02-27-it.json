@@ -1,0 +1,91 @@
+{
+  "date": "2026-02-27",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Per Ariete il 27 febbraio 2026, concentrati sulla cura del corpo e sull’incremento dell’energia. Dedica del tempo a esercizi cardiovascolari come corsa o bicicletta, che rinvigoriscono corpo e mente. Mantieni un’alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Ricorda di idratarti bene e di ascoltare il tuo corpo, prendendo pause quando necessario per mantenere benessere e vitalità.",
+      "mental": "Il 27 febbraio 2026, Ariete, concentrati sulla calma interiore. Pratica la meditazione quotidiana e respira profondamente nelle situazioni di stress. Sii gentile con te stesso, permettendo di riconoscere e accettare le emozioni. Dedica del tempo a riflettere sui tuoi obiettivi, mantenendo equilibrio tra azione e tranquillità, per rafforzare la tua serenità mentale ed emotiva.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 27 febbraio 2026 è importante dedicare attenzione al tuo benessere fisico. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre. Dedica almeno 30 minuti quotidiani all’attività fisica, come camminate o yoga, per aumentare energia e relax. Ricorda di idratarti adeguatamente e di ascoltare il tuo corpo. Prenditi cura di te!",
+      "mental": "Toro, il 27 febbraio 2026, dedicati alla cura della mente e del cuore. Practica la respirazione consapevole e la meditazione quotidiana per mantenere la calma e la chiarezza. Concediti pause di riflessione, ascolta le tue emozioni senza giudizio e circondati di energia positiva. Ricorda, il benessere emotivo è la base per affrontare ogni sfida con serenità.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per il 27 febbraio 2026, Gemelli, concentrati su un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti a esercizi cardiovascolari o stretching quotidianamente. Ricorda di idratarti adeguatamente e di ascoltare i segnali del corpo. Riposa sufficiente per mantenere energia e benessere, favorendo equilibrio tra mente e corpo.",
+      "mental": "Cari Gemelli, il 27 febbraio 2026 è il momento ideale per dedicare del tempo alla calma e alla riflessione. Pratica la meditazione quotidiana e respira profondamente per ridurre lo stress. Ascolta attentamente i tuoi sentimenti e scrivi un diario per liberare le emozioni. Mantieni l’equilibrio tra mente e cuore per affrontare la giornata con chiarezza e serenità.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 27 febbraio 2026, concentrati sul mantenere un equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti quotidiani a esercizi leggeri come camminate o yoga, che favoriscono energia e relax. Cura l’alimentazione con pasti equilibrati e ricchi di vitamine. Ascolta il corpo, riposa quando necessario e resta idratato per sostenere il benessere fisico.",
+      "mental": "Il 27 febbraio 2026, Cancro, dedica del tempo alla meditazione e alla respirazione profonda per ritrovare chiarezza mentale. Coltiva l’equilibrio emotivo condividendo i tuoi sentimenti con persone di fiducia e praticando gratitudine. Riduci lo stress con attività rilassanti e mantieni un atteggiamento gentile verso te stesso. La cura di te rafforzerà il tuo benessere complessivo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 27 febbraio 2026 è importante dedicare attenzione al tuo benessere fisico. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre. Dedica almeno 30 minuti al giorno all’attività fisica moderata, come camminate o yoga. Ricordati di idratarti bene e di dormire almeno 7-8 ore a notte per ricaricare le energie.",
+      "mental": "Caro Leone, il 27 febbraio 2026 è un giorno ideale per dedicarti alla calma e alla riflessione. Pratica la mindfulness, dedicando alcuni minuti al respiro profondo. Ascolta le tue emozioni senza giudizio e concediti pause rigeneranti. Ricorda che il benessere mentale e emotivo richiede cura quotidiana: ascolta il tuo cuore e sii gentile con te stesso.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 27 febbraio 2026, Vergine, dedicati a mantenere un equilibrio energico attraverso l’attività fisica costante, anche solo una passeggiata quotidiana. Cura il corpo con alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Idratazione e riposo sono fondamentali: ascolta il tuo corpo, evita lo stress e concediti momenti di relax per rinforzare il benessere complessivo.",
+      "mental": "Vergine, il 27 febbraio 2026 ti invita a dedicare tempo al mindfulness e alla respirazione profonda. Concentrati sul mantenere la calma e sul riconoscere le tue emozioni senza giudizio. Prenditi cura della tua mente con attività rigeneranti come la meditazione e il journaling. Ricorda di essere gentile con te stesso e di trovare equilibrio tra lavoro e riposo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Bilancia, il 27 febbraio 2026 è importante dedicare attenzioni al tuo benessere fisico. Favorisci attività leggere come yoga o passeggiate per aumentare energia e equilibrio. Mantieni una dieta equilibrata, ricca di frutta, verdura e acqua. Ricorda di ascoltare il tuo corpo e dedicare momenti di relax, prevenendo affaticamenti e rinforzando il tuo stato di salute complessivo.",
+      "mental": "Il 27 febbraio 2026 invita i Bilancia a dedicare tempo alla mindfulness e alla respirazione profonda per favorire la chiarezza mentale. Cerca di mantenere un equilibrio tra emozioni e ragione, evitando decisioni affrettate. Pratica attività rilassanti come yoga o meditazione e concediti pause di riflessione per ridurre lo stress e riscoprire la serenità interiore.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Ricorda di dedicare del tempo al riposo e al benessere fisico, Scorpione. Pratica esercizi di rilassamento e attività leggere come yoga o camminate all'aperto per aumentare energia e vitalità. Mantieni una dieta equilibrata, ricca di frutta, verdura e acqua, per rafforzare il sistema immunitario e sentirti più in forma. Consistenza e cura quotidiana sono fondamentali.",
+      "mental": "Il 27 febbraio 2026, i Scorpione sono invitati a dedicare tempo alla meditazione e alla respirazione profonda per mantenere la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio, trovando equilibrio tra impegno e riposo. Consigliata una passeggiata all'aperto per ridurre lo stress e ritrovare serenità interiore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Per il Sagittario del 27 febbraio 2026, concentra la tua attenzione sul rafforzamento del sistema immunitario attraverso alimentazione equilibrata e riposo adeguato. Integra esercizi all'aperto come camminate o yoga per aumentare energia e vitalità. Ricorda di idratarti regolarmente e dedicare tempo a rilassarti, prevenendo stress e affaticamento. La cura del corpo favorisce il benessere complessivo.",
+      "mental": "Per il Sagittario del 27 febbraio 2026, dedicati alla mindfulness quotidiana per migliorare la chiarezza mentale. Pratica tecniche di respirazione profonda e medita regolarmente per mantenere l’equilibrio emozionale. Concediti momenti di pausa per ridurre lo stress e riflettere su ciò che ti rende davvero felice. Ricorda di ascoltare te stesso con compassione e pazienza.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Caro Capricorno, il 27 febbraio 2026 sarà importante dedicare tempo alla cura del corpo e al benessere fisico. Pratica esercizi moderati come camminate o yoga per mantenere alta energia e ridurre lo stress. Alimenta il tuo corpo con pasti bilanciati e ricchi di nutrienti. Ricorda di idratarti adeguatamente e di ascoltare i segnali del tuo corpo.",
+      "mental": "Il 27 febbraio 2026, il Capricorno può favorire il benessere mentale praticando la meditazione quotidiana per favorire chiarezza e calma. Dedica del tempo all’introspezione, ascoltando il tuo respiro. Gestisci lo stress con attività rilassanti come lo yoga o passeggiate nella natura. Ricorda di essere gentile con te stesso, coltivando equilibrio emotivo e pazienza in ogni situazione.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 27 febbraio 2026, dedicati alla cura del corpo con esercizi leggeri come yoga o passeggiate all’aperto per migliorare energia e benessere. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e acqua. Riposa abbastanza e ascolta il tuo corpo. Questa giornata è ideale per ricaricare le energie e prendersi cura di sé stessi con dolcezza e attenzione.",
+      "mental": "Per l’Acquario del 27 febbraio 2026, dedicati alla pratica quotidiana della mindfulness, come la respirazione profonda o la meditazione, per migliorare la chiarezza mentale. Coltiva l’equilibrio emotivo con esercizi di journaling e ascolto attento di te stesso. Gestisci lo stress prendendo pause regolari e creando uno spazio tranquillo per ricaricare il benessere interiore.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Per i Pesci il 27 febbraio 2026, concentra la tua attenzione sul riposo e sulla cura del corpo. Dedica del tempo a esercizi leggeri come yoga o passeggiate all'aperto, che stimolano energia e relax. Assicurati di mantenere una dieta equilibrata, ricca di frutta e verdura, e idratati correttamente per sostenere il benessere generale e rafforzare il sistema immunitario.",
+      "mental": "Cari Pesci, il 27 febbraio 2026 è un giorno perfetto per dedicare tempo alla mindfulness e alla meditazione. Pratica tecniche di respirazione profonda per ridurre lo stress e ristabilire l’equilibrio emotivo. Concediti momenti di quiete, ascolta il tuo cuore e sii gentile con te stesso. Ricorda che la calma interiore è la chiave per il benessere.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
