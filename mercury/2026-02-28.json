@@ -1,0 +1,22 @@
+{
+  "date": "2026-02-28",
+  "status": "retrograde",
+  "currentPeriod": {
+    "started": "2026-02-26",
+    "ends": "2026-03-20",
+    "sign": "pisces"
+  },
+  "nextPeriod": {
+    "starts": "2026-06-29",
+    "ends": "2026-07-23",
+    "sign": "cancer"
+  },
+  "descriptions": {
+    "en": "Mercury is currently retrograde, a time when communication, technology, and travel may face disruptions. Review, revise, and be patient with delays. Avoid signing major contracts if possible.",
+    "es": "Mercurio está actualmente retrógrado, un momento en que la comunicación, la tecnología y los viajes pueden enfrentar interrupciones. Revise, corrija y sea paciente con los retrasos. Evite firmar contratos importantes si es posible.",
+    "fr": "Mercure est actuellement rétrograde, une période où la communication, la technologie et les voyages peuvent faire face à des perturbations. Révisez, corrigez et soyez patient avec les retards. Évitez de signer des contrats majeurs si possible.",
+    "pt": "Mercúrio está atualmente retrógrado, um momento em que comunicação, tecnologia e viagens podem enfrentar interrupções. Revise, corrija e seja paciente com atrasos. Evite assinar contratos importantes se possível.",
+    "it": "Mercurio è attualmente retrogrado, un momento in cui comunicazione, tecnologia e viaggi possono affrontare interruzioni. Rivedi, correggi e sii paziente con i ritardi. Evita di firmare contratti importanti se possibile.",
+    "de": "Merkur ist derzeit rückläufig, eine Zeit, in der Kommunikation, Technologie und Reisen Störungen unterliegen können. Überprüfen, überarbeiten und seien Sie geduldig mit Verzögerungen. Vermeiden Sie wenn möglich wichtige Vertragsunterzeichnungen."
+  }
+}
