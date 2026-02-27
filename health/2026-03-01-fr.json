@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-01",
+  "language": "fr",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Le Bélier du 1er mars 2026 devrait privilégier une activité physique régulière, telle que le cardio ou la musculation, pour maintenir son énergie. Accordez une attention particulière à une alimentation équilibrée riche en vitamines et minéraux, et hydratez-vous suffisamment. N’oubliez pas de vous étirer après l’exercice pour éviter les tensions musculaires et favoriser la récupération.",
+      "mental": "Le Bélier, le 1er mars 2026, privilégiez la méditation ou la respiration profonde chaque matin pour apaiser votre esprit. Écoutez attentivement vos émotions et évitez la précipitation dans vos décisions. Pratiquez la gratitude quotidienne pour cultiver l’équilibre émotionnel. Accordez-vous également des pauses pour mieux gérer le stress et renforcer votre bien-être mental.",
+      "recommended_activity": "cardio",
+      "diet_focus": "légumes",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Le Taureau le 1er mars 2026, privilégie une routine équilibrée, intégrant des activités physiques régulières telles que la marche ou le yoga pour renforcer ton corps. Hydrate-toi bien, mange équilibré, et veille à un sommeil réparateur. Prends soin de ton corps avec des soins doux, comme des massages, pour favoriser la détente et maintenir ton énergie.",
+      "mental": "Le Taureau en mars 2026, prenez du temps chaque jour pour la méditation ou la respiration profonde afin d'apaiser l’esprit. Écoutez vos émotions sans jugement, en favorisant l’auto-compassion. Pratiquez la pleine conscience lors de vos activités quotidiennes pour réduire le stress et renforcer votre équilibre émotionnel. Accordez-vous aussi des moments de repos pour revitaliser votre bien-être mental.",
+      "recommended_activity": "repos",
+      "diet_focus": "vitamines",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Le 1er mars 2026, les Gémeaux devraient privilégier une activité physique régulière comme la marche ou le yoga pour dynamiser leur énergie. Hydratez-vous abondamment et adoptez une alimentation équilibrée riche en fruits et légumes. Accordez-vous des pauses pour la détente, et évitez le stress pour maintenir un bon équilibre corporel. Prenez soin de votre corps avec douceur et constance.",
+      "mental": "Pour les Gémeaux du 1er mars 2026, concentrez-vous sur la pratique régulière de la pleine conscience pour calmer votre esprit. Prenez du temps chaque jour pour respirer profondément et organiser vos pensées. Écoutez votre cœur, évitez la surcharge d’informations, et n’hésitez pas à partager vos émotions avec des proches. Cultivez la sérénité intérieure pour un bien-être optimal.",
+      "recommended_activity": "yoga",
+      "diet_focus": "protéines",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Le 1er mars 2026, privilégiez une alimentation équilibrée riche en fruits, légumes et protéines maigres pour soutenir votre corps. Faites de l’exercice douceur comme la marche ou le yoga pour augmenter votre énergie. Hydratez-vous suffisamment et reposez-vous pour renforcer votre système immunitaire. Écoutez votre corps et adaptez vos activités selon votre ressenti. Prenez soin de vous avec douceur.",
+      "mental": "Le 1er mars 2026, prenez le temps de respirer profondément chaque matin pour calmer votre esprit. Cultivez la pleine conscience en réservant quelques minutes pour la méditation ou la marche consciente. Écoutez vos émotions sans jugement et partagez vos ressentis avec des proches. Priorisez le sommeil réparateur et évitez la surcharge mentale pour préserver votre bien-être émotionnel.",
+      "recommended_activity": "étirements",
+      "diet_focus": "fruits",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Pour le Lion du 1er mars 2026, privilégie une alimentation équilibrée riche en fruits, légumes et protéines. Intègre des activités physiques régulières comme la marche, la natation ou le yoga pour maintenir ton énergie. Hydrate-toi bien, dors suffisamment et prends soin de ta peau. Écoute ton corps et évite le surmenage pour un bien-être optimal.",
+      "mental": "Cher Lion, le 1er mars 2026, prenez du temps chaque matin pour pratiquer la pleine conscience, en respirant profondément et en vous concentrant sur le présent. Cultivez la patience face aux défis et n’hésitez pas à partager vos émotions avec un proche. Prendre soin de votre bien-être mental renforcera votre équilibre émotionnel et votre sérénité.",
+      "recommended_activity": "marche",
+      "diet_focus": "grains entiers",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Pour la Vierge en mars 2026, privilégiez une routine équilibrée : pratiquez 3 à 4 séances de sport douce comme la marche ou le yoga pour renforcer votre corps. Adoptez une alimentation saine riche en fruits, légumes et hydratation. Prenez soin de votre sommeil et écoutez votre corps pour maintenir un bon niveau d’énergie et prévenir la fatigue.",
+      "mental": "Vierge, le 1er mars 2026, privilégiez la pleine conscience en pratiquant la méditation quotidienne. Prenez du temps pour vous reconnecter à votre respiration, afin de calmer votre esprit et réduire le stress. Nourrissez votre bien-être émotionnel en partageant vos pensées avec un proche de confiance. Respectez vos limites pour préserver votre clarté mentale et votre équilibre intérieur.",
+      "recommended_activity": "cardio",
+      "diet_focus": "légumes",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Le 1er mars 2026, privilégiez une alimentation équilibrée riche en fruits, légumes et protéines maigres. Intégrez 30 minutes d’exercice modéré comme la marche ou le yoga chaque jour pour renforcer votre corps et augmenter votre énergie. Hydratez-vous régulièrement et accordez-vous suffisamment de sommeil réparateur. Prenez soin de votre corps pour maintenir vitalité et bien-être au quotidien.",
+      "mental": "Pour maintenir votre équilibre mental et émotionnel en mars 2026, pratiquez la pleine conscience chaque jour en respirant profondément et en observant vos sensations. Prenez du temps pour vous détendre, évitez la surcharge d’informations, et exprimez vos émotions avec douceur. Cultivez la gratitude et privilégiez une alimentation saine pour renforcer votre résilience.",
+      "recommended_activity": "repos",
+      "diet_focus": "vitamines",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Pour un Scorpion le 1er mars 2026, privilégie une alimentation équilibrée riche en légumes, protéines maigres et hydratation. Intègre une routine d’exercices réguliers comme la marche, le yoga ou la natation pour dynamiser ton corps. Assure-toi de dormir suffisamment et de prendre soin de ta peau avec une hydratation adaptée. Énergie renforcée et bien-être assurés.",
+      "mental": "Pour les Scorpions le 1er mars 2026, privilégiez la méditation chaque matin pour renforcer votre clarté mentale. Prenez du temps pour exprimer vos émotions à un proche de confiance. Pratiquez la respiration profonde lorsque le stress monte, et évitez la surcharge émotionnelle. Cultivez la pleine conscience pour équilibrer votre esprit et favoriser votre bien-être global.",
+      "recommended_activity": "étirements",
+      "diet_focus": "fruits",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Le 1er mars 2026, les Sagittaires devraient privilégier une activité physique régulière comme la marche ou le yoga. Hydratez-vous bien et adoptez une alimentation équilibrée riche en fruits et légumes. Veillez à dormir suffisamment pour revitaliser votre énergie. Prenez du temps pour vous détendre, évitant ainsi le stress physique et mental.",
+      "mental": "Le 1er mars 2026, Sagittaire est invité à cultiver la clarté mentale en pratiquant la méditation quotidienne. Prenez du temps pour vous reconnecter avec vous-même, respirez profondément et acceptez vos émotions sans jugement. Équilibrez votre esprit en partageant vos pensées avec des proches de confiance, et adoptez des pauses régulières pour réduire le stress.",
+      "recommended_activity": "méditation",
+      "diet_focus": "hydratation",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Pour les Capricornes en cette journée du 1er mars 2026, privilégiez une activité physique douce comme la marche ou le yoga pour renforcer votre corps. Buvez beaucoup d’eau, mangez équilibré et reposez-vous suffisamment. Écoutez votre corps et évitez le surmenage. Prenez aussi du temps pour vous détendre, afin de maintenir votre énergie et votre bien-être global.",
+      "mental": "Pour le Capricorne du 1er mars 2026, privilégiez la pleine conscience pour clarifier vos idées. Prenez quotidiennement du temps pour méditer ou respirer profondément afin de réduire le stress. Cultivez des pensées positives et entourez-vous de soutien. N’oubliez pas de reconnaître et d’honorer vos émotions, cela renforcera votre équilibre intérieur et votre sérénité.",
+      "recommended_activity": "étirements",
+      "diet_focus": "fruits",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Le Verseau, le 1er mars 2026, privilégiez une routine équilibrée pour maintenir votre énergie. Intégrez des activités cardio régulières, comme la marche rapide ou le vélo, pour stimuler votre vitalité. Accordez-vous des moments de relaxation et prenez soin de votre corps avec des soins nourrissants. Hydratez-vous bien et dormez suffisamment pour une santé optimale.",
+      "mental": "Pour le Verseau en mars 2026, il est essentiel de privilégier la clarté mentale en consacrant chaque jour quelques minutes à la méditation ou à la respiration profonde. Écoutez vos émotions sans jugement, et pratiquez la pleine conscience pour réduire le stress. N’oubliez pas de prendre du temps pour vous, afin de renforcer votre équilibre intérieur et votre bien-être global.",
+      "recommended_activity": "yoga",
+      "diet_focus": "protéines",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Le 1er mars 2026, les Poissons doivent privilégier des activités douces comme le yoga ou la marche en pleine nature pour renforcer leur corps et leur esprit. Hydratez-vous régulièrement et adoptez une alimentation équilibrée riche en fruits et légumes. Accordez-vous des moments de détente pour recharger votre énergie et maintenir un bon équilibre physique.",
+      "mental": "Poissons, le 1er mars 2026, prenez du temps pour vous recentrer. Pratiquez la méditation ou la respiration consciente chaque matin pour apaiser votre esprit. Écoutez vos émotions sans jugement et écrivez vos pensées dans un journal. N’oubliez pas de prendre des pauses régulières pour vous détendre et cultiver la gratitude, renforçant ainsi votre équilibre intérieur.",
+      "recommended_activity": "cardio",
+      "diet_focus": "légumes",
+      "author": "Astrologly"
+    }
+  }
+}
