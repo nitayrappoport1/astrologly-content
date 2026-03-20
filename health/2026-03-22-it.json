@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-22",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Il 22 marzo 2026, Ariete, concentra la tua energia su esercizi dividendo il tempo tra attività cardiovascolare e stretching. Dedica attenzione alla postura e all’alimentazione sana, evitando cibi processati. Ritaglia momenti di relax per ridurre lo stress e favorire il recupero. Mantieni un equilibrio tra attività e riposo per sostenere il benessere fisico e aumentare i livelli di energia.",
+      "mental": "Ciao Ariete, il 22 marzo 2026 è il momento perfetto per dedicarti alla chiarezza mentale. Pratica la meditazione quotidiana per calmare la mente e riconnetterti con te stessa. Ricorda di respirare profondamente nelle situazioni stressanti e di ascoltare le tue emozioni senza giudizio. Con pazienza, potrai trovare equilibrio e serenità in ogni momento.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, per mantenere il benessere fisico, dedica almeno 30 minuti quotidiani all’attività fisica moderata come camminate rapide o yoga. Assicurati di seguire una dieta equilibrata, ricca di frutta, verdura e proteine leggere. Bevi molta acqua e riposa adeguatamente per reintegrare le energie. Ricorda, il benessere inizia da piccoli gesti quotidiani.",
+      "mental": "Cari Toro, oggi dedica qualche minuto alla respirazione profonda per calmare la mente. Pratica la mindfulness per rimanere presente nel momento e ridurre lo stress. Ascolta le tue emozioni senza giudizio, trovando equilibrio interiore. Ricorda di concederti pause di relax e di affiancare momenti di gratitudine alla tua routine. La cura di sé è la chiave del benessere.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per il 22 marzo 2026, Gemelli, cura il tuo benessere fisico dedicando momenti alla camminata all'aria aperta e stretching quotidiano. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Dormi almeno 7-8 ore e idratati adeguatamente. Questi piccoli gesti aumenteranno le tue energie, migliorando il tuo tono corporeo e il benessere generale.",
+      "mental": "Cari Gemelli, il 22 marzo 2026 è un giorno ideale per coltivare la chiarezza mentale e l’equilibrio emotivo. Dedica qualche minuto alla meditazione o alla respirazione profonda per ridurre lo stress. Ascolta le tue emozioni senza giudizio e privilegia momenti di convivialità con persone care. Coltivare mindfulness ti aiuterà a mantenere serenità e lucidità durante la giornata.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 22 marzo 2026, concentrati sul mantenimento di un equilibrio tra riposo e attività fisica. Pratica esercizi leggeri come yoga o passeggiate all'aperto per aumentare l’energia e ridurre lo stress. Cura l’alimentazione con pasti nutrienti e idratati adeguatamente. Dedica tempo al relax e alla cura del corpo per migliorare il benessere complessivo.",
+      "mental": "Il 22 marzo 2026, Cancro, concentra la tua attenzione sulla pratica della mindfulness quotidiana. Dedica qualche minuto al giorno alla meditazione o alla respirazione profonda, per alleviare stress e migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni, di condividere i tuoi sentimenti con persone di fiducia e di concederti momenti di cura e tranquilla introspezione.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 22 marzo 2026 è un ottimo giorno per concentrarti sulla cura del tuo corpo. Dedica almeno 30 minuti a un’attività aerobica come camminare, correre o nuotare, per aumentare l’energia e ridurre lo stress. Assicurati di mantenere un’alimentazione equilibrata, idratarti adeguatamente e dedicare tempo al riposo e al relax muscolare. Tu puoi farcela!",
+      "mental": "Ciao Leone, il 22 marzo 2026 è il momento ideale per dedicarti alla cura della tua mente e delle tue emozioni. Pratica la meditazione quotidiana per aumentare la chiarezza mentale e ridurre lo stress. Coltiva la consapevolezza nel presente e concediti momenti di ascolto e auto-riflessione. Ricorda di circondarti di energie positive e di essere gentile con te stesso.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Vergine, il 22 marzo 2026 sarà un giorno favorevole per prendersi cura del proprio corpo. Dedica del tempo a esercizi di yoga o passeggiate all'aperto per aumentare energia e benessere. Idratati correttamente e segui un'alimentazione equilibrata, privilegiando cibi freschi e nutrienti. Riposa adeguatamente e ascolta il tuo corpo per mantenerti in equilibrio fisico.",
+      "mental": "Cara Vergine, il 22 marzo 2026 è il momento di dedicarti alla cura della mente e del cuore. Pratica la meditazione quotidiana per aumentare la chiarezza mentale e ridurre lo stress. Trova momenti di silenzio per respirare profondamente e connetterti con i tuoi sentimenti. Ricorda, il benessere emotivo nasce dall’equilibrio e dall’ascolto di te stessa.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Il 22 marzo 2026, la Bilancia dovrebbe concentrarsi su un'alimentazione equilibrata, ricca di frutta e verdura fresche. Dedica del tempo a esercizi dolci come lo yoga o il camminare all’aria aperta, per migliorare energia e benessere. Ricorda di idratarti bene e di ascoltare il tuo corpo, prendendoti pause rigenerative per mantenere l'armonia.",
+      "mental": "Il 22 marzo 2026, Bilancia, concentrati su pratiche di mindfulness e meditazione per ritrovare equilibrio. Dedica del tempo alla riflessione quotidiana, respira profondamente e rispetto i tuoi sentimenti. Ricorda di stabilire confini chiari e di cercare il supporto di amici fidati. Coltiva relax e gratitudine per mantenere benessere mentale ed emotivo stabile.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 22 marzo 2026, Scorpione, concentrati sull’ascolto del tuo corpo. Dedica del tempo a esercizi di stretching e yoga per migliorare flessibilità e energia. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Riposa adeguatamente e idratati con regolarità. Piccoli gesti quotidiani rafforzeranno il tuo benessere e vitalità.",
+      "mental": "Per i Scorpione il 22 marzo 2026, dedicare tempo alla meditazione quotidiana aiuta a migliorare la chiarezza mentale e l’equilibrio emotivo. Pratica tecniche di respirazione profonda per gestire lo stress e ascolta le tue emozioni senza giudizio. Concentrati sul presente, coltivando auto-compassione e gratitudine, per rafforzare il benessere interiore e affrontare con serenità le sfide della giornata.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 22 marzo 2026, Sagittario dovrebbe dedicare attenzione alla cura del proprio corpo. Consigliamo esercizi energici come jogging o yoga, che stimolano vitalità e equilibrio. Mantieni una dieta ricca di frutta, verdura e acqua per sostenere il benessere. Riposati adeguatamente e ascolta il tuo corpo, prevenendo affaticamenti e migliorando il benessere complessivo.",
+      "mental": "Il 22 marzo 2026, Sagittario, dedicati alla pratica della mindfulness per ridurre stress e migliorare la chiarezza mentale. Dedica momenti di riflessione quotidiana, respira profondamente e ascolta le tue emozioni senza giudizio. Coltiva gratitudine e connessione con te stesso e gli altri per mantenere un equilibrio emotivo stabile e forte.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 22 marzo 2026, Capricorno, dedica attenzione al riposo e all’alimentazione equilibrata. Integra esercizi di stretching e camminate all’aperto per aumentare energia e benessere. Assicurati di idratarti correttamente e di praticare tecniche di rilassamento muscolare. Investi nel letto e nelle routines di cura personale per rafforzare corpo e mente, favorendo equilibrio e vitalità.",
+      "mental": "Il 22 marzo 2026, per il Capricorno è importante dedicare tempo alla meditazione e alla respirazione profonda per favorire la chiarezza mentale. Coltiva l’ascolto delle proprie emozioni senza giudizio e trova momenti di calma ogni giorno. Gestisci lo stress attraverso passeggiate all’aperto, mantenendo un atteggiamento positivo e consapevole. Ricorda, il benessere inizia da te.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 22 marzo 2026, dedicati alla cura del tuo corpo: mantenere una dieta equilibrata, ricca di frutta e verdura, ti aiuterà a sostenere energia e benessere. Pratica almeno 30 minuti di esercizio fisico quotidiano, come camminate o yoga, per migliorare la circolazione e alleviare lo stress. Ricorda di idratarti bene e riposare a sufficienza.",
+      "mental": "Il 22 marzo 2026, Lavora sulla chiarezza mentale dedicando momenti di silêncio e meditazione quotidiani. Ricorda di ascoltare le tue emozioni senza giudizio, praticando la respirazione profonda per ridurre lo stress. Coltiva la presenza nel presente con attività che ti portano gioia e consapevolezza, rafforzando così il tuo equilibrio emotivo e il benessere interiore.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 22 marzo 2026, i Pesci dovrebbero concentrarsi sul mantenimento di un equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti a esercizi dolci come yoga o passeggiate all’aperto per rinvigorire corpo e mente. Alimentati con cibi nutrienti, idratati adeguatamente e ascolta i segnali del tuo corpo, favorendo il rilassamento e il benessere generale.",
+      "mental": "Per i Pesci, il 22 marzo 2026 porta un momento favorevole per ricentrarti e ritrovare la calma. Dedica del tempo alla meditazione o alla respirazione profonda per migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio, praticando gratitudine. Stabilisci confini sani e concediti pause, per affrontare lo stress con serenità e equilibrio.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
