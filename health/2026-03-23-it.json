@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-23",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Ciao Ariete! Il 23 marzo 2026 è un giorno perfetto per dedicarti alla cura del corpo. Fai attenzione a mantenere un’alimentazione equilibrata e bevi molta acqua. Inserisci esercizi energici come una camminata veloce o yoga per aumentare la vitalità. Ricorda di ascoltare il tuo corpo, riposare bene e concederti momenti di relax per sentirti al massimo.",
+      "mental": "Ariete, il 23 marzo 2026 è il momento ideale per dedicare tempo alla tua serenità interiore. Pratica mindfulness quotidiana, respira profondamente e concentrati sul presente. Gestisci lo stress con attività rilassanti come yoga o meditazione. Ricorda di ascoltare le tue emozioni e concederti pause, mantenendo equilibrio tra impegno e riposo per una mente più lucida e cuore sereno.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, oggi è importante dedicare attenzione al tuo benessere fisico. Ricorda di mantenere una dieta equilibrata ricca di frutta, verdura e proteine, e di bere molta acqua. Inserisci un’attività fisica quotidiana, come una passeggiata o stretching, per aumentare energia e vitalità. Ascolta il tuo corpo e concediti momenti di riposo e cura personale.",
+      "mental": "Ciao Toro, oggi dedicati alla mindfulness: respira profondamente e concentrati sul presente. Prenditi del tempo per riflettere sui tuoi sentimenti senza giudizio, praticando gratitudine. Per gestire lo stress, concediti pause rigeneranti e attività che ti portano gioia. Ricorda che il benessere emotivo si costruisce con piccoli gesti quotidiani di cura e attenzione a te stesso.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per il 23 marzo 2026, dedicati a mantenere il benessere fisico con attività leggere come camminate o yoga, che favoriscono energia e rilassamento. Assicurati di alimentarti in modo equilibrato, ricco di frutta, verdura e proteine sane. Ricorda di idratarti bene e di ascoltare il tuo corpo, concedendoti riposo quando necessario per rinforzare corpo e mente.",
+      "mental": "Cara Gemelli, il 23 marzo 2026 è un buon momento per dedicarti alla mindfulness. Pratica la meditazione quotidiana e respira profondamente ogni volta che ti senti sopraffatto. Mantieni un diario emotivo per gestire meglio le emozioni e rafforzare la chiarezza mentale. Ricorda di concederti momenti di quiete e ascolto di te stesso. La calma è la chiave del tuo benessere.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 23 marzo 2026, concentrati sul rafforzamento del sistema immunitario attraverso un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti quotidiani a esercizi dolci come camminate o yoga, per aumentare energia e benessere. Prioritizza il riposo e l’idratazione, ascoltando il corpo per mantenere equilibrio e vitalità.",
+      "mental": "Il 23 marzo 2026, Cancro, concentrati sulla cura di te stesso attraverso pratiche di mindfulness e respirazione profonda. Dedica del tempo a riflettere sulle emozioni, permettendoti di liberarti di preoccupazioni ingombranti. Ricorda che il benessere mentale deriva dal mantenere equilibrio tra cuore e mente. Concediti momenti di calma e gratitudine per rafforzare il tuo equilibrio emotivo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 23 marzo 2026 è un ottimo momento per rinnovare la tua routine di salute. Dedica almeno 30 minuti quotidiani ad attività aerobiche come camminate o cycling. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre. Ricorda di idratarti adeguatamente e di dedicare del tempo al riposo e al rilassamento. La cura del tuo corpo ti porterà energia e benessere duraturi.",
+      "mental": "Ciao Leone, il 23 marzo 2026 è un giorno ideale per praticare la mindfulness. Dedica alcuni minuti a respirazioni profonde e meditazione per calmare la mente. Cerca di riconoscere e accettare le emozioni senza giudizio. Ricorda che prenderti cura di te stesso con piccoli momenti di serenità quotidiana rafforza il benessere mentale ed emotivo.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Per la Vergine il 23 marzo 2026, dedicati a rafforzare il tuo benessere fisico. Fai attenzione all’alimentazione equilibrata, privilegiando frutta e verdura fresca. Integra attività leggere come camminate o yoga per aumentare energia e vitalità. Non trascurare il riposo e cura della pelle: idratati bene e dedicati momenti di relax per recuperare le energie.",
+      "mental": "Il 23 marzo 2026, Vergine, concentrati sulla pratica della mindfulness per migliorare la chiarezza mentale. Dedica del tempo alla meditazione e all’autoconsapevolezza per gestire lo stress. Ricorda di concederti pause, coltivare pensieri positivi e ascoltare le tue emozioni. Coltivare equilibrio e compassione verso te stesso rafforzerà il benessere mentale e emotivo, favorendo serenità e crescita interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per la Bilancia del 23 marzo 2026, dedica attenzione al riposo e all’alimentazione equilibrata. Integra esercizio leggero come yoga o passeggiate al matino, che stimolano energia e benessere. Mantieni una routine di idratazione costante e cura la pelle con prodotti nutrienti. Ascolta il tuo corpo e non trascurare mai i segnali di stanchezza.",
+      "mental": "Il 23 marzo 2026, è importante per la Bilancia dedicare del tempo alla riflessione e alla meditazione. Prenditi momenti di calma per respirare profondamente e ristabilire l’equilibrio emotivo. Mantieni una routine di esercizio fisico e alimentazione sana, evitando stress eccessivi. Ricorda di essere gentile con te stesso e di ascoltare i tuoi bisogni interiori.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 23 marzo 2026, i nati sotto il segno dello Scorpione sono chiamati a prendersi cura del loro corpo con attenzione. Dedica tempo a esercizi di rilassamento e attività cardiovascolari, mantenendo un’alimentazione equilibrata. Proteggi il sistema immunitario riposando a sufficienza e idratandoti bene. Ascolta il tuo corpo e concediti momenti di ristoro.",
+      "mental": "Il 23 marzo 2026, Scorpione può migliorare il suo benessere mentale dedicando del tempo alla meditazione quotidiana per rafforzare la chiarezza mentale. Coltiva l’equilibrio emotivo attraverso l’espressione dei sentimenti con persone di fiducia e pratiche di respirazione profonda. Gestisci lo stress con attività rilassanti come yoga o passeggiate nella natura, mantenendo il focus sul presente per favorire serenità e resilienza.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 23 marzo 2026, Sagittario, dedicati a mantenere alta l’energia praticando attività all’aria aperta come camminate o yoga. Cura il riposo e segui una dieta equilibrata ricca di frutta e verdura. Idratati adeguatamente e ascolta i segnali del tuo corpo. Questa giornata è ideale per rinforzare il tuo benessere fisico e ritrovare vitalità.",
+      "mental": "Il 23 marzo 2026, Sagittario, prenditi del tempo per praticare la meditazione quotidiana e respirazioni profonde. Concentrati sulla chiarezza mentale evitando distrazioni inutili. Coltiva l’equilibrio emotivo attraverso l’espressione creativa e il journaling. Quando senti stress, concediti pause rigeneranti e ascolta il tuo corpo. Ricorda di essere gentile con te stesso, promuovendo il benessere interiore e la calma.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 23 marzo 2026, il Capricorno dovrebbe dedicare attenzione al proprio benessere fisico. Concentrati su esercizi equilibrati come yoga o passeggiate all'aperto per aumentare energia e vitalità. Mantieni una dieta equilibrata, idratati bene e cura il riposo. Ascolta il tuo corpo, evitando stress eccessivi, e concediti momenti di relax per ristabilire equilibrio e benessere complessivo.",
+      "mental": "Il 23 marzo 2026, Capricorno, dedicati alla respirazione consapevole e alla meditazione quotidiana per mantenere chiarezza mentale. Riconosci e accetta le tue emozioni senza giudizio, creando uno spazio di equilibrio interiore. Pratica ritagli di tempo per attività rilassanti e condividi i tuoi sentimenti con persone di fiducia. Ricorda, cura te stesso è il primo passo verso il benessere completo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 23 marzo 2026, dedicati alla cura del corpo: mantieni un’alimentazione equilibrata, ricca di frutta e verdura fresca. Pratica esercizi moderati come yoga o camminate all’aria aperta per aumentare energia e benessere. Bevi molta acqua e riposa adeguatamente per rafforzare il sistema immunitario. Ascolta il tuo corpo e prenditi tempo per te stesso.",
+      "mental": "Il 23 marzo 2026, Acquario. Dedica del tempo alla meditazione e alla respirazione profonda per aumentare la chiarezza mentale. Coltiva l'equilibrio emotivo condividendo i tuoi sentimenti con persone di fiducia. Gestisci lo stress praticando attività rilassanti come lo yoga o la passeggiata nella natura. Ricorda, la consapevolezza presente è la chiave del benessere.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Cari Pesci, il 23 marzo 2026 sarà un giorno favorevole per dedicarti alla cura del corpo. Riposa adeguatamente e scegli attività leggere come yoga o passeggiate all'aperto per aumentare energia e benessere. Bevi molta acqua e segui una dieta equilibrata ricca di frutta, verdura e proteine. Ricorda di ascoltare il tuo corpo e rilassarti quando necessario.",
+      "mental": "Per Pesci il 23 marzo 2026, dedica del tempo alla meditazione per favorire chiarezza mentale e calma interiore. Pratica tecniche di respiro profondo per gestire lo stress e mantenere l’equilibrio emotivo. Ascolta i tuoi sentimenti senza giudizio, concedendoti pause di riflessione quotidiana. Ricorda di coltivare la compassione verso te stesso, favorendo benessere e serenità duraturi.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
