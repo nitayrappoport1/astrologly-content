@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-30",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Per Ariete il 30 marzo 2026, concentra la tua energia su attività che rinforzino il corpo, come yoga o passeggiate all'aperto. Bevi molta acqua, segui una dieta equilibrata ricca di frutta e verdura, e dedica tempo al sonno riposante. Mantieni una routine regolare di esercizio per aumentare i livelli di energia e migliorare il benessere fisico complessivo.",
+      "mental": "Per gli Arieti del 30 marzo 2026, dedicati a momenti di meditazione quotidiana per rinforzare la calma interiore. Pratica tecniche di respirazione profonda per gestire lo stress e mantenere la lucidità mentale. Ascolta le tue emozioni senza giudizio, concedendoti pause di relax. Ricorda che il benessere emotivo deriva anche dall’attenzione costante a te stesso e al presente.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 30 marzo 2026 è ideale dedicarti a un'attività fisica costante come camminate quotidiane o yoga dolce. Assicurati di mantenere un'alimentazione equilibrata ricca di frutta, verdura e proteine magre. Idratati adeguatamente e riposa almeno 7-8 ore a notte per sostenere la tua energia, il benessere muscolare e il equilibrio generale.",
+      "mental": "Cari Toro, il 30 marzo 2026 è un giorno perfetto per dedicare tempo alla tua serenità. Pratica respirazioni profonde e meditazione per migliorare la chiarezza mentale. Ascolta le tue emozioni senza giudizio, prendendoti cura di te stesso. Trova momenti di quiete durante la giornata e concentrati sul presente, rafforzando il tuo equilibrio emotivo e riducendo lo stress.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Il 30 marzo 2026, dedicati a prendersi cura del tuo corpo con attività leggere come camminate o yoga, che migliorano energia e relax. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine sane. Ricorda di idratarti adeguatamente e di ascoltare i segnali del tuo corpo. Riposa abbastanza per rigenerare le energie e sentirti al meglio ogni giorno.",
+      "mental": "Cari Gemelli, il 30 marzo 2026 è un giorno ideale per praticare la mindfulness e ritagliarti momenti di calma. Concentrati sulla respirazione profonda e sull’ascolto delle emozioni senza giudizio. Dedica del tempo a scrivere i tuoi pensieri, favorendo la chiarezza mentale. Ricorda di essere gentile con te stesso e di APRIRE il cuore alle emozioni.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 30 marzo 2026, dedicati alla cura del corpo: mantieni un’alimentazione equilibrata ricca di frutta, verdura e cereali integrali. Alterna esercizi di stretching e attività aerobica leggere, come passeggiate all’aperto, per aumentare energia e vitalità. Ricorda di idratarti adeguatamente e di ascoltare i segnali del tuo corpo, favorendo il riposo e il benessere fisico.",
+      "mental": "Caro Cancro, il 30 marzo 2026 è un momento ideale per coltivare la chiarezza mentale attraverso meditazioni quotidiane e pratiche di respirazione profonda. Dedica del tempo alla riflessione personale e ascolta le tue emozioni senza giudizio. Ricorda di stabilire confini sani e di praticare la gratitudine per mantenere un equilibrio emotivo e ridurre lo stress.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, oggi è importante dedicare attenzione al tuo benessere fisico. Favorisci pasti equilibrati ricchi di frutta, verdura e proteine. Dedica almeno 30 minuti all’attività fisica, come una passeggiata o stretching. Idratati adeguatamente e concediti momenti di relax per ridurre lo stress. Ricorda di ascoltare il tuo corpo e prendersi cura di te stesso ogni giorno.",
+      "mental": "Ciao Leone, il 30 marzo 2026 ti invita a dedicare del tempo alla mindfulness, praticando respirazioni profonde e meditazione quotidiana. Concentrati sulla respirazione per ridurre lo stress e favorire la chiarezza mentale. Ricorda di riconoscere e accettare le emozioni senza giudizio, trovando equilibrio interiore e benessere emotivo. Abraza la calma e la consapevolezza.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 30 marzo 2026, Vergine, concentrati sul mantenimento dell’equilibrio fisico. Dedica attenzione alla cura del corpo con alimentazione equilibrata e idratazione costante. Integra esercizi di stretching e camminate quotidiane per stimolare energia e vitalità. Riposa adeguatamente e ascolta i segnali del tuo corpo, favorendo il benessere generale e la rinforzo del sistema immunitario.",
+      "mental": "Il 30 marzo 2026, Vergine, dedicati alla calma interiore. Pratica la meditazione quotidiana e approfondisci tecniche di rilassamento per migliorare la chiarezza mentale. Ascolta le tue emozioni senza giudizio e concediti momenti di pausa. Ricorda di respirare profondamente nei momenti di stress e di apprezzare il presente, coltivando equilibrio e benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per la Bilancia del 30 marzo 2026, concentra la tua attenzione sull’equilibrio tra attività e riposo. Dedica almeno 30 minuti quotidiani a esercizi piacevoli come yoga, passeggiate o stretching. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Idratati adeguatamente e ascolta i segnali del tuo corpo per preservare energia e benessere complessivo.",
+      "mental": "Per bilanciare mente ed emozioni il 30 marzo 2026, dedica qualche minuto alla meditazione quotidiana, focalizzandoti sul respiro. Ricorda di ascoltare attentamente i tuoi sentimenti e di cercare progressivamente l’equilibrio tra impegni e relax. Pratica attività fisica leggera e circondati di persone positive, rafforzando il benessere interiore e la serenità.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 30 marzo 2026, i Scorpione dovrebbero concentrarsi sul mantenimento dell’equilibrio energetico. Dedica del tempo a esercizi di respirazione profonda e yoga, che migliorano la circolazione e riducono lo stress. Cura l’alimentazione con pasti nutrienti e idratati adeguatamente. Ascolta il tuo corpo e riposa quando necessario, rinvigorendo corpo e mente in modo naturale.",
+      "mental": "Il 2026-03-30, lo Scorpione può migliorare il suo benessere mentale dedicando del tempo alla meditazione e alla respirazione profonda. Ricorda di ascoltare le emozioni senza giudizio, trovando equilibrio tra pensieri e sentimenti. Pratica la gratitudine quotidiana e concediti momenti di pausa per ridurre lo stress, rafforzando così la tua chiarezza e stabilità emotiva.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il Sagittario in questa giornata dovrebbe dedicarsi a esercizi all'aperto, come una camminata lenta o yoga. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Assicurati di bere molta acqua e di riposare adeguatamente. Ascolta il tuo corpo, evitando sforzi eccessivi, e dedica del tempo al relax per rinvigorire energia e benessere.",
+      "mental": "Il 30 marzo 2026, il Sagittario dovrebbe dedicare del tempo alla meditazione e alla respirazione profonda per trovare chiarezza mentale e calmare la mente. Ricorda di ascoltare le tue emozioni senza giudizio e praticare gratitudine quotidiana. Gestisci lo stress con attività all'aperto e pause rigeneranti, mantenendo un equilibrio tra azione e riflessione.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 2026-03-30, il Capricorno dovrebbe dedicarsi a un'attività fisica equilibrata, come camminate all’aria aperta o yoga, per aumentare energia e benessere. Mantieni una dieta ricca di alimenti nutrienti e idratati adeguatamente. Ascolta il tuo corpo, riposa quando necessario e cura il tuo corpo con attenzione per mantenere vitalità e equilibrio.",
+      "mental": "Per il Capricorno del 30 marzo 2026, prenditi del tempo ogni giorno per praticare la meditazione o la respirazione profonda, favorendo la chiarezza mentale e il rilassamento. Ricorda di ascoltare le tue emozioni, esprimendole con gentilezza. Organizza momenti di pausa dallo stress, dedicandoti a attività che ti portano gioia. Coltiva la consapevolezza e il rispetto per te stesso.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 30 marzo 2026, dedicati alla cura del corpo attraverso esercizi leggeri come yoga o stretching, che migliorano la flessibilità e riducono lo stress. Mantieni una dieta equilibrata ricca di frutta, verdura e acqua. Dormi almeno 7-8 ore e ascolta il tuo corpo, evitando eccessi. Prendersi cura di sé aumenterà energia e benessere complessivo.",
+      "mental": "Il 30 marzo 2026, Acquario, concentrati sulla chiarezza mentale praticando la meditazione quotidiana. Coltiva l’equilibrio emotivo riconoscendo i tuoi sentimenti senza giudizio. Gestisci lo stress dedicando del tempo a attività rilassanti e respira profondamente. Ricorda, il benessere emotivo nasce dall’ascolto di sé stessi e dalla cura costante del proprio equilibrio interiore.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 30 marzo 2026, i Pesci potrebbero sentirsi più energici se dedicano tempo all’attività fisica moderata come passeggiate o yoga. Concentrati sulla cura del corpo con alimentazione equilibrata e idratazione costante. Riposa abbastanza per favorire il recupero muscolare e mentale. Ricorda di ascoltare sempre il tuo corpo e dedicare momenti di relax e recupero.",
+      "mental": "Per i Pesci il 30 marzo 2026, dedicare del tempo alla meditazione quotidiana aiuterà a migliorare la chiarezza mentale e l’equilibrio emotivo. Pratica tecniche di respirazione profonda e riconosci le tue emozioni senza giudizio. Ricorda di concederti pause di relax, ascoltare il tuo corpo e coltivare la gratitudine, così da gestire meglio lo stress e mantenere un benessere interno stabile.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
