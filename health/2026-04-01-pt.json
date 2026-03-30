@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-01",
+  "language": "pt",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Para Áries em 1º de abril de 2026, priorize atividades físicas que estimulem sua energia, como corrida ou treinos de alta intensidade. Mantenha uma alimentação equilibrada e hidrate-se adequadamente. Reserve tempo para descanso e alongamentos diários para evitar tensões musculares. Ouça seu corpo e ajuste sua rotina de exercícios conforme necessário, promovendo bem-estar e vitalidade contínuos.",
+      "mental": "Áries, em 1º de abril de 2026, concentre-se na clareza mental praticando meditação diária para acalmar sua mente agitada. Busque equilibrar emoções com atividades que promovam relaxamento, como ioga ou caminhadas ao ar livre. Para gerenciar o estresse, estabeleça limites saudáveis e reserve momentos para si mesmo. Cultive a atenção plena e lembre-se de reconhecer suas emoções com compaixão.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetais",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Touro, em 2026-04-01, priorize seu bem-estar físico. Permita-se descansar quando necessário e cuide da sua alimentação com alimentos nutritivos e equilibrados. Inclua exercícios leves, como caminhadas ou ioga, para manter sua energia elevada. Hidrate-se bem e evite excessos. Ouça seu corpo, equilibrando esforço e relaxamento para fortalecer sua saúde e sensação de bem-estar.",
+      "mental": "Touro em 2026-04-01, concentre-se em praticar mindfulness diariamente para fortalecer sua clareza mental. Reserve momentos para a meditação ou respiração profunda, ajudando a equilibrar suas emoções e reduzir o estresse. Permita-se momentos de pausa e autocompaixão, cultivando uma rotina que promove bem-estar emocional. Conectar-se com a natureza também revitaliza sua mente e coração.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Para Gêmeos em 1º de abril de 2026, priorize o cuidado com o corpo através de exercícios leves, como caminhadas ou yoga, para manter a energia equilibrada. Cuide bem da alimentação, priorizando frutas, verduras e água. Tire momentos de descanso para evitar fadiga e pratique alongamentos diários para melhorar a flexibilidade. Ouça seu corpo e invista em bem-estar.",
+      "mental": "Gêmeos, em 2026-04-01, priorize momentos de silêncio e introspecção para fortalecer sua clareza mental. Pratique respiração consciente e meditação diária para equilibrar emoções e reduzir o estresse. Evite multitarefas excessivas, concentrando-se no presente. Cultive a paciência consigo mesmo, e lembre-se de buscar apoio emocional quando necessário. Cuide da sua mente como um seu maior tesouro.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "No dia 1º de abril de 2026, foque na manutenção da sua saúde física por meio de alimentação balanceada, hidratação adequada e sono reparador. Pratique exercícios leves, como caminhada ou yoga, para fortalecer o corpo e melhorar sua energia. Cuide da sua pele e evite o estresse excessivo, priorizando momentos de descanso e autocuidado.",
+      "mental": "No dia 1º de abril de 2026, concentre-se em suas emoções, praticando a atenção plena para promover clareza mental. Reserve um tempo para meditar, respirando profundamente e focando no presente. Cuide de suas emoções, permitindo-se expressar sentimentos com calma e autocompaixão. Gerencie o estresse com atividades que tragam paz, fortalecendo seu bem-estar emocional e mental.",
+      "recommended_activity": "alongamento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Leão em 2026-04-01 deve focar na rotina de exercícios para aumentar sua energia e bem-estar. Inclua atividades como caminhada ao ar livre, yoga ou pilates, que promovem relaxamento e fortalecimento muscular. Cuide da alimentação, priorizando alimentos naturais e hidratação adequada. Reserve tempo para descanso e sono de qualidade, fortalecendo corpo e mente para enfrentar o dia com vitalidade.",
+      "mental": "Leão em 2026-04-01, concentre-se na prática diária de meditação ou respiração consciente para manter a clareza mental. Reserve momentos para refletir e expressar suas emoções de forma saudável. Gerencie o estresse através de atividades que lhe tragam alegria e calma. Cultive o autoconhecimento e seja gentil consigo mesmo, promovendo equilíbrio emocional e bem-estar duradouro.",
+      "recommended_activity": "caminhada",
+      "diet_focus": "grãos integrais",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Para Virgem em 1º de abril de 2026, priorize a alimentação equilibrada e hidratação adequada para manter os níveis de energia. Incorpore atividades físicas regulares, como caminhada ou ioga, para fortalecer o corpo e reduzir o estresse. Cuide da sua higiene e descanso, garantindo momentos de relaxamento. Ouça seu corpo e equilibre esforço e descanso para um bem-estar duradouro.",
+      "mental": "Virgem em 2026-04-01, concentre-se na prática diária de mindfulness, respirando profundamente para acalmar a mente. Reserve momentos para autocompaixão e reflexão, ajudando a manter o equilíbrio emocional. Organize suas tarefas, mas evite a autocrítica excessiva. Priorize o descanso e atividades que tragam paz, fortalecendo sua clareza mental e bem-estar emocional ao longo do dia.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetais",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Para Librianos em 2026-04-01, concentre-se em equilibrar sua energia com exercícios moderados, como yoga ou caminhada ao ar livre. Priorize uma alimentação equilibrada, rica em frutas, verduras e hidratação adequada. Cuide do sono e pratique técnicas de relaxamento para reduzir o estresse. Dessa forma, seu corpo se manterá saudável, promovendo bem-estar e vitalidade.",
+      "mental": "Para Libra em 01/04/2026, pratique meditação diária para fortalecer a clareza mental. Concentre-se em equilibrar emoções, evitando decisões impulsivas. Reserve tempo para atividades que promovam relaxamento, como yoga ou caminhadas na natureza. Cultive a gratidão e escreva um diário para centrar seus pensamentos. Assim, você fortalecerá seu bem-estar emocional e enfrentará desafios com serenidade e equilíbrio.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "No dia 1 de abril de 2026, Escorpião deve focar na manutenção da energia com alimentação equilibrada e hidratação adequada. Pratique exercícios de intensidade moderada, como yoga ou caminhada, para aliviar o estresse. Cuide da pele, hidratando-se bem e evitando exposições excessivas ao sol. Priorize descanso e técnicas de relaxamento para fortalecer seu bem-estar físico.",
+      "mental": "Para Escorpião em 1º de abril de 2026, concentre-se em práticas diárias de mindfulness, como meditação e respiração profunda, para manter a clareza mental. Dedique tempo ao autoconhecimento e permita-se expressar emoções de forma saudável. Estabeleça limites claros para reduzir o estresse. Cultive pensamentos positivos e pratique a gratidão para fortalecer seu equilíbrio emocional e bem-estar geral.",
+      "recommended_activity": "alongamento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Para Sagitário em 1º de abril de 2026, priorize atividades físicas ao ar livre, como caminhadas ou corridas leves, para renovar sua energia. Cuide da alimentação, incluindo alimentos nutritivos e equilibrados. Durma o suficiente e hidrate-se bem. Considere práticas de relaxamento, como yoga ou meditação, para manter seu bem-estar emocional e físico em harmonia.",
+      "mental": "Para Sagitário em 2026-04-01, concentre-se em práticas de atenção plena e respiração profunda para promover clareza mental. Reserve momentos diários para reflexão e autoexpressão, fortalecendo o equilíbrio emocional. Gerencie o estresse com atividades ao ar livre e uma rotina de descanso regular. Cultive a gratidão e o otimismo, ajudando a manter uma perspectiva positiva e centrada.",
+      "recommended_activity": "meditação",
+      "diet_focus": "hidratação",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Para Capricórnio em 1º de abril de 2026, priorize uma rotina de exercícios consistente, como caminhadas ou yoga, para elevar sua energia e aliviar o estresse. Hidrate-se adequadamente e mantenha uma alimentação equilibrada, rica em nutrientes. Cuide do seu corpo com pausas durante o dia, garantindo sono de qualidade. Pequenas ações diárias fortalecerão seu bem-estar físico e emocional.",
+      "mental": "Capricórnio em 1º de abril de 2026 deve focar na praticidade e na reflexão diária para manter clareza mental. Reserve momentos para meditação e respiração profunda, além de estabelecer limites saudáveis. Cultive o autoconhecimento e busque apoio emocional quando necessário, equilibrando responsabilidades com cuidado próprio. Essas ações promoverão estabilidade emocional e bem-estar durante o dia.",
+      "recommended_activity": "alongamento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "No dia 1º de abril de 2026, Aquário deverá focar na alimentação equilibrada e na hidratação adequada para manter níveis de energia. Pratique exercícios leves, como caminhadas ou alongamentos, para fortalecer o corpo e reduzir o estresse. Priorize o sono de qualidade e cuide da higiene pessoal para promover bem-estar geral. Assim, manterá a vitalidade e saúde em dia.",
+      "mental": "Para Aquário em 2026-04-01, foque em práticas diárias de mindfulness, como meditação e respiração consciente, para fortalecer sua clareza mental. Reserve tempo para refletir e expressar suas emoções de forma autêntica, mantendo o equilíbrio emocional. Gerencie o estresse com atividades criativas ou ao ar livre, promovendo bem-estar e calma interior. Priorize seu autocuidado com gentileza e atenção plena.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Peixes em 2026-04-01 devem focar em manter uma rotina de exercícios moderados, como alongamentos ou caminhadas ao ar livre, para aumentar energia e bem-estar. Alimente-se de nutrientes ricos e hidrate-se bem. Priorize momentos de descanso e higiene corporal. Cuide do sono, criando uma rotina relaxante, para fortalecer seu corpo e melhorar seu equilíbrio físico e emocional.",
+      "mental": "Peixes em 1º de abril de 2026, concentre-se em práticas de mindfulness para acalmar a mente. Reserve momentos diários para meditação ou respiração consciente, ajudando a manter o equilíbrio emocional. Evite sobrecarregar-se com emoções, reconhecendo e expressando seus sentimentos com compaixão. Priorize o autocuidado, criando uma rotina que promove clareza mental e bem-estar emocional duradouro.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetais",
+      "author": "Astrologly"
+    }
+  }
+}
