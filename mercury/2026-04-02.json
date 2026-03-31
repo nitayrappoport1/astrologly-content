@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-02",
+  "status": "post_shadow",
+  "currentPeriod": {
+    "started": "2026-03-20",
+    "ends": "2026-04-03",
+    "sign": "pisces"
+  },
+  "nextPeriod": {
+    "starts": "2026-06-29",
+    "ends": "2026-07-23",
+    "sign": "cancer"
+  },
+  "descriptions": {
+    "en": "Mercury is in post-retrograde shadow. The retrograde effects are gradually clearing, but remain cautious with communication and contracts. Review lessons learned during the retrograde period.",
+    "es": "Mercurio está en sombra post-retrógrada. Los efectos retrógrados se están aclarando gradualmente, pero manténgase cauteloso con la comunicación y los contratos. Revise las lecciones aprendidas durante el período retrógrado.",
+    "fr": "Mercure est dans l'ombre post-rétrograde. Les effets rétrogrades se dissipent progressivement, mais restez prudent avec la communication et les contrats. Passez en revue les leçons apprises pendant la période rétrograde.",
+    "pt": "Mercúrio está na sombra pós-retrógrada. Os efeitos retrógrados estão gradualmente se dissipando, mas permaneça cauteloso com comunicação e contratos. Revise as lições aprendidas durante o período retrógrado.",
+    "it": "Mercurio è nell'ombra post-retrograda. Gli effetti retrogradi stanno gradualmente scomparendo, ma rimani cauto con la comunicazione e i contratti. Rivedi le lezioni apprese durante il periodo retrogrado.",
+    "de": "Merkur ist im Nach-Rückläufigkeits-Schatten. Die rückläufigen Effekte klären sich allmählich, bleiben Sie jedoch vorsichtig mit Kommunikation und Verträgen. Überprüfen Sie die während der Rückläufigkeitsperiode gelernten Lektionen."
+  }
+}
