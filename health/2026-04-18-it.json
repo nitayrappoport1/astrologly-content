@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-18",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Ciao Ariete! Per il 18 aprile 2026, concentrati su alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti a un'attività fisica, come una camminata energizzante o yoga, per aumentare la vitalità. Ricordati di idratarti bene e di ascoltare il tuo corpo, concedendoti anche momenti di riposo e relax.",
+      "mental": "Oggi, Ariete, dedicati alla respirazione consapevole e alla meditazione per migliorare chiarezza mentale e calma emotiva. Prenditi del tempo per ascoltare te stesso e riconoscere le tue emozioni senza giudizio. Gestisci lo stress con attività che ti rilassano, come una passeggiata o ascoltare musica. Ricorda che equilibrare mente e cuore ti porterà maggiore serenità e consapevolezza.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 18 aprile 2026, concentrati sulla cura del corpo e dell'energia. Dedica almeno 30 minuti a un’attività fisica moderata, come camminare o yoga, per migliorare la vitalità. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine. Ricordati di idratarti bene e di riposare sufficientemente per sostenere il benessere complessivo.",
+      "mental": "Toro, oggi dedica qualche minuto alla meditazione o alla respirazione profonda per ritrovare calma e chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio, praticando gratitudine ogni giorno. Gestisci lo stress con attività che ti piacciono e mantieni uno spazio di tranquillità nella tua routine, così rafforzerai il tuo benessere emotivo.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per i Gemelli il 18 aprile 2026, concentrati su un’alimentazione equilibrata e ricca di frutta, verdura e proteine magre. Dedica almeno 30 minuti quotidiani all’attività fisica, come camminate o yoga, per aumentare energia e benessere. Ricordati di idratarti adeguatamente e di assumere abbastanza riposo, favorendo il recupero e la vitalità generale.",
+      "mental": "Per i Gemelli il 18 aprile 2026, concentrati sulla pratica della mindfulness per coltivare chiarezza mentale e calma emotiva. Dedica 10 minuti alla meditazione quotidiana e respira profondamente nelle situazioni di stress. Ricorda di ascoltare le tue emozioni senza giudizio e cerca momenti di silenzio interiore per mantenere equilibrio e benessere mentale.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 18 aprile 2026, concentra la tua attenzione su alimentazione equilibrata e attività fisica regolare. Dedica almeno 30 minuti al giorno a esercizi leggeri come camminate o yoga, che migliorano energia e benessere. Idratati adeguatamente e rispetta i segnali del tuo corpo, riposando quando necessario per mantenere vitalità e salute ottimali.",
+      "mental": "Il Cancro il 18 aprile 2026, trova sollievo nella pratica quotidiana della mindfulness: dedicare alcuni minuti alla respirazione profonda aiuta a calmare la mente e ritrovare equilibrio. Proteggi il tuo spazio emotivo, condividi i tuoi sentimenti con persone di fiducia e concediti momenti di auto-cura. Ricorda: il benessere interiore si costruisce passo dopo passo, con amore e pazienza.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, oggi è importante dedicare attenzione al tuo benessere fisico. Mantieni una dieta equilibrata, ricca di frutta e verdura, e resta idratato. Integra esercizi leggeri come camminate o stretching quotidiano per energizzare il corpo. Ricorda di ascoltare il tuo corpo e concederti riposo quando necessario, per sentirti sempre in forma e positivo.",
+      "mental": "Caro Leone, oggi dedica del tempo alla respirazione consapevole per calmare la mente. Pratica la meditazione per aumentare la chiarezza mentale e riconosci i tuoi sentimenti senza giudizio. Se senti stress, fai una passeggiata all'aperto e concentrati sui suoni e i profumi intorno a te. Ricorda di essere gentile con te stesso, trovando equilibrio tra pensieri ed emozioni.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 18 aprile 2026 rappresenta un’ottima giornata per dedicarti alla cura del tuo corpo. Mantieni un’alimentazione equilibrata, ricca di frutta e verdura, e idratati adeguatamente. Integra esercizi leggeri come yoga o passeggiate all’aria aperta per alzare i livelli di energia. Ricorda di ascoltare il tuo corpo e riposarti quando necessario per mantenere il benessere fisico.",
+      "mental": "Vergine, il 18 aprile 2026 porta opportunità di ritrovare equilibrio emotivo e chiarezza mentale. Dedica momenti alla meditazione o alla respirazione profonda, per ridurre stress e ancorarti nel presente. Concentrati sulle piccole cose, coltivando gratitudine quotidiana, e ricorda di ascoltare le tue emozioni con gentilezza. Prenditi cura del tuo benessere interiore per affrontare ogni sfida con serenità.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Il 18 aprile 2026, Bilancia, concentra la tua attenzione sul mantenere equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti a esercizi dolci come yoga o passeggiate all’aperto per aumentare energia e benessere. Prenditi cura della tua alimentazione, privilegiando cibi freschi e nutrienti, e assicurati di idratarti adeguatamente. Ascolta il corpo e rispetta i tuoi tempi di recupero.",
+      "mental": "Per i Bilancia il 18 aprile 2026, dedicare momenti alla meditazione e alla respirazione consapevole aiuta a ristabilire l’equilibrio emotivo e mentale. Pratica la gratitudine ogni giorno e fai attenzione ai segnali del corpo. Ricorda di concederti pause e di circondarti di persone positive per mantenere la calma e la chiarezza interiore.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 18 aprile 2026, i Scorpione dovranno dedicare attenzione al riposo e all'equilibrio energetico. Pratica esercizi moderati come yoga o camminate all’aperto, per rinvigorire il corpo e migliorare la circolazione. Mantieni una dieta equilibrata ricca di vitamine e idratati adeguatamente. Coccolati con routine di cura della pelle per sentirti più energico e pronto alle sfide.",
+      "mental": "Il 18 aprile 2026, lo Scorpione dovrebbe dedicare tempo alla meditazione e alla respirazione profonda per migliorare la chiarezza mentale. Mantieni l’equilibrio emotivo affrontando le sfide con calma e consapevolezza. Pratica attività rilassanti come lo yoga o passeggiate nella natura per ridurre lo stress. Ricorda di ascoltare te stesso e concederti momenti di pausa e riflessione quotidiana.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 18 aprile 2026, Sagittario dovrebbe concentrarsi sull'equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti a esercizi all'aperto, come passeggiate o yoga, per aumentare energia e benessere. Idratati adeguatamente, segui una dieta equilibrata e dedica tempo al riposo. Ascolta il tuo corpo e non trascurare la cura di sé.",
+      "mental": "Per Sagittario il 18 aprile 2026, concentrati sulla pratica della meditazione quotidiana e respiri profondi per mantenere la mente lucida. Coltiva l’equilibrio emotivo dedicando tempo alle tue passioni e alle persone care. Gestisci lo stress con attività fisica e mindfulness, riconoscendo i tuoi bisogni emotivi. Ricorda: la cura di sé è il primo passo verso il benessere complessivo.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Per il 18 aprile 2026, Capricorno, dedica attenzione al benessere fisico. Concentrati su una dieta equilibrata ricca di frutta, verdura e proteine leggere. Integra esercizi di stretching e camminate quotidiane per migliorare energia e flessibilità. Non trascurare il riposo, mantenendo un sonno regolare e di qualità. Prendersi cura del corpo favorisce equilibrio e vitalità duraturi.",
+      "mental": "Capricorno, il 18 aprile 2026. Concentrati sulla respirazione profonda e la meditazione per migliorare la chiarezza mentale. Prenditi del tempo per ascoltare te stesso, riconoscere le emozioni e liberarle con scrittura o yoga. Ricorda di concederti pause di relax e di coltivare la gratitudine. Mantieni equilibrio tra impegno e cura di te.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Per l'Acquario il 18 aprile 2026, concentra le tue energie su esercizi moderati come yoga o passeggiate all'aperto per migliorare la circolazione e rafforzare il sistema immunitario. Assicurati di mantenere una dieta equilibrata ricca di frutta, verdura e acqua. Dedica tempo al riposo per ricaricare corpo e mente, favorendo il benessere complessivo.",
+      "mental": "Il 18 aprile 2026, Acquario, dedica del tempo alla mindfulness e alla respirazione profonda per favorire la chiarezza mentale. Pratica meditazione quotidiana e evita stimoli eccessivi per mantenere l’equilibrio emotivo. Ricorda di ascoltare i tuoi bisogni interiori e di cercare supporto quando necessario. La calma interiore ti guiderà verso una giornata più serena e centrata.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Pesci, il 2026-04-18 è un'ottima giornata per creare routine di cura del corpo. Dedica momenti a esercizi leggeri come stretching o yoga per migliorare energia e flessibilità. Mantieni un’alimentazione equilibrata e idratati adeguatamente. Ascolta il tuo corpo e riposa quando necessario, coltivando benessere e vitalità ogni giorno.",
+      "mental": "Pesci, il 18 aprile 2026, dedicati alla meditazione quotidiana e alla respirazione profonda per favorire chiarezza mentale e equilibrio emozionale. Prenditi del tempo per riflettere, ascoltando le tue emozioni senza giudizio. Affronta lo stress con pratiche di mindfulness e condividi i tuoi sentimenti con persone di fiducia, rafforzando il tuo benessere interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
