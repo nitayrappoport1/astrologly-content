@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-21",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Ciao Ariete! Il 21 aprile 2026, concentra la tua attenzione sull’equilibrio tra attività fisica e riposo. Dedica 30 minuti a esercizi cardiovascolari per aumentare energia e vitalità. Nutri il corpo con pasti equilibrati ricchi di frutta, verdura e proteine magre. Ricordati di idratarti bene e dedicare tempo al relax e alla cura di te stesso.",
+      "mental": "Oggi, Ariete, concediti momenti di calma e riflessione per ritrovare chiarezza mentale. Pratica la respirazione profonda e pause mindful, staccando dalla frenesia quotidiana. Ascolta il tuo cuore e riconosci le tue emozioni, senza giudizio. Ricorda che il benessere emotivo nasce dall’equilibrio tra azione e tranquillità. Dedica tempo a te stesso e alle pratiche di self-care.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 21 aprile 2026 è importante dedicare attenzione alla tua salute fisica. Alcuni suggerimenti utili sono: mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine magre, bevi molta acqua, e cerca di muoverti almeno 30 minuti al giorno con passeggiate o esercizi leggeri. Riposa adeguatamente e ascolta il tuo corpo per evitare stress e stanchezza.",
+      "mental": "Caro Toro, il 21 aprile 2026 è il momento ideale per dedicarti a momenti di tranquillità. Pratica la meditazione quotidianamente, respira profondamente e rallenta i tuoi pensieri. Ricorda di ascoltare le tue emozioni senza giudicarle e di concederti pause di relax. La cura del benessere mentale e emotivo ti aiuterà a affrontare con equilibrio le sfide della giornata.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Il 21 aprile 2026 è un giorno ideale per prendersi cura del proprio corpo. Dedica del tempo a esercizi di stretching e passeggiate all'aperto per aumentare l’energia. Mangia pasti equilibrati e idratati bene. Dormi a sufficienza e pratica tecniche di rilassamento per rinforzare il benessere fisico e mentale. Ascolta il tuo corpo e sii gentile con te stesso.",
+      "mental": "Cari Gemelli, oggi dedica del tempo alla meditazione per calmare la mente e migliorare la chiarezza. Ricorda di ascoltare le tue emozioni senza giudizio e di praticare tecniche di respirazione profonda per gestire lo stress. Cerca di rimanere presente nel momento, coltivando gratitudine e equilibrio interiore per affrontare con serenità ogni sfida.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 21 aprile 2026, concentrati sul mantenimento di un equilibrio tra alimentazione sana e attività fisica regolare. Dedica almeno 30 minuti al giorno a esercizi moderati come camminate, stretching o yoga. Cura l’idratazione, riposa adeguatamente e ascolta il tuo corpo. Questo approccio sosterrà il tuo benessere, aumenterà i livelli di energia e rinforzerà il tuo sistema immunitario.",
+      "mental": "Caro Cancro, il 21 aprile 2026 è un giorno perfetto per dedicarti alla cura del tuo benessere emotivo. Pratica la meditazione quotidiana per migliorare la chiarezza mentale e ridurre lo stress. Ascolta profondamente le tue emozioni, scrivi un diario e concediti momenti di calma. Ricorda, il benessere interiore nasce dall’amore e dalla cura verso te stesso.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, oggi dedica attenzione al tuo benessere fisico. Mantieni un’alimentazione equilibrata, ricca di frutta, verdura e proteine sane. Ricorda di bere abbondante acqua e di praticare almeno 30 minuti di esercizio leggero come camminate o stretching. Ascolta il tuo corpo e riposa quando necessario. Piccoli gesti quotidiani favoriscono energia, vitalità e salute duratura.",
+      "mental": "Caro Leone, il 21 aprile 2026 è importante dedicare tempo a te stesso. Pratica la meditazione giornaliera per migliorare la chiarezza mentale e ridurre lo stress. Ascolta le tue emozioni senza giudizio, trovando equilibrio e tranquillità. Respirazioni profonde e camminate all'aperto ti aiuteranno a mantenere il focus e il benessere emotivo.\tCura te stesso con amore.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 21 aprile 2026, Vergine, dedica attenzione al tuo benessere fisico. Favorisci alimenti nutrienti, ricchi di fibre e vitamine, per mantenere alta l’energia. Incorporate esercizi moderati come yoga o camminate all’aperto per migliorare la circolazione e ridurre stress. Ricorda di idratarti adeguatamente e concederti momenti di relax per rinvigorire corpo e mente.",
+      "mental": "Cara Vergine, il 21 aprile 2026 è il momento ideale per dedicarti alla calma mentale e all’equilibrio emotivo. Dedica alcuni minuti ogni giorno alla meditazione e alla respirazione consapevole per ridurre lo stress. Riconosci e accetta le tue emozioni senza giudizio, praticando gentilezza verso te stessa. Il benessere interiore renderà questa giornata più serena e piena di chiarezza.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per la Bilancia del 21 aprile 2026, concentra la tua energia su una routine equilibrata di esercizio leggero, come yoga o camminate all’aperto, per migliorare energia e benessere. Dedica tempo alla cura del corpo con alimenti freschi e idratazione adeguata. Dormi regolarmente e ascolta i segnali del tuo corpo per mantenere equilibrio e vitalità tutto il giorno.",
+      "mental": "Il 21 aprile 2026, Bilancia, dedicati alla mindfulness: respira profondamente e focalizzati sul presente. Prenditi del tempo per riflettere sui tuoi sentimenti, evitando giudizi. Gestisci lo stress praticando tecniche di rilassamento e afferma i tuoi bisogni con gentilezza. Cerca equilibrio tra desiderio di armonia e cura di te stesso, rafforzando il benessere mentale ed emotivo.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Per lo Scorpione del 21 aprile 2026, dedicati a mantenere la tua energia con attività fisiche leggere come camminate o yoga. Cura l'alimentazione, privilegiando cibi nutrienti e idratandoti adeguatamente. Ascolta il tuo corpo, riposati quando necessario e dedicati momenti di relax per bilanciare mente e corpo. La costanza ti aiuterà a rafforzare la tua vitalità.",
+      "mental": "Per gli Scorpione del 21 aprile 2026, è fondamentale dedicare tempo alla meditazione e alla respirazione profonda per mantenere la calma. Coltivate l'autoconsapevolezza ascoltando le vostre emozioni senza giudizio. Stabilizzate il benessere mentale praticando attività rilassanti e impostando limiti sani. Ricordate di concedervi pause, celebrare i progressi e proteggere il vostro equilibrio emotivo con gentilezza e pazienza.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 2026-04-21, Sagittario dovrebbe concentrarsi su un’attività fisica energizzante come yoga o camminate all’aperto per migliorare il benessere generale. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Ricorda di idratarti bene e dedicarti a momenti di riposo, ascoltando il corpo per mantenere energia e vitalità.",
+      "mental": "Caro Sagittario, oggi è importante coltivare la chiarezza mentale dedicando qualche minuto alla meditazione o alla respirazione profonda. Per mantenere l’equilibrio emotivo, condividi i tuoi sentimenti con una persona di fiducia e pratica gratitudine quotidiana. Gestisci lo stress praticando attività fisica leggera e concedendoti pause di calma, favorendo il benessere e la consapevolezza interiore.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 21 aprile 2026, il Capricorno dovrebbe concentrarsi sul rafforzamento del sistema immunitario e sulla cura del corpo. Dedica tempo a esercizi dolci come lo yoga o le passeggiate all'aperto, favorendo il rilassamento e l’energia. Mantieni un'alimentazione equilibrata ricca di vitamine, idratati adeguatamente e riposa a sufficienza per sentirti rinvigorito e in forma.",
+      "mental": "Capricorno, il 21 aprile 2026 è importante dedicare tempo alla crescita interiore. Pratica la mindfulness quotidianamente, respirando profondamente per ridurre stress e favorire la chiarezza mentale. Cerca di riconoscere e accettare le tue emozioni senza giudizio, prendendoti momenti di pausa. Ricorda che il benessere emotivo si costruisce con pazienza e attenzione costante.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 21 aprile 2026, Acquario dovrebbe dedicare attenzione alla cura del corpo. Concentrati su esercizi leggeri come yoga o passeggiate all'aperto per aumentare energia e vitalità. Mantieni una dieta equilibrata ricca di frutta, verdura e acqua. Riposa adeguatamente e ascolta i segnali del corpo, evitando stress eccessivi per favorire il benessere complessivo.",
+      "mental": "Per gli Acquari del 21 aprile 2026, dedicare del tempo alla meditazione e alla respirazione consapevole aiuta a mantenere la chiarezza mentale. Coltiva l’equilibrio emotivo praticando l’auto-compassione e affrontando le emozioni con apertura. Gestisci lo stress attraverso attività creative e il contatto con la natura, rafforzando il benessere complessivo e riconnettendoti con te stesso.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 21 aprile 2026, Pesci dovrebbe dedicare attenzione al benessere fisico. Fai esercizi leggeri come yoga o passeggiate all'aperto per aumentare energia e vitalità. Mantieni una dieta equilibrata, ricca di frutta, verdura e acqua. Ritaglia momenti di relax e cura il sonno per rinforzare il corpo e migliorare il benessere complessivo.",
+      "mental": "Pesci, il 21 aprile 2026, concentra la tua energia sulla mindfulness e sulla respirazione profonda per ritrovare calma e chiarezza mentale. Prenditi del tempo ogni giorno per riflettere sui tuoi sentimenti e praticare gratitudine. Ricorda di concederti pause rigeneranti, favorendo l’equilibrio emotivo e riducendo lo stress. Ascolta il tuo cuore e sii gentile con te stesso.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
