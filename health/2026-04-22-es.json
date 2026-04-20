@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-22",
+  "language": "es",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Para Aries el 22 de abril de 2026, prioriza el equilibrio físico. Incluye ejercicios cardiovasculares como correr o saltar la cuerda para elevar tu energía. Mantén una alimentación saludable y rica en nutrientes, hidrátate bien y descansa lo suficiente. Incorpora rutinas de estiramiento y atención a tu cuerpo para prevenir lesiones y sentirte vibrante durante todo el día.",
+      "mental": "Para Aries el 22 de abril de 2026, enfócate en practicar la atención plena para calmar la mente. Dedica tiempo a la respiración profunda y la meditación corta cada día, para mantener el equilibrio emocional y reducir el estrés. Escucha tus necesidades emocionales, permitiéndote descansar cuando sea necesario. Estas acciones fortalecerán tu claridad mental y bienestar integral.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Para Tauro el 22 de abril de 2026, enfoca en mantener tu energía con una alimentación equilibrada rica en frutas, verduras y proteínas. Practica ejercicio moderado como caminatas o yoga para fortalecer tu cuerpo y reducir el estrés. Cuida tu cuerpo descansando lo suficiente y manteniendo una buena hidratación. Escucha a tu cuerpo y evita sobrecargarte.",
+      "mental": "Para Tauro en 22 de abril de 2026, enfócate en practicar la respiración profunda y la meditación diaria para mejorar tu claridad mental. Dedica tiempo a actividades que te calmen, como caminar en la naturaleza o escuchar música suave. Prioriza el autocuidado, establece límites y reflexiona sobre tus sentimientos para mantener un equilibrio emocional saludable y reducir el estrés.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Géminis, en esta fecha es importante que priorices tu bienestar físico. Realiza ejercicio cardiovascular moderado para aumentar tu energía y mejorar tu estado de ánimo. Mantén una alimentación equilibrada rica en frutas, verduras y proteínas. Dedica tiempo a descansar y cuidar tu cuerpo, hidratándote adecuadamente y practicando técnicas de relajación para reducir el estrés. Tu bienestar es clave para un día positivo.",
+      "mental": "Géminis, hoy te invita a dedicar tiempo a la introspección y la respiración profunda para aclarar tu mente. Practica mindfulness y journaling para gestionar tus emociones y reducir el estrés. Rodéate de personas que te apoyen y prioriza el descanso. Cuida tu bienestar emocional con pequeños momentos de tranquilidad y autocompasión.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Para cuidar tu salud física, mantén una alimentación equilibrada rica en frutas, verduras y proteínas magras. Realiza ejercicio moderado, como caminatas diarias o yoga, para incrementar tu energía y reducir el estrés. Descansa lo suficiente y bebe agua regularmente. Escucha a tu cuerpo y consulta a tu médico ante cualquier síntoma diferente o persistente para mantenerte fuerte y saludable.",
+      "mental": "Para Cáncer el 22 de abril de 2026, enfócate en la respiración consciente y la meditación diaria para fortalecer tu claridad mental. Establece límites emocionales saludables y comparte tus sentimientos con seres queridos. Practica técnicas de relajación para reducir el estrés y mantén una rutina que priorice el autocuidado. La atención plena te ayudará a encontrar equilibrio y paz interior.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Querido Leo, para mejorar tu bienestar físico, incorpora una rutina de ejercicio moderado como caminar, yoga o natación, al menos 3 veces por semana. Mantén una alimentación equilibrada, hidratándote adecuadamente y durmiendo 7-8 horas diarias. Realiza pausas activas durante el día y cuida tu postura. Escucha a tu cuerpo y busca momentos de relajación para revitalizar tu energía.",
+      "mental": "Leo, hoy es fundamental cuidar tu bienestar emocional. Practica respiraciones profundas y meditación para aumentar tu claridad mental y reducir el estrés. Dedica un tiempo para conectar contigo mismo, expresando gratitud y reconociendo tus logros. Rodéate de personas que apoyen tu crecimiento y mantén un equilibrio entre actividad y descanso. Prioriza tu paz interior y busca momentos de calma en tu rutina diaria.",
+      "recommended_activity": "caminar",
+      "diet_focus": "granos integrales",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "El 22 de abril de 2026, Virgo, prioriza el descanso y la alimentación saludable. Incorpora ejercicios suaves como yoga o caminatas diarias para aumentar tu energía. Cuida tu higiene personal y mantén hidratado. Escucha a tu cuerpo, descansa cuando sea necesario y evita el estrés para mantener un equilibrio físico y emocional óptimo.",
+      "mental": "El 22 de abril de 2026, Virgo, enfócate en practicar mindfulness para cultivar claridad mental y calma emocional. Dedica unos minutos diario a la respiración profunda o meditaciones guiadas, ayudándote a gestionar el estrés y mantener equilibrio emocional. Prioriza tu bienestar mental, evita la autoexigencia y acepta tus sentimientos con compasión para fortalecer tu paz interior.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "El 22 de abril de 2026, Libra, enfoca en mantener un equilibrio en tu bienestar físico. Practica ejercicio suave como yoga o caminatas, que te ayuden a aumentar tu energía y reducir el estrés. Cuida tu alimentación, incorporando frutas, verduras y agua. Dormir bien y mantener rutinas saludables potenciará tu vitalidad y bienestar general en este día.",
+      "mental": "Para Libra, el 22 de abril de 2026, enfócate en practicar mindfulness diariamente, respirando profundamente y conectando con el presente. Dedica tiempo a la introspección para mantener la claridad mental y gestionar el estrés. Rodearte de personas positivas y expresar tus emociones con confianza fortalecerá tu equilibrio emocional, promoviendo una sensación de paz interior y bienestar duradero.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Para Escorpio el 22 de abril de 2026, enfócate en mantener una rutina equilibrada de ejercicio cardiovascular y de fuerza para elevar tu energía. Prioriza el descanso y la hidratación durante el día. Incorpora técnicas de relajación, como yoga o meditación, para reducir el estrés y favorecer la recuperación del cuerpo. Cuida tu alimentación, incluyendo frutas y verduras frescas.",
+      "mental": "Escorpio, hoy es fundamental cuidar tu bienestar emocional y mental. Practica la respiración consciente y la meditación para reducir el estrés. Dedica tiempo a reflexionar y expresar tus sentimientos con confianza. Prioriza el descanso y evita sobrecargarte de responsabilidades. Cultiva pensamientos positivos y enfócate en tus fortalezas internas. Encuentra momentos de calma para mantener tu equilibrio emocional y claridad mental.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Para Sagitario el 22 de abril de 2026, enfócate en mantener una rutina equilibrada de ejercicio cardiovascular y estiramientos. Prioriza una alimentación nutritiva y rica en vitaminas para potenciar tu nivel de energía. Descansa lo suficiente y dedica tiempo a actividades al aire libre para revitalizar tu cuerpo y mente. Cuida de tu bienestar físico para sentirte en plenitud.",
+      "mental": "Sagitario, hoy es clave cuidar tu bienestar emocional y mental. Practica la respiración consciente y la meditación para reducir el estrés. Dedica tiempo a la reflexión y establece límites claros para mantener el equilibrio. Rodéate de personas positivas y busca actividades que te llenen de energía y paz interior. Confía en tu intuición y cultiva la autocompasión para fortalecer tu bienestar integral.",
+      "recommended_activity": "meditación",
+      "diet_focus": "hidratación",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "El 22 de abril de 2026, Capricornio, enfócate en mantener una rutina de ejercicio regular y equilibrada para aumentar tu energía y bienestar. Incluye actividades como caminatas, yoga o natación, que fortalecen cuerpo y mente. Prioriza una alimentación nutritiva y descanso adecuado, además de hidratarte bien. Cuida tu postura para evitar molestias y escucha las señales de tu cuerpo siempre.",
+      "mental": "El 22 de abril de 2026, Capricornio debe priorizar la calma y la introspección. Dedica unos minutos diarios a la meditación para mejorar tu claridad mental y reducir el estrés. Practica la respiración consciente y comparte tus sentimientos con personas de confianza. Encontrar momentos de silencio y gratitud fortalecerá tu equilibrio emocional y te permitirá afrontar los desafíos con serenidad y confianza.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Para Acuario el 22 de abril de 2026, prioriza el descanso adecuado y una alimentación equilibrada para mantener altos niveles de energía. Incorpora ejercicios suaves, como caminatas o yoga, para fortalecer tu cuerpo y reducir el estrés. Cuida tu hidratación y evita exceso de azúcares. Dedica tiempo a relajarte y escuchar las necesidades de tu cuerpo para una salud óptima.",
+      "mental": "Querido Acuario, en esta jornada del 22 de abril de 2026, enfócate en practicar la respiración consciente para calmar la mente. Prioriza tiempo para la introspección y la meditación, ayudando a mantener el equilibrio emocional. Rodéate de personas positivas y establece límites sanos. Ejercicios de gratitud potenciarán tu bienestar y te brindarán claridad mental en momentos desafiantes.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "El 22 de abril de 2026, Piscis, enfócate en mantener una rutina equilibrada de ejercicio suave, como yoga o natación, para mejorar tu energía y bienestar. Prioriza una alimentación saludable y descanso adecuado para fortalecer tu sistema inmunológico. Dedica tiempo a cuidar tu cuerpo, hidratándote y realizando estiramientos diarios para reducir tensiones y aumentar tu vitalidad.",
+      "mental": "Para Piscis en esta fecha, enfócate en la meditación y respiraciones profundas para mejorar tu claridad mental. Dedica tiempo a conectar contigo mismo y expresar tus emociones de manera saludable. Practica la gratitud diaria para equilibrar tus sentimientos y reducir el estrés. Reserva momentos para la reflexión silenciosa y mantén una actitud positiva, fortaleciendo tu bienestar emocional y mental.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    }
+  }
+}
