@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-07",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Cara Ariete, il 7 maggio 2026, dedica del tempo alla cura del tuo corpo attraverso esercizi leggeri come yoga o passeggiate all’aria aperta. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine. Riposa sufficientemente e idratati con acqua. Ascolta i segnali del tuo corpo per mantenere energia e benessere durante tutta la giornata.",
+      "mental": "Il 7 maggio 2026, Ariete, dedicati alla meditazione quotidiana per favorire la chiarezza mentale. Prenditi del tempo per riflettere sulle tue emozioni senza giudizio, praticando tecniche di respirazione profonda. Gestisci lo stress con attività che ti rilassano e ti fanno sentire in equilibrio, come lo yoga o una passeggiata nella natura. Coltiva la consapevolezza e il benessere interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, per migliorare il tuo benessere fisico il 7 maggio 2026, dedica del tempo a rilassarti e idratarti adeguatamente. Integra esercizi cardiovascolari moderati come camminate rapide o cycling, e allunga il corpo quotidianamente. Alimentati con cibi freschi e ricchi di nutrienti, evitando zuccheri raffinati. Ricorda di ascoltare il tuo corpo e riposare quando necessario.",
+      "mental": "Il 7 maggio 2026, dedicati alla cura della mente e delle emozioni. Pratica la meditazione quotidiana per rafforzare la chiarezza mentale. Ricorda di respirare profondamente durante le situazioni di stress e di concederti momenti di pausa. Coltiva la gratitudine e l’autocompassione, aiutandoti a mantenere un equilibrio emotivo e una mente serena.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per il 7 maggio 2026, Gemelli, concentrati sull’equilibrio tra riposo e attività fisica. Inserisci esercizi aerobici leggeri come camminate o yoga, per aumentare energia e benessere. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Dedica attenzione alla cura della pelle e al riposo, favorendo un sonno ristoratore. Il tuo corpo ti ringrazierà!",
+      "mental": "Il 7 maggio 2026, i Gemelli possono favorire la chiarezza mentale praticando sessioni di meditazione quotidiana e respirazioni profonde. Per mantenere l’equilibrio emotivo, dedica tempo alle passioni e circondati di persone positive. Gestisci lo stress con attività rilassanti come lo yoga o la lettura, restando presente nel momento. Ricorda di ascoltare te stesso con compassione e pazienza.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 7 maggio 2026, concentrati sulla cura del corpo attraverso attività leggere come camminate e stretching, per mantenere energia e flessibilità. Alimentati con pasti equilibrati ricchi di frutta, verdura e proteine magre. Dedica del tempo al riposo e all’idratazione, ascoltando i segnali del tuo corpo. La costanza ti sosterrà in tutta la giornata.",
+      "mental": "Il 7 maggio 2026, Cancro dovrebbe dedicare del tempo alla mindfulness e alla respirazione profonda per ridurre lo stress. Concentrati su pratiche di journaling per chiarire i pensieri e riconnetterti con le emozioni. Ricorda di circondarti di persone che ti supportano e di concederti momenti di quiete. Coltivare l’autocura rinforzerà il benessere mentale e emotivo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 7 maggio 2026 è un buon momento per dedicarti alla cura del tuo corpo. Ricorda di mantenere una dieta equilibrata ricca di frutta, verdura e proteine. Approfitta delle prime ore del mattino per praticare esercizio fisico leggero, come camminate o stretching, per aumentare energia e benessere. Bevi molta acqua e ascolta i tuoi bisogni corporei quotidianamente.",
+      "mental": "Caro Leone, il 7 maggio 2026, dedicati alla cura del tuo benessere mentale ed emotivo. Pratica la meditazione quotidiana per aumentare la chiarezza mentale e ridurre lo stress. Ricorda di ascoltare il tuo cuore e di mantenere un equilibrio emotivo, con esercizi di respirazione profonda. Circondati di positività e prenditi del tempo per te stesso.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 7 maggio 2026, Vergine, concentrati sulla cura del tuo corpo: dedica tempo a esercizi leggeri come yoga o passeggiate, che rinvigoriscono energia e benessere. Mantieni una dieta equilibrata ricca di frutta, verdura e cereali integrali. Ricorda di idratarti accuratamente e di ascoltare i segnali del tuo corpo per prevenire affaticamento e migliorare la vitalità.",
+      "mental": "Cara Vergine, il 7 maggio 2026 è il momento ideale per dedicarti alla chiarezza mentale. Pratica la meditazione per calmare la mente e ridurre lo stress. Ascolta le tue emozioni senza giudizio e prenditi del tempo per te stessa. Ricorda che la gentilezza verso te stessa favorisce l’equilibrio emotivo. Mantieni questa attenzione per un benessere duraturo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Cara Bilancia, il 7 maggio 2026, dedicati a ritmi di esercizio equilibrati e dolci, come yoga o passeggiate all’aperto. Mantieni un’alimentazione leggera e bilanciata, ricca di frutta e verdura. Bevi abbondante acqua e riposa adeguatamente. Prenditi cura del corpo ascoltando i suoi bisogni, per mantenere energia e benessere giorno dopo giorno.",
+      "mental": "Il 7 maggio 2026, Bilancia, concentrati sulla respirazione profonda per ridurre lo stress e favorire la calma interiore. Coltiva la consapevolezza quotidiana, dedicando momenti alla meditazione o al journaling. Ricorda di equilibriare il tempo tra relazioni e cura di te stesso. Impegnarti nel benevole ascolto ti aiuterà a mantenere chiarezza mentale e serenità emotiva.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 7 maggio 2026, Scorpione dovrebbe concentrarsi sull’equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti a esercizi cardio o yoga, migliorando energia e benessere. Mantieni un’alimentazione ricca di frutta, verdura e acqua. Non trascurare il riposo, ascolta il tuo corpo e prenditi del tempo per rilassarti. La cura di te stesso favorirà vitalità e serenità.",
+      "mental": "Il 7 maggio 2026, Scorpione, dedicati alla mindfulness e alla respirazione profonda per mantenere chiarezza mentale e equilibrio emotivo. Prenditi del tempo per riflettere e ascoltare le tue emozioni senza giudizio. Gestisci lo stress con attività rilassanti come lo yoga o una passeggiata nella natura. Ricorda, il benessere interiore è la chiave per affrontare con serenità la giornata.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 7 maggio 2026, Sagittario, dedica attenzione alla cura del corpo con esercizi energizzanti come yoga o passeggiate all'aria aperta. Alimentati con pasti equilibrati ricchi di frutta e verdura, e mantieni idratato il corpo. Riposa adeguatamente e ascolta i segnali di stanchezza per mantenere lucentezza e vitalità tutto il giorno.",
+      "mental": "Il 7 maggio 2026, Sagittario, dedicati alla calma interiore e alla chiarezza mentale. Pratica meditazione quotidiana e respira profondamente durante le sfide. Per mantenere l’equilibrio emotivo, scrivi i tuoi pensieri e condividi con persone di fiducia. Ricorda di prenderti momenti di pausa per rilassarti e ricaricare le energie, coltivando la consapevolezza di sé.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 7 maggio 2026, il segno del Capricorno beneficia di un'attenzione speciale al benessere fisico. Dedica del tempo all’attività fisica moderata, come camminate o yoga, per rinvigorire energia e equilibrio. Assicurati di mantenere una dieta equilibrata e idratarti adeguatamente. Riposa bene e ascolta il tuo corpo, promovendo così salute e vitalità durature.",
+      "mental": "Il 7 maggio 2026, il Capricorno può beneficiare di pratiche di mindfulness per favorire la chiarezza mentale e l’equilibrio emotivo. Dedica qualche minuto ogni giorno alla meditazione o alla respirazione profonda. Ricorda di concederti pause e di riconoscere le tue emozioni senza giudizio, aiutandoti così a gestire lo stress con serenità e consapevolezza.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Per l’Acquario del 7 maggio 2026, concentrati su cura del corpo e movimento. Dedica almeno 30 minuti al giorno a esercizi moderati come nuoto, camminata o yoga per aumentare energia e vitalità. Mantieni un’alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Idratati adeguatamente e concediti momenti di rilassamento per favorire il benessere fisico.",
+      "mental": "Il 7 maggio 2026, Acquario, concentrati sulla calma mentale e l’equilibrio emotivo. Practica tecniche di respirazione profonda e mindfulness per ridurre lo stress. Dedica tempo a riflettere sui tuoi sentimenti e a scrivere un diario, favorendo chiarezza e serenità. Ricorda di concederti momenti di relax e di ascoltare il tuo benessere interiore quotidianamente.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Per i Pesci il 7 maggio 2026, concentrati su un’alimentazione equilibrata e ricca di alimenti freschi. Dedica almeno 30 minuti a esercizi moderati come yoga o camminate all'aperto per aumentare energia e vitalità. Cura il riposo, idratati adeguatamente e concediti momenti di relax per il benessere fisico e mentale.",
+      "mental": "Pesci, il 7 maggio 2026, concentrati sulla respirazione consapevole e sulla meditazione per migliorare la chiarezza mentale. Dedica del tempo all’auto-riflessione e ascolta le tue emozioni senza giudizio. Ricorda di stabilire limiti sani e di praticare il rilassamento per gestire lo stress. Coltiva la compassione verso te stesso e gli altri, trovando equilibrio e serenità interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
