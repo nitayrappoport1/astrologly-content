@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-20",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Per Ariete del 20 maggio 2026, concentrati su esercizi energizzanti come cardio e yoga per migliorare la resistenza e il buon umore. Dedica attenzione all’alimentazione equilibrata, ricca di frutta e verdura. Ricorda di idratarti adeguatamente e di concederti momenti di relax per ridurre lo stress. Ascolta il tuo corpo e non trascurare mai il riposo.",
+      "mental": "Ariete, oggi è importante dedicare del tempo al respiro profondo e alla meditazione per mantenere la chiarezza mentale. Ascolta il tuo cuore e riconosci le tue emozioni senza giudizio. Pratica la mindfulness durante le attività quotidiane e concediti pause di relax: equilibrio emotivo e calma interiore ti aiuteranno a affrontare le sfide con serenità e forza.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 20 maggio 2026 è un ottimo giorno per dedicarti al benessere fisico. Assicurati di seguire una dieta equilibrata, ricca di frutta, verdura e proteine magre. Mantieni l’idratazione e fai esercizio moderato, come una passeggiata all’aria aperta o yoga. Ricorda di ascoltare il corpo e di prenderti momenti di relax per rigenerarti.",
+      "mental": "Caro Toro, il 20 maggio 2026 è un momento perfetto per dedicare attenzione alla chiarezza mentale e all’equilibrio emotivo. Pratica la meditazione quotidiana, respira profondamente e concediti pause di riflessione. Sii gentile con te stesso e affronta le sfide con calma. Ricorda che il benessere interiore è la chiave per affrontare ogni situazione con serenità.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per il 20 maggio 2026, prenditi cura del tuo benessere fisico. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti al giorno a esercizi moderati come camminate, yoga o stretching. Assicurati di idratarti adeguatamente e di riposare abbastanza. Il tuo corpo apprezzerà questi piccoli gesti, migliorando energia e vitalità.",
+      "mental": "Il 20 maggio 2026, i Gemelli sono invitati a dedicare del tempo alla mindfulness, praticando respirazioni profonde per ristabilire equilibrio e chiarezza mentale. Ricorda di ascoltare le proprie emozioni senza giudizio e di stabilire limiti sani. Un diario di gratitudine può aiutarti a mantenere un atteggiamento positivo e centrato. Prenditi cura di te con gentilezza e attenzione.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 20 maggio 2026, concentrati sulla cura del corpo: mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti quotidiani a esercizi moderati come camminate o yoga per aumentare energia e benessere. Idratazione costante e sonno regolare sono fondamentali per il recupero e la vitalità. Ascolta il tuo corpo e non trascurare i segnali di stanchezza.",
+      "mental": "Per il Cancro del 20 maggio 2026, concentrati sulla ricerca di chiarezza mentale attraverso meditazioni quotidiane e esercizi di respirazione profonda. Coltiva l’equilibrio emotivo dedicando del tempo al dialogo interiore positivo. Gestisci lo stress praticando attività rilassanti come lo yoga o il journaling, mantenendoti presente nel momento per rafforzare il benessere mentale ed emotivo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 20 maggio 2026 è importante dedicare attenzione al tuo benessere fisico. Concentrati su un'alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Ricorda di mantenerti attivo con esercizi moderati come camminate o yoga, per migliorare energia e flessibilità. Anche il riposo di qualità è essenziale per il tuo equilibrio complessivo.",
+      "mental": "Leone, il 20 maggio 2026, dedicati alla tua serenità. Pratica quotidianamente tecniche di respirazione profonda e mindfulness per migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio, trovando momenti di calma anche nelle giornate più intense. Mantieni un diario per riflettere e rafforzare il tuo equilibrio emotivo. Sii gentile con te stesso.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 20 maggio 2026, Vergine, concentrati sul rafforzamento del sistema immunitario attraverso una dieta equilibrata ricca di frutta, verdura e proteine magre. Dedica del tempo all'esercizio fisico quotidiano, come camminate o yoga, per aumentare energia e benessere. Ricorda anche di idratarti bene e di prenderti cura della tua pelle con idratanti naturali.",
+      "mental": "Il 20 maggio 2026, Vergine, dedica del tempo alla meditazione quotidiana e al respiro profondo per aumentare la chiarezza mentale. Ritaglia momenti di calma per riflettere sulle emozioni e affronta lo stress con tecniche di rilassamento. Coltiva gratitudine ogni giorno e cerca il sostegno di amici per mantenere equilibrio emotivo e benessere psicologico.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Il 20 maggio 2026, la Bilancia dovrebbe concentrarsi su equilibrio e cura di sé. Dedica del tempo a esercizi di stretching e passeggiate all’aperto per aumentare energia e vitalità. Mantieni un’alimentazione equilibrata, idratandoti regolarmente. Riposa sufficiently e ascolta il tuo corpo, favorendo il relax e il benessere. La costanza ti aiuterà a sentirti più energica e in armonia.",
+      "mental": "Il 20 maggio 2026, per la Bilancia, è fondamentale coltivare la calma interiore. Pratica la mindfulness quotidiana e respira profondamente per gestire lo stress. Trova momenti di silenzio per ricaricare le energie mentali e cerca di mantenere un equilibrio tra emozioni e ragione. Ricorda, il benessere deriva dall’armonia tra corpo e mente.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 20 maggio 2026, lo Scorpione dovrebbe concentrarsi su attività che favoriscono il rilassamento e il rafforzamento del corpo, come lo yoga o il nuoto. Mantieni una dieta equilibrata ricca di proteine e verdure fresche, idratati adeguatamente e dormi almeno 7-8 ore. Dedica tempo al massaggio e all’autocura per ricaricare energia e rafforzare il sistema immunitario.",
+      "mental": "Il 20 maggio 2026, Scorpione, dedicati alla meditazione e alla respirazione consapevole per migliorare la chiarezza mentale e l'equilibrio emotivo. Ascolta le tue emozioni senza giudizio e concediti momenti di relax quotidiano. Coltiva il pensiero positivo, praticando gratitudine e auto-compassione per gestire meglio lo stress e rafforzare il benessere interiore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Per il Sagittario del 20 maggio 2026, dedica attenzione al suo benessere fisico. Integra esercizi cardio come camminate o corsa leggera per aumentare energia e vitalità. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine. Prioritizza il riposo e idratati regolarmente. Ascolta il tuo corpo e concediti momenti di rilassamento per mantenere corpo e mente in armonia.",
+      "mental": "Caro Sagittario, il 20 maggio 2026 ti invita a dedicare del tempo alla mindfulness e alla riflessione. Prenditi momenti per respirare profondamente, praticando la gratitudine quotidiana. Gestisci lo stress con attività fisiche leggere e journaling. Mantieni equilibrio emotivo ascoltando te stesso e circondandoti di persone positive. Ricorda, il benessere mentale è fondamentale per una vita felice e serena.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 20 maggio 2026, il Capricorno dovrebbe concentrarsi su attività equilibrate e regolari per mantenere energia stabile. Dedica tempo a esercizi all'aperto come camminate o yoga, che favoriscono benessere e relax. Cura l'alimentazione, preferendo cibi nutrienti e idratandoti adeguatamente. Riposa abbastanza e ascolta il corpo, evitando sforzi eccessivi. Il benessere fisico supporta il tuo equilibrio mentale.",
+      "mental": "Il 20 maggio 2026, Capricorno, focalizzati sulla cura del tuo benessere mentale ed emotivo. Dedica del tempo alla meditazione quotidiana per favorire chiarezza mentale e calma interiore. Ricorda di praticare tecniche di respirazione profonda per gestire lo stress. Circondati di persone positive e ascolta i tuoi bisogni emozionali, coltivando equilibrio e serenità in ogni aspetto della vita.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Caro Acquario, il 20 maggio 2026 è il momento ideale per dedicarti alla cura del corpo. Pratica esercizi energizzanti come yoga o passeggiate all'aria aperta, pubblicamente o con amici. Mantieni una dieta equilibrata, ricca di frutta, verdura e acqua. Dedica attenzione al riposo e alla postura, migliorando la tua vitalità e il benessere generale.",
+      "mental": "Il 20 maggio 2026, Acquario, dedicati alla pratica della mindfulness per migliorare la chiarezza mentale. Prenditi momenti di pausa durante la giornata per respirazioni profonde e meditazione. Ricorda di ascoltare le tue emozioni senza giudizio, mantenendo un equilibrio tra pensieri e sentimenti. Cerca attività creative e sociali che rafforzino il benessere emotivo e riducano lo stress.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Per i Pesci il 20 maggio 2026, concentra l’attenzione sulla cura del corpo e il mantenimento dell’energia. Dedica almeno 30 minuti a esercizi leggeri come yoga o camminate all’aperto. Bevi molta acqua, segui una dieta equilibrata ricca di frutta e verdura, e pratica tecniche di rilassamento per ridurre lo stress. Il benessere fisico sarà la chiave per affrontare la giornata con vitalità.",
+      "mental": "Pesci, il 2026-05-20 sarà un giorno perfetto per coltivare la calma e la chiarezza mentale. Dedica qualche minuto alla meditazione o alla respirazione profonda, concentrandoti sul presente. Ascolta le tue emozioni senza giudizio e cerca il supporto degli affetti. Ricorda che prenderti cura di te stesso è fondamentale per mantenere equilibrio e serenità.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
