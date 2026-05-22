@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-23",
+  "language": "es",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "El 23 de mayo de 2026, Aries, enfócate en mantener tu energía alta con ejercicios cardiovasculares diarios, como correr o andar en bicicleta. Prioriza una alimentación equilibrada rica en frutas, verduras y proteínas magras. No olvides descansar lo suficiente y realizar estiramientos para cuidar tus músculos. La constancia en tu rutina te ayudará a sentirte vital y en armonía física.",
+      "mental": "Para los Aries en 23 de mayo de 2026, enfócate en la respiración consciente y la meditación diaria para mantener la claridad mental. Practica el auto-cuidado y evita decisiones impulsivas. Dedica tiempo a conectar con tus emociones, escribiendo diario o hablando con alguien de confianza. Encuentra momentos de calma en la naturaleza, promoviendo equilibrio y bienestar emocional.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Tauro, para el 23 de mayo de 2026, enfócate en mantener una rutina equilibrada de ejercicio que combine fuerza y flexibilidad, como yoga o caminatas diarias. Prioriza una alimentación saludable y rica en nutrientes, hidratándote adecuadamente. Descansa lo suficiente y evita el estrés excesivo. Cuida tu cuerpo con rutinas de autocuidado para potenciar tu energía y bienestar general.",
+      "mental": "Tauro, el 23 de mayo de 2026, enfoca tu mente en la claridad y la paz interior. Practica la respiración consciente y la meditación diaria para reducir el estrés. Cultiva la paciencia y la autocompasión, permitiéndote procesar emociones con calma. Conecta con la naturaleza y dedica tiempo a actividades que te brinden estabilidad emocional y bienestar, fortaleciendo tu equilibrio integral.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Para Géminis el 23 de mayo de 2026, enfócate en mantener tu energía con actividades físicas variadas, como caminar, yoga o natación. Prioriza una alimentación equilibrada rica en frutas, verduras y proteínas. Descansa lo suficiente y evita el estrés excesivo. Dedica tiempo a cuidar tu cuerpo con hidratación y prácticas de relajación para sentirte vital y en armonía.",
+      "mental": "Géminis, en esta fecha, enfócate en practicar la respiración consciente y la meditación diaria para mantener la claridad mental. Permítete expresar tus emociones sin juzgarlas y busca actividades que te relajen, como el yoga o caminar en la naturaleza. Establece límites saludables y prioriza tu bienestar emocional para afrontar con serenidad cualquier desafío.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Para cuidar tu salud física el 23 de mayo de 2026, enfócate en mantener una alimentación balanceada rica en frutas, verduras y proteínas magras. Incorpora ejercicio moderado diario, como caminar o yoga, para aumentar tu energía. Hidratación adecuada y descanso suficiente reforzarán tu bienestar. Escucha a tu cuerpo y evita excesos, priorizando tu comodidad y recuperación física.",
+      "mental": "El 23 de mayo de 2026, enfoca tu mente en la claridad y la calma. Dedica tiempo a practicar mindfulness, respiraciones profundas y journaling para liberar emociones. Prioriza tu bienestar emocional conectándote con seres queridos y estableciendo límites. Incorpora pequeñas pausas durante el día para reducir el estrés y fortalecer tu equilibrio interno, promoviendo una mayor paz y bienestar en tu vida.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Querido Leo, para mantener tu bienestar físico, realiza ejercicio regularmente, como caminar o yoga, al menos 3 veces por semana. Cuida tu alimentación, priorizando frutas, verduras y proteínas magras. Descansa lo suficiente y mantente hidratado. Evita el estrés excesivo y escucha a tu cuerpo. La constancia en pequeños hábitos mejorará tu energía y salud general.",
+      "mental": "Leo, en este día es importante priorizar tu bienestar emocional. Dedica unos minutos a la respiración consciente para calmar la mente y reducir el estrés. Practica la gratitud y visualiza tus metas para fortalecer tu claridad mental. Permítete descansar y conectarte contigo mismo. Mantén un balance entre actividad y relajación, y recuerda que cuidar tu salud emocional es clave para tu bienestar integral.",
+      "recommended_activity": "caminar",
+      "diet_focus": "granos integrales",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "El 23 de mayo de 2026, Virgo, enfócate en mantener un equilibrio entre ejercicio y descanso. Incluye actividades aeróbicas suaves como caminar o yoga para potenciar tu energía y reducir el estrés. Prioriza una alimentación nutritiva y beba suficiente agua. No olvides dedicar tiempo a cuidar tu piel y descansar adecuadamente para potenciar tu bienestar físico y emocional.",
+      "mental": "El 23 de mayo de 2026, Virgo, enfócate en practicar la respiración consciente y la meditación diaria para fortalecer tu claridad mental. Dedica tiempo a la introspección, aceptando tus emociones sin juicio, y busca actividades que te relajen. Prioriza el descanso y la rutina para mantener el equilibrio emocional y reducir el estrés. Cuida tu bienestar con amor y paciencia.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Para Libra el 23 de mayo de 2026, enfócate en equilibrar tu energía mediante ejercicio suave como yoga o caminatas diarias. Cuida tu alimentación, incorporando frutas, verduras y proteínas ligeras. Prioriza el descanso, evitando el estrés. Hidrátate bien y realiza revisiones médicas periódicas para mantener tu bienestar físico y sentirte en armonía durante el día.",
+      "mental": "El 23 de mayo de 2026, enfócate en mantener la claridad mental practicando meditación diaria y respiraciones conscientes. Busca actividades que te anclen emocionalmente, como paseos en la naturaleza o escribir en un diario. Gestiona el estrés priorizando descanso y estableciendo límites saludables. La atención plena te ayudará a equilibrar tus emociones y a afrontar desafíos con mayor serenidad.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "El 23 de mayo de 2026, Escorpio debe priorizar el cuidado de su salud física. Incorpora ejercicio cardiovascular y de fuerza para aumentar energías y fortalecer tu cuerpo. Mantén una alimentación equilibrada, rica en frutas, verduras y proteínas magras. No olvides descansar adecuadamente y practicar técnicas de relajación para reducir el estrés, promoviendo un bienestar integral y estable.",
+      "mental": "Escorpio, el 23 de mayo de 2026, enfócate en respiraciones profundas y prácticas de mindfulness para mantener claridad mental. Dedica tiempo a expresar tus emociones de forma saludable y busca apoyo si lo necesitas. Evita acumular estrés; realiza actividades que te relajen y te conecten con tu interior, promoviendo bienestar emocional y equilibrio en tu vida cotidiana.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Para Sagitario el 23 de mayo de 2026, prioriza el cuidado de tu cuerpo con ejercicio moderado como caminatas o yoga para mantener niveles de energía óptimos. Alimenta tu cuerpo con comidas nutritivas y agua suficiente. Descansa adecuadamente y escucha a tu cuerpo, evitando el agotamiento. Pequeños cambios positivos fortalecerán tu salud y aumentarán tu bienestar general.",
+      "mental": "Sagitario, en esta fecha, enfócate en practicar la atención plena para mantener claridad mental. Dedica tiempo a la meditación o respiraciones profundas para reducir el estrés. Reconoce tus emociones sin juzgarlas y busca equilibrio interior. Mantén una rutina saludable y conecta con la naturaleza para fortalecer tu bienestar emocional y mental, promoviendo paz y serenidad en tu día a día.",
+      "recommended_activity": "meditación",
+      "diet_focus": "hidratación",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "El 23 de mayo de 2026, Capricornio, enfócate en mantener una rutina equilibrada de ejercicio y descansar lo suficiente para potenciar tu energía. Incluye actividades como caminar o yoga para reducir el estrés. Cuida tu alimentación con alimentos nutritivos y mantente hidratado. Escucha a tu cuerpo y evita el sobreesfuerzo para fortalecer tu bienestar físico y mental.",
+      "mental": "Para Capricornio el 23 de mayo de 2026, enfoca tu energía en la meditación y la respiración consciente para mantener la claridad mental. Dedica tiempo a expresar tus emociones y practicar la autocompasión. Establece límites claros, prioriza el descanso y realiza actividades que te conecten con la naturaleza para reducir el estrés y fortalecer tu bienestar emocional.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "El 23 de mayo de 2026, Acuario debe enfocarse en mantener una rutina regular de ejercicio para incrementar su energía. Incluye actividades como yoga o caminatas al aire libre. No olvides hidratarte adecuadamente y cuidar tu alimentación, priorizando frutas, verduras y proteínas magras. Dormir bien y dedicar tiempo a la relajación te ayudará a sentirte renovado y equilibrado físicamente.",
+      "mental": "Acuario, en este día, enfócate en practicar la atención plena mediante respiraciones profundas y meditación. Permítete liberar pensamientos negativos y priorizar tu bienestar emocional. Establece límites claros para gestionar el estrés y dedicar tiempo a actividades que te brindan paz interior. Confía en tu intuición y busca apoyo si sientes sobrecarga, fortaleciendo así tu equilibrio mental y emocional.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "El 23 de mayo de 2026, Piscis, enfócate en mantener tu bienestar físico mediante una dieta equilibrada y ejercicio suave como yoga o caminatas. Prioriza el descanso y la hidratación para mantener altos niveles de energía. Escucha a tu cuerpo, evita el sobreestrés y realiza rutinas que te conecten con tu bienestar emocional y físico.",
+      "mental": "El 23 de mayo de 2026, Piscis, enfócate en la meditación para mejorar la claridad mental y reducir el estrés. Dedica tiempo a la auto-reflexión y crea límites saludables para mantener tu bienestar emocional. Practica la respiración consciente y busca actividades que te conecten con la naturaleza, promoviendo equilibrio y calma interior en tu día a día.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    }
+  }
+}
