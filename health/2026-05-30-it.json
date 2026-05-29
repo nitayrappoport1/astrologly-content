@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-30",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Cari Ariete, il 30 maggio 2026, concentra la tua attenzione sul mantenimento di un equilibrio tra esercizio e riposo. Dedica almeno 30 minuti a una camminata all'aperto o a un'attività dinamica, piacevole e energizzante. Bevi molta acqua, alimentati con cibi freschi e nutrienti, e concediti momenti di rilassamento per recuperare energie e mantenere il corpo in salute.",
+      "mental": "Cara Ariete, il 30 maggio 2026, dedica tempo alla meditazione e alla respirazione profonda per trovare chiarezza mentale. ascolta le tue emozioni senza giudizio e concediti pause di silenzio. Pratica la gratitudine quotidiana e affronta le sfide con pazienza. Ricorda che il benessere emotivo nasce dall’equilibrio tra azione e introspezione.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Per Toro, il 30 maggio 2026, concentrati sul mantenere energia equilibrata attraverso una dieta bilanciata ricca di frutta, verdura e proteine magre. Dedica almeno 30 minuti al giorno a esercizi moderati come passeggiate, yoga o stretching. Riposa adeguatamente, idratati molto e ascolta sempre i segnali del tuo corpo per preservare benessere e vitalità.",
+      "mental": "Toro, il 30 maggio 2026, dedicati alla cura del tuo benessere mentale ed emotivo. Pratica la meditazione quotidiana per chiarezza e calma interiore. Fai attenzione alle emozioni, prenditi momenti di respiro profondo quando lo stress aumenta. Coltiva la gratitudine e circondati di energie positive. Ricorda: il benessere inizia da te, ogni giorno.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per i Gemelli il 30 maggio 2026, dedicati a un’attività fisica leggera come una passeggiata o yoga, per aumentare energia e benessere. Assicurati di seguire una dieta equilibrata ricca di frutta, verdura e proteine sane. Idratati con acqua e riposa adeguatamente. La costanza e l’attenzione al corpo ti aiuteranno a sentirti energico e in forma.",
+      "mental": "Il 30 maggio 2026, i Gemelli trovano beneficio nel dedicare moments di mindfulness e respirazione profonda per mantenere la chiarezza mentale e l’equilibrio emotivo. Ricorda di ascoltare le tue emozioni senza giudizio e di dedicare tempo a attività che ti rilassano, come la lettura o la meditazione. Coltivare consapevolezza quotidiana ti aiuterà a gestire stress e stimolare il benessere interiore.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 30 maggio 2026, concentra la tua attenzione sulla cura del corpo attraverso un’alimentazione equilibrata e idratazione costante. Dedica 30 minuti a esercizi leggeri come camminate o yoga, per stimolare energia e flessibilità. Dormi adeguatamente e ascolta il tuo corpo, evitando eccessi. Mantieni una routine di auto-cura per rafforzare il benessere fisico.",
+      "mental": "Il 30 maggio 2026, dedicati alla mindfulness: pratica respirazioni profonde e meditazione per migliorare la tua chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudicarle, coltivando equilibrio e autocompassione. Stabilisci piccoli momenti di pausa durante la giornata, concedendoti spazio per rilassarti e ricaricare le energie, favorendo il benessere emotivo e mentale.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 30 maggio 2026, dedicati a mantenere energia e benessere attraverso un’alimentazione equilibrata, ricca di frutta, verdura e proteine magre. Inserisci esercizi cardiovascolari come camminate veloci o nuoto almeno 3 volte a settimana. Ricorda di idratarti correttamente e di dedicare momenti di relax per il corpo e la mente. Prenditi cura di te ogni giorno.",
+      "mental": "Carissimo Leone, il 30 maggio 2026, prenditi del tempo ogni giorno per praticare la respirazione consapevole e meditazioni brevi. Ricorda di ascoltare le tue emozioni senza giudizio e dedicare momenti di quiete per ritrovare la chiarezza mentale. Cerca equilibrio tra impegni e riposo, mantenendo un atteggiamento positivo e aperto alla gratitudine.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 2026-05-30, Vergine, concentrati sul mantenimento di un equilibrio tra attività e riposo. Dedica del tempo a esercizi di stretching e camminate all’aperto, migliorando la circolazione e l’energia. Cura l’alimentazione, preferendo cibi freschi e nutrienti, e assicurati di dormire almeno 7-8 ore. La costanza nelle routine ti aiuterà a sentirti più vitala e in forma.",
+      "mental": "Cara Vergine, il 30 maggio 2026, dedicati alla pratica della mindfulness e alla respirazione profonda per migliorare la chiarezza mentale. Ricorda di concederti momenti di pausa e ascolto interiore, affrontando lo stress con gentilezza. Coltiva l’auto-compassione e scrivi un diario quotidiano per rafforzare l’equilibrio emotivo e mantenere una mente serena.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per i Bilancia del 30 maggio 2026, concentrati su attività equilibrate e rigeneranti. Dedica del tempo a una passeggiata all'aperto o a yoga dolce per aumentare energia e benessere. Alimenta il corpo con pasti leggeri, ricchi di frutta e verdura. Ricorda di idratarti adeguatamente e concederti momenti di relax per mantenere equilibrio e vitalità.",
+      "mental": "Per la Bilancia del 30 maggio 2026, dedicati alla meditazione quotidiana per ritrovare equilibrio interiore. Pratica tecniche di deep breathing quando ti senti sopraffatta e concediti momenti di pausa per ricaricare energia. Coltiva gratitudine e ascolta il tuo cuore per mantenere chiarezza mentale e armonia emotiva, affrontando le sfide con serenità e consapevolezza.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Per gli Scorpioni del 30 maggio 2026, dedicare attenzione al rilassamento muscolare e alla cura del corpo sarà fondamentale. Integra esercizi leggeri come yoga o passeggiate quotidiane, mantenendo una buona idratazione e alimentazione equilibrata. Riposa adeguatamente per mantenere energia, evitando stress fisici e mentali e ascoltando i segnali del tuo corpo.",
+      "mental": "Il 30 maggio 2026, i Scorpione potranno beneficiare di pratiche di meditazione quotidiana per migliorare la chiarezza mentale. Concentrati su respiri profondi e mindfulness per ridurre lo stress. Ricorda di dedicare tempo al rilassamento, ascoltare le emozioni senza giudizio e cercare supporto quando necessario. Coltivare equilibrio emotivo favorisce il benessere e la crescita personale.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 30 maggio 2026, Sagittario dovrebbe concentrarsi sull’equilibrio tra attività fisica e riposo. Dedica del tempo a esercizi all'aperto come camminate o yoga, che stimolano energia e benessere. Riposa adeguatamente e mantieni una dieta equilibrata, ricca di frutta, verdura e acqua. Ascolta il tuo corpo e non trascurare segnali di stanchezza. Prendersi cura di sé è fondamentale.",
+      "mental": "Per il Sagittario del 30 maggio 2026, dedicati alla pratica quotidiana della meditazione e della respirazione profonda per favorire chiarezza mentale e equilibrio emotivo. Prenditi del tempo per immergerti nella natura, ascolta il tuo cuore e riconosci le tue emozioni senza giudizio. Gestisci lo stress con attività ricreative che ti appassionano, mantenendo sempre un atteggiamento positivo e consapevole.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 30 maggio 2026, i Capricorno sono incoraggiati a dedicare attenzione al riposo e alla cura del corpo. Pratica esercizi moderati come camminate o yoga per mantenere energia elevata e ridurre lo stress. Ricorda di idratarti bene, nutrirti in modo equilibrato e ascoltare i segnali del tuo corpo. Il benessere fisico sarà fondamentale per la tua vitalità quotidiana.",
+      "mental": "Il 30 maggio 2026, per il Capricorno è importante dedicare del tempo alla riflessione e alla meditazione. Pratica la respirazione profonda per ridurre lo stress e coltiva la gratitudine quotidiana. Ascolta il tuo cuore e affronta le sfide con pazienza. Ricorda che il benessere emotivo richiede equilibrio tra mente e cuore, concedendoti momenti di calma e introspezione.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 30 maggio 2026, dedica del tempo al benessere fisico: manteniti attivo con esercizi moderati come camminata o stretching, per stimolare energia e flessibilità. Cura l’alimentazione, prediligendo cibi ricchi di nutrienti. Riposa adeguatamente, ascoltando il corpo. Ricorda di idratarti bene e dedicare momenti di rilassamento per rinvigorire mente e corpo.",
+      "mental": "Per l’Acquario del 30 maggio 2026, concentrati sulla chiarezza mentale praticando tecniche di respirazione profonda e meditazione quotidiana. coltiva l’equilibrio emotivo condividendo i tuoi sentimenti con persone di fiducia e dedicando tempo al relax. Ricorda di rispettare i tuoi bisogni, ascoltando il cuore e prendendo spazio per te stesso ogni giorno.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 30 maggio 2026, i Pesci dovrebbero dedicare attenzione alla cura del corpo attraverso attività delicate come yoga o nuoto, che favoriscono il rilassamento e migliorano l’energia. Riposa sufficiently, mantieni un’alimentazione equilibrata ricca di frutta e verdura, e idratati bene. Ascolta il tuo corpo e concediti momenti di relax per rafforzare il benessere fisico e mentale.",
+      "mental": "Cari Pesci, il 30 maggio 2026, concediti momenti di silenzio e meditazione quotidiana per migliorare la chiarezza mentale. Ricorda di respirare profondamente quando ti senti sopraffatto e di praticare la gratitudine per bilanciare le emozioni. Dedica del tempo a te stesso, ascoltando il cuore, e coltiva la calma interiore con esercizi di mindfulness ogni giorno.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
