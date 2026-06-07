@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-08",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Caro Ariete, il 8 giugno 2026 è un giorno ideale per dedicarti alla cura del corpo. Dedica del tempo a un’attività fisica energizzante come una passeggiata o una sessione di yoga. Bevi molta acqua, segui una dieta equilibrata ricca di frutta e verdura, e ascolta il tuo corpo riposando quando necessario. Mantieni il benessere complessivo con cura e attenzione.",
+      "mental": "Ariete, il 8 giugno 2026, dedica del tempo alla meditazione e alla respirazione profonda per alimentare la tua chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio e di concederti pause per ridurre lo stress. Coltiva la mindfulness quotidiana, praticando la gratitudine e l’auto-compassione, per mantenere equilibrio e benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 8 giugno 2026, concentra la tua attenzione sul mantenimento di un equilibrio tra esercizio e riposo. Dedica almeno 30 minuti quotidiani a attività aerobiche leggere come camminate o bici. Nutrilo con pasti bilanciati ricchi di frutta, verdura e proteine. Idratati correttamente e dedicati a momenti di relax per rinvigorire corpo e mente.",
+      "mental": "Per il Toro il 8 giugno 2026, dedica momenti quotidiani alla meditazione e alla respirazione profonda per favorire la chiarezza mentale e l'equilibrio emotivo. Impara a riconoscere e accettare le tue emozioni senza giudizio, praticando la mindfulness. Gestisci lo stress con attività rilassanti come passeggiate all’aria aperta e ascolto della natura. Abbi cura di te, ascolta il tuo cuore.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per i Gemelli il 8 giugno 2026, concentrati su attività che stimolino mente e corpo, come yoga o passeggiate. Mantieni un’alimentazione equilibrata ricca di frutta e verdura, idratati adeguatamente e dormi almeno 7-8 ore. Evita stress eccessivi, dedicando tempo al relax e alle pratiche di autoprotezione. La costanza nelle piccole scelte migliorerà la tua energia e il benessere generale.",
+      "mental": "Cara Gemelli, il 8 giugno 2026 sarà fondamentale dedicare del tempo alla meditazione e alla respirazione profonda per rafforzare la tua chiarezza mentale. Cerca di ascoltare le tue emozioni senza giudicarle e praticare il journaling quotidiano per stabilizzare il tono emotivo. Ricorda di prenderti pause durante la giornata per ridurre lo stress e coltivare il benessere interiore.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 8 giugno 2026, concentra la tua attenzione sul mantenimento di un equilibrio tra riposo e attività fisica. Ricorda di idratarti adeguatamente e di seguire una dieta ricca di frutta, verdura e proteine leggere. Dedica ogni giorno almeno 30 minuti a esercizi moderati come camminate o yoga, per rinforzare il corpo e migliorare i livelli di energia.",
+      "mental": "Il 8 giugno 2026, Cancro, prenditi del tempo per te stesso praticando la mindfulness. Respirazioni profonde e meditazioni quotidiane aiuteranno a mantenere la chiarezza mentale e l’equilibrio emotivo. Ricorda di ascoltare le tue emozioni, condividere i tuoi sentimenti con persone di fiducia e concederti pause di relax per ridurre lo stress e rinvigorire il tuo benessere interiore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, per migliorare il tuo benessere fisico, dedicati a esercizi moderati come camminate o yoga tre volte a settimana. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine magre. Non dimenticare di idratarti bene e di dormire almeno 7-8 ore a notte. Ascolta il tuo corpo e prenditi cura di te ogni giorno.",
+      "mental": "Caro Leone, il 8 giugno 2026 è un momento perfetto per dedicarti alla tua serenità mentale. Pratica la meditazione quotidiana e respira profondamente per calmerare la mente. Ascolta il tuo cuore e riconosci le emozioni senza giudizio. Ricorda di prenderti pause di relax e mantenere un diario di gratitudine. La tua serenità cresce con pazienza e cura.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Per Vergine il 8 giugno 2026, dedica attenzione alla cura del corpo con esercizi leggeri come yoga o stretching per aumentare energia e flessibilità. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e acqua. Riposa adeguatamente e ascolta i segnali del tuo corpo, evitando eccessi. Questa cura quotidiana ti aiuterà a sentirti più energica e in armonia.",
+      "mental": "Vergine, il 8 giugno 2026 sarà importante dedicare tempo alla cura di te stessa. Pratica la mindfulness quotidiana per ristabilire equilibrio e chiarezza mentale. Gestisci lo stress con esercizi di respirazione profonda e concediti momenti di silenzio. Ricorda di ascoltare le tue emozioni, accettandole senza giudizio, per rafforzare il benessere emotivo e mentale.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per la Bilancia del 8 giugno 2026, dedicati a un'alimentazione equilibrata e ricca di nutrienti naturali. Mantieni un’attività fisica regolare, preferibilmente yoga o passeggiate all’aria aperta. Idratati bene e ascolta i segnali del tuo corpo. Prenditi del tempo per il riposo e il rilassamento, migliorando così energia e benessere complessivo.",
+      "mental": "Il 8 giugno 2026, dedicati alla mente e al cuore. Pratica la mindfulness quotidiana, respirando profondamente per mantenere equilibrio emotivo. Cerca di dedicare tempo a te stesso, riflettendo con calma sulle tue emozioni. Gestisci lo stress con attività rilassanti come lo yoga o una passeggiata in natura, rafforzando la chiarezza mentale e il benessere interno.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Per il 8 giugno 2026, lo Scorpione dovrebbe dedicare attenzione al riposo e alla cura del corpo. Integra esercizi di rilassamento come lo yoga e mantenere un’alimentazione equilibrata ricca di frutta e verdura. Assicurati di idratarti bene e di dormire abbastanza per mantenere alti i livelli di energia. La cura quotidiana del corpo favorirà il benessere e la vitalità.",
+      "mental": "Il 8 giugno 2026, i Scorpione sono incoraggiati a praticare la mindfulness quotidiana. Dedica almeno 10 minuti a respirazioni profonde o meditazione, per migliorare la chiarezza mentale e ridurre lo stress. Coltiva l’autenticità nelle emozioni, condividendo i tuoi sentimenti con persone di fiducia. Ricorda di prenderti cura di te stesso, trovando equilibrio tra impegno e relax.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Cari Sagittario, il 8 giugno 2026, dedicati a mantenere alta la tua energia attraverso esercizi all'aperto come camminate o yoga. Bevi molta acqua, alimenta il corpo con cibi freschi e ricchi di nutrienti e concediti momenti di relax. Ascolta i segnali del tuo corpo e non trascurare il riposo, per mantenere un equilibrio ottimale.",
+      "mental": "Il 8 giugno 2026, Sagittario, dedicati alla pratica quotidiana della mindfulness per migliorare la chiarezza mentale e l’equilibrio emotivo. Trova momenti di calma, respirando profondamente e riflettendo sui tuoi sentimenti. Gestisci lo stress con attività che ti appassionano e ti rilassano. Ricorda, ascoltare il tuo cuore ti guiderà verso serenità e benessere duraturo.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 8 giugno 2026, il Capricorno dovrebbe concentrarsi sul mantenimento dell’equilibrio fisico. Dedica del tempo a esercizi di resistenza e stretching per stimolare energia e vitalità. Assicurati di seguire una dieta equilibrata, ricca di nutrienti, e di idratarti adeguatamente. Riposa abbastanza e ascolta il tuo corpo per rafforzare corpo e mente.",
+      "mental": "Il 8 giugno 2026, Capricorno, dedica del tempo alla mindfulness e alla respirazione profonda per mantenere la chiarezza mentale. Ritrova equilibrio emotivo attraverso pratiche di auto-riflessione e journaling. Gestisci lo stress con pause consapevoli e attività rilassanti. Ricorda di ascoltarti, accordando spazio alle emozioni e favorendo il benessere interiore.##",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Per l’Acquario il 8 giugno 2026, concentrati sul mantenimento di energia equilibrata attraverso un’alimentazione sana e idratazione costante. Dedica del tempo a esercizi leggeri come yoga o passeggiate all’aperto, che favoriscono il benessere fisico e mentale. Ricorda di ascoltare il tuo corpo, riposarti a sufficienza e curare la postura per prevenire affaticamenti.",
+      "mental": "Per gli Acquario del 8 giugno 2026, dedicati alla meditazione quotidiana per rafforzare la chiarezza mentale. Pratica tecniche di respirazione profonda per gestire lo stress e mantiene un diario emotivo per riconoscere e affrontare i sentimenti. Dedica tempo a attività creative e mindfulness, favorendo equilibrio e benessere interiore.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Cari Pesci, il 8 giugno 2026 è un ottimo giorno per concentrarti sulla cura del corpo. Dedica tempo a esercizi leggeri come lo yoga o una passeggiata all'aperto, per migliorare energia e benessere. Alimenta il corpo con cibi nutrienti e idratati regolarmente. Ricorda di ascoltare il tuo corpo e riposarti quando necessario.",
+      "mental": "Il 2026-06-08 è un momento ideale per Pesci per prendersi cura del proprio benessere emotivo. Pratica la meditazione o tecniche di respirazione profonda per mantenere la chiarezza mentale. Dedica del tempo ad attività che ti rilassano e ti connettono con te stesso. Ricorda di ascoltare le tue emozioni e di chiedere supporto quando ne hai bisogno.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
