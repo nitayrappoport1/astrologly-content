@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-12",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Per Ariete il 12 giugno 2026, concentrati sull’equilibrio tra attività e riposo. Dedica almeno 30 minuti a esercizi cardiovascolari come camminate veloci o corsa leggera per aumentare energia e benessere. Non dimenticare di idratarti bene e di curare la postura con stretching quotidiano. Ascolta il tuo corpo per mantenere vitalità e salute ottimali.",
+      "mental": "Ariete, il 12 giugno 2026, dedicati alla calma e alla riflessione. Pratica la respirazione profonda e la meditazione per ritrovare chiarezza mentale. Ascolta le tue emozioni senza giudizio, lasciando andare stress e tensioni. Investi del tempo in attività che ti rilassano, come passeggiate nella natura o journaling, per favorire equilibrio e benessere interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Per mantenere Toro in buona salute il 12 giugno 2026, concentrati su un’alimentazione equilibrata ricca di frutta, verdura e proteine magre. Muoviti regolarmente con attività che ti piacciono, come camminate o yoga, per aumentare energia e benessere. Ricorda di idratarti bene e di dedicare tempo al riposo e al relax. La cura del corpo è la chiave per sentirsi al meglio.",
+      "mental": "Il 12 giugno 2026, dedicati al benessere mentale ed emotivo. Pratica la respirazione consapevole e dedica qualche minuto alla meditazione quotidiana. Ascolta le tue emozioni senza giudizio e presta attenzione ai segnali del corpo. Ricorda di pianificare pause rigeneranti e di circondarti di persone positive, favorendo equilibrio e serenità ogni giorno.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per il 12 giugno 2026, prenditi cura del tuo benessere fisico: mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti giornalieri all’attività aerobica, come camminate o nuoto. Riposa adeguatamente, idratati e fai esercizi di stretching. Ascolta il tuo corpo e concede pause per recuperare energia e mantenerti in forma.",
+      "mental": "Il 12 giugno 2026, i Gemelli beneficeranno di momenti di introspezione e rilassamento. Concentrati sulla respirazione profonda e sulla mindfulness per rinforzare la chiarezza mentale e l'equilibrio emotivo. Dedica del tempo a journaling e pratiche di gratitudine, per gestire meglio lo stress e coltivare un atteggiamento positivo. Ricorda di ascoltare sempre te stesso e rispettare i tuoi bisogni emotivi.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Il 12 giugno 2026, concentra attenzione sulla cura del corpo. Mantieni un'alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti a esercizi leggeri come camminate o yoga, per migliorare energia e benessere generale. Assicurati di dormire sufficientemente e di idratarti bene per sostenere il corpo nel suo equilibrio.",
+      "mental": "Il 12 giugno 2026, Cancro, dedicati alla respirazione consapevole e alla meditazione per ritrovare chiarezza mentale. Coltiva l’equilibrio emotivo praticando autocompassione e permettendoti di esprimere le tue emozioni in modo sano. Limita lo stress creando routine rilassanti e prendendo momenti di pausa quotidiani, così rinforzerai il tuo benessere interiore e l’armonia con te stesso.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 12 giugno 2026, concentrati sull’equilibrio tra alimentazione sana, esercizio regolare e riposo adeguato. Dedica almeno 30 minuti al giorno a camminate, stretching o attività cardiovascolari leggere. Idratati con acqua, evita cibi troppo elaborati e ascolta il tuo corpo. Prenditi cura della tua energia per sentirti sempre vitale e in forma.",
+      "mental": "Caro Leone, il 12 giugno 2026, dedicati alla pratica della mindfulness per purificare la mente. Trova momenti di silenzio e respirazione profonda per alleviare lo stress. Ricorda di ascoltare i tuoi sentimenti e dar loro attenzione, mantenendo un equilibrio tra pensieri ed emozioni. Coltiva autocompassione e gratitudine, strumenti fondamentali per il benessere mentale ed emotivo.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 12 giugno 2026, Vergine, concentrati sul mantenimento di un equilibrio tra riposo e attività fisica. Dedica del tempo a esercizi leggeri come camminate o yoga, che migliorano energia e flessibilità. Cura l’alimentazione con pasti equilibrati e idratati, ascoltando il tuo corpo. Ricorda di dedicare attenzione alla cura della pelle e al relax mentale.",
+      "mental": "Il 12 giugno 2026, dedicati alla calma interiore e alla chiarezza mentale. Pratica respirazioni profonde e meditazioni quotidiane per ridurre lo stress. Ricorda di ascoltare le tue emozioni senza giudizio e prenderti del tempo per te stesso. Circondati di positività e formatta momenti di gratitudine per mantenere un equilibrio emotivo stabile e duraturo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per la Bilancia del 12 giugno 2026, concentrati su esercizi equilibrati come yoga o camminate all'aperto, favorendo il relax muscolare. Mantieni una dieta ricca di frutta, verdura e acqua per aumentare energia e benessere. Dedica del tempo anche al riposo e all’autocura, ascoltando il corpo e evitando stress eccessivi.",
+      "mental": "Il 12 giugno 2026, per i Bilancia è fondamentale dedicare del tempo alla meditazione e alla respirazione profonda per migliorare la chiarezza mentale. Concentrati sul mantenere l’equilibrio emotivo attraverso l’ascolto di te stesso e il dialogo interiore positivo. Gestisci lo stress praticando attività rilassanti come lo yoga o la passeggiata all’aperto, coltivando il benessere interiore con mindfulness quotidiana.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Cari Scorpione, il 12 giugno 2026, concentrati sul mantenimento della postura corretta e sull’idratazione. Dedica del tempo a esercizi di rilassamento muscolare e yoga per riequilibrare energia e stress. Alimentati con pasti equilibrati ricchi di verdure, proteine leggere e cereali integrali. Ricorda di ascoltare il tuo corpo e riposare quando necessario per rinvigorirti.",
+      "mental": "Il 12 giugno 2026, dedicati alla cura di te stesso: pratichi tecniche di respirazione profonda e mindfulness per migliorare la chiarezza mentale. Riconosci e accetta le tue emozioni, evitando il giudizio, per mantenere l’equilibrio emotivo. Concediti pause regolari e attività rilassanti, come la meditazione, per ridurre lo stress e nutrire il benessere interiore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 12 giugno 2026, il Sagittario dovrebbe concentrarsi su attività all'aperto per rafforzare corpo e mente. Dedica almeno 30 minuti a esercizi cardio come camminate, corsa o bicicletta. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Riposa adeguatamente e idratati per sostenere i livelli di energia e il benessere fisico generale.",
+      "mental": "Il 12 giugno 2026, Sagittario, concentrati sulla pratica della consapevolezza e del respiro profondo per mantenere la chiarezza mentale. Dedica del tempo a riflettere sulle tue emozioni, scrivendo un diario o meditando. Ricorda di concederti pause e di essere gentile con te stesso, affrontando lo stress con equilibrio e pazienza.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 12 giugno 2026, i Capricorno beneficeranno di un'energia equilibrata. Dedica del tempo a esercizi di stretching e yoga per mantenere corpo e mente in armonia. Alimenta il corpo con pasti equilibrati ricchi di proteine e vitamine. Ricorda di idratarti adeguatamente e di riposare sufficiente, favorendo il benessere complessivo e rinvigorendo le tue energie quotidiane.",
+      "mental": "Il 12 giugno 2026, Capricorno, dedicati alla chiarezza mentale attraverso pratiche di meditazione e respirazione profonda. Ricorda di ascoltare le tue emozioni e di concederti pause rigeneranti. Gestisci lo stress con attività che ti portano pace, come una passeggiata nella natura o journaling. Coltiva la mindfulness quotidiana per rafforzare il tuo equilibrio emotivo e il benessere interiore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 12 giugno 2026, Acquario dovrebbe concentrarsi sul mantenimento di una routine di esercizio regolare, come camminate o yoga, per aumentare energia e benessere. Dedica attenzione all’alimentazione equilibrata, ricca di frutta, verdura e acqua. Ricorda di ascoltare il tuo corpo, concedendoti pause e riposo quanto bisogno, per mantenere il corpo in armonia e vitalità.",
+      "mental": "Cari Acquario, il 12 giugno 2026 è un giorno ideale per dedicarti alla chiarezza mentale e all’equilibrio emotivo. Pratica la meditazione o tecniche di respirazione profonda per ridurre lo stress.**\nDedica del tempo a te stesso, ascoltando i tuoi bisogni e accettando le tue emozioni. Ricorda, il benessere emotivo nasce da piccoli gesti quotidiani di consapevolezza e cura di sé.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Il 12 giugno 2026, i Pesci dovrebbero dedicare attenzione al riposo e all’alimentazione equilibrata per mantenere alti i livelli di energia. Favorisc inghiungere attività leggermente energizzanti come nuoto o yoga, che aiutano a rilassare corpo e mente. Idratarsi adeguatamente e prendersi cura della pelle quotidianamente contribuiranno a sentirsi in forma e vitali.",
+      "mental": "Pesci, il 12 giugno 2026 è un giorno perfetto per dedicare del tempo a te stesso. Coltiva la calma attraverso la respirazione profonda e pratiche di mindfulness. Mantieni la mente chiara, evitando sovraccarichi di pensieri. Ricorda di ascoltare le tue emozioni, trovando equilibrio tra cuore e mente. Prenditi cura del tuo benessere emotivo con pazienza e compassione.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
