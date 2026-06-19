@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-20",
+  "language": "es",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "El 20 de junio de 2026, Aries, enfoca tu energía en mantener una rutina de ejercicio regular, como cardio o yoga, para potenciar tu vitalidad. Prioriza descansar adecuadamente y hidratarte bien. Cuida tu alimentación incorporando frutas, verduras y proteínas. Escucha a tu cuerpo y evita sobrecargar tus músculos. La constancia te ayudará a sentirte con más energía y bienestar general.",
+      "mental": "Querido Aries, en esta fecha, enfócate en practicar la respiración consciente para calmar tu mente y reducir el estrés. Dedica unos minutos diarios a la meditación o a la reflexión personal para fortalecer tu claridad mental y emocional. Reconoce y acepta tus emociones sin juzgarlas, y recuerda que el autocuidado es fundamental para mantener equilibrio y bienestar interior.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "El 20 de junio de 2026, enfoca tu bienestar físico en mantener una rutina equilibrada de ejercicio, como caminar o practicar yoga, para aumentar tu energía. Cuida tu alimentación, priorizando frutas, verduras y proteínas magras. No olvides descansar lo suficiente y realizar pausas activas durante el día. Escucha a tu cuerpo y busca momentos de relajación para potenciar tu salud integral.",
+      "mental": "Tauro, en esta fecha, enfócate en practicar la respiración consciente y la meditación diaria para cultivar claridad mental y calma emocional. Prioriza actividades que te conecten contigo mismo, como paseos en la naturaleza o journaling. Gestiona el estrés estableciendo límites claros y permitiéndote momentos de descanso. Busca apoyo emocional si lo necesitas, recordando que cuidar de ti es fundamental para tu bienestar integral.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Géminis, en esta fecha, prioriza el cuidado de tu cuerpo mediante una alimentación equilibrada y mantenerse hidratado. Incorpora actividad física moderada como caminatas diarias o yoga para elevar tus niveles de energía y reducir el estrés. Dedica tiempo a descansar y cuidar tu piel con productos adecuados. Escucha las señales de tu cuerpo y actúa con cariño y paciencia.",
+      "mental": "Géminis, el 20 de junio de 2026, enfoca en cultivar la claridad mental practicando meditaciones cortas cada día. Respira profundamente cuando te sientas abrumado y comparte tus pensamientos con alguien de confianza. Dedica tiempo a actividades que te conecten contigo mismo, como escribir o escuchar música, para mantener tu equilibrio emocional y reducir el estrés.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "El 20 de junio de 2026, prioriza el cuidado de tu cuerpo mediante una alimentación equilibrada, rica en frutas, verduras y proteínas magras. Mantén una rutina de ejercicio regular, como caminar o yoga, para aumentar tu energía y reducir el estrés. Descansa lo suficiente y evita el consumo de alcohol y tabaco. Escucha a tu cuerpo y busca apoyo médico cuando lo necesites para fortalecer tu bienestar físico.",
+      "mental": "Hoy, Cáncer, enfócate en cultivar la claridad mental mediante prácticas de respiración profunda y meditación diaria. Dedica tiempo a conectar contigo mismo y expresar tus emociones con honestidad. Gestiona el estrés preferiblemente con actividades relajantes como yoga o paseos en la naturaleza. Mantén una actitud positiva, y recuerda que cuidar de tu bienestar emocional te fortalecerá en todos los ámbitos.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "El 20 de junio de 2026, enfócate en mantener una rutina equilibrada de ejercicio, como caminatas diarias o yoga, para mejorar tu energía y flexibilidad. Prioriza una alimentación saludable, hidratándote bien y evitando excesos. Descansa lo suficiente y cuida tu cuerpo con estiramientos y técnicas de relajación para fortalecer tu bienestar físico y mental.",
+      "mental": "Leo, en esta fecha, enfócate en cultivar la claridad mental practicando la meditación diaria y respiraciones profundas. Nutre tu bienestar emocional rodeándote de personas que te apoyen y expresando tus sentimientos con honestidad. Para gestionar el estrés, realiza ejercicio regularmente y reserva tiempo para actividades que te apasionen. La atención plena te ayudará a mantener equilibrio en momentos difíciles.",
+      "recommended_activity": "caminar",
+      "diet_focus": "granos integrales",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "El 20 de junio de 2026, Virgo, enfoca tu energía en mantener una rutina saludable. Incorpora ejercicio moderado, como yoga o caminatas diarias, para potenciar tu vitalidad. Presta atención a tu alimentación, priorizando frutas, verduras y agua. Dedica tiempo a descansar y cuidar tu cuerpo, fortaleciendo tu bienestar físico y emocional en esta etapa.",
+      "mental": "El 20 de junio de 2026, dedica tiempo a la introspección y prácticas de mindfulness para calmar tu mente. Prioriza el descanso y la respiración consciente ante el estrés. Mantén una rutina equilibrada, alimenta tu bienestar emocional con actividades que te llenen de alegría, y busca apoyo si necesitas. Cultiva la autocompasión para fortalecer tu claridad mental y estabilidad emocional.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Para Libra, el 20 de junio de 2026, enfócate en mantener un equilibrio entre ejercicio y descanso. Incorpora actividades como yoga o caminatas al aire libre para fortalecer tu cuerpo y mente. Cuida tu alimentación con comidas nutritivas y mantente hidratada. Escucha las señales de tu cuerpo y prioriza el sueño para mantener altos niveles de energía y bienestar.",
+      "mental": "El 20 de junio de 2026, Libra, enfócate en practicar la respiración profunda y la meditación para mantener claridad mental y equilibrio emocional. Dedica tiempo a actividades que te conecten contigo mismo y promuevan la serenidad, como caminar en la naturaleza o escribir en un diario. Establece límites saludables para gestionar el estrés y prioriza tu bienestar emocional.",
+      "recommended_activity": "descanso",
+      "diet_focus": "vitaminas",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Para Escorpio el 20 de junio de 2026, prioriza el cuidado corporal con una rutina equilibrada de ejercicio cardiovascular y de fuerza. Mantén una alimentación nutritiva y rica en vitaminas, hidrátate adecuadamente y descansa lo suficiente. Escucha a tu cuerpo para evitar agotamiento y fomenta prácticas de relajación como yoga o meditación para aumentar tu energía y bienestar general.",
+      "mental": "Escorpio, el 20 de junio de 2026, enfócate en cultivar la claridad mental practicando meditación diaria. Busca momentos para reflexionar y liberar emociones acumuladas; escribir en un diario puede ser muy útil. Para gestionar el estrés, realiza respiraciones profundas y actividades que te conecten con la naturaleza. Mantén una actitud positiva y agradecida, fortaleciendo tu bienestar emocional y tu paz interior.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Sagitario, el 20 de junio de 2026 es ideal para priorizar tu bienestar físico. Incorpora ejercicios al aire libre, como caminatas o ciclismo, para revitalizar tu energía. Mantén una alimentación equilibrada y bebé suficiente agua. Descansa lo necesario para recuperar fuerzas y evitar agotamientos. Escucha a tu cuerpo y realiza estiramientos diarios para mantener tu vitalidad y bienestar general.",
+      "mental": "Hoy, Sagitario, enfócate en practicar la atención plena para fortalecer tu claridad mental. Dedica unos minutos a respiraciones profundas y la meditación para reducir el estrés. Reconoce tus emociones sin juzgarlas y busca actividades que te llenen de alegría y paz interior. Mantente abierto al cambio y cuida de tu bienestar emocional con paciencia y amor propio.",
+      "recommended_activity": "meditación",
+      "diet_focus": "hidratación",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Para Capricornio el 20 de junio de 2026, enfócate en fortalecer tu bienestar físico. Incorpora ejercicios cardiovasculares suaves y estiramientos diarios para aumentar tu energía. Prioriza una alimentación balanceada, hidratación constante y descanso adecuado. Dedica tiempo a cuidar tu cuerpo con masajes o baños relajantes, promoviendo una sensación de vitalidad y equilibrio interior en esta jornada.",
+      "mental": "Para Capricornio en 20 de junio de 2026, prioriza la claridad mental practicando meditación diaria y respiraciones profundas. Dedica tiempo a conectar con tus emociones, escribiendo en un diario y expresando sentimientos. Gestiona el estrés mediante actividades físicas y pausas conscientes. Cultiva momentos de gratitud y presencia, fortaleciendo tu bienestar emocional y logrando un equilibrio interno que te brinde paz y claridad.",
+      "recommended_activity": "estiramiento",
+      "diet_focus": "frutas",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Acuario, en junio de 2026, enfoca tu energía en mantener una rutina equilibrada de actividad física, como yoga o caminatas diarias. Cuida tu alimentación con alimentos frescos y nutritivos. Descansa lo suficiente y evita el estrés excesivo. Escucha a tu cuerpo, hidrátate bien y dedica tiempo a relajarte, fortaleciendo tu bienestar general y revitalizando tu energía.",
+      "mental": "Acuario, el 20 de junio de 2026, dedica tiempo a la meditación y la respiración profunda para despejar tu mente. Practica la gratitud y comparte tus sentimientos con seres queridos para mantener tu equilibrio emocional. Establece límites claros y realiza actividades que te llenen de alegría y paz interior. Cuida tu bienestar mental y emocional con constancia y amor propio.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteínas",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Para Piscis el 20 de junio de 2026, prioriza tu bienestar físico. Incorpora ejercicio suave como yoga o caminatas para aumentar tu energía y reducir el estrés. Cuida tu cuerpo con una alimentación balanceada y adecuada hidratación. Descansa lo suficiente y evita la sobrecarga. Escucha a tu cuerpo y encuentra tiempo para relax y recuperación diaria.",
+      "mental": "Para Piscis en junio de 2026, enfócate en la claridad mental practicando la meditación diaria y respiraciones profundas. Cultiva el equilibrio emocional escribiendo en un diario y permitiéndote expresar sentimientos. Para manejar el estrés, establece límites y prioriza el descanso. Practica la atención plena, agradece las pequeñas cosas y recuerda que cuidar de ti mismo es esencial para tu bienestar integral.",
+      "recommended_activity": "cardio",
+      "diet_focus": "vegetales",
+      "author": "Astrologly"
+    }
+  }
+}
