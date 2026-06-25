@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-26",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Ariete, il 26 giugno 2026, dedica del tempo al benessere fisico. Favorisci esercizi dinamici come cardio e stretching per aumentare energia e resistenza. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Idratati adeguatamente e concediti momenti di rilassamento muscolare. Ascolta il corpo e non trascurare il riposo per mantenere vitalità e equilibrio.",
+      "mental": "Ariete, il 26 giugno 2026, dedicati a pratiche di mindfulness come la meditazione per calmare la mente. Concentrati sulla respirazione profonda per ridurre lo stress e mantenere equilibrio emotivo. Ricorda di ascoltare i tuoi bisogni interiori e prenderti momenti di pausa. Coltiva la pazienza e l’autocompassione, favorendo chiarezza mentale e serenità quotidiana.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Ciao Toro! Per mantenere il tuo benessere fisico il 26 giugno 2026, dedica almeno 30 minuti a esercizi aerobici come camminata o yoga. Ricorda di idratarti bene, seguire una dieta equilibrata ricca di frutta, verdura e proteine, e di dormire almeno 7-8 ore. Ascolta il tuo corpo e prenditi momenti di relax per rinvigorirti.",
+      "mental": "Toro, il 26 giugno 2026 è un giorno favorevole per ritagliarti momenti di calma e introspezione. Pratica la respirazione profonda e la mindfulness per favorire chiarezza mentale e equilibrio emotivo. Dedica tempo ad attività che ti rilassano e ti connettono con te stesso. Ricorda: prendersi cura della mente e del cuore è fondamentale per il tuo benessere complessivo.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Per mantenere il benessere fisico oggi, concediti un’appropriata idratazione e alimentazione equilibrata, ricca di frutta e verdura. Dedica almeno 30 minuti ad attività fisica leggera, come passeggiate o stretching, per favorire energia e flessibilità. Riposa adeguatamente e pratica tecniche di respirazione per alleviare lo stress. Coltivare cura di sé è fondamentale per il tuo equilibrio.",
+      "mental": "Il 26 giugno 2026, i Gemelli, concentrati sulla calma mentale: dedica alcune minuti alla meditazione e alla respirazione consapevole. Ricorda di ascoltare le tue emozioni senza giudizio, trovando equilibrio nella quotidianità. Mantieni un diario per scaricare pensieri e sentirti più centrati. Con attenzione e gentilezza verso te stesso, rafforzerai il tuo benessere emotivo.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 26 giugno 2026, concentrati sul mantenimento di un’alimentazione equilibrata, ricca di frutta, verdura e proteine leggere. Dedica tempo a esercizi di stretching e yoga per migliorare la flessibilità e ridurre lo stress. Riposa adeguatamente e idratati con acqua naturale durante tutto il giorno. Il benessere fisico sostiene il tuo equilibrio emotivo e energetico.",
+      "mental": "Per i Cancro il 26 giugno 2026, focalizzati sulla cura del tuo benessere emotivo. Dedica del tempo alla meditazione quotidiana per aumentare la chiarezza mentale. Condividi i tuoi sentimenti con persone di fiducia e pratica tecniche di rilassamento per gestire lo stress. Ricorda di ascoltare il tuo cuore e riservare momenti di calma per mantenere equilibrio e serenità.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Cara Leone, il 26 giugno 2026, prenditi cura del tuo corpo con attenzione. Dedica almeno 30 minuti quotidiani all’attività fisica, preferibilmente camminate, yoga o stretching. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine magre. Ricordati di idratarti adeguatamente e di ascoltare i segnali del tuo corpo per preservare energia e benessere ogni giorno.",
+      "mental": "Leone, il 26 giugno 2026, dedicati alla pratica quotidiana della mindfulness per coltivare chiarezza mentale ed equilibrio emotivo. Respirazioni profonde e meditazioni brevi ti aiutano a gestire lo stress. Ricorda di ascoltare le tue emozioni senza giudizio, concedendoti momenti di calma. Focalizzati sulle cose positive e circondati di energia uplifting per mantenere il benessere interiore.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Per la Vergine del 26 giugno 2026, è importante dedicare attenzione al benessere fisico. Concentrati su una dieta equilibrata ricca di frutta, verdura e proteine leggere. Integra esercizi leggeri come yoga o camminate quotidiane per mantenere energia e flessibilità. Ricorda di idratarti bene e di riposare adeguatamente per rinforzare il corpo e migliorare il tono muscolare.",
+      "mental": "Per i Vergine il 26 giugno 2026, prenditi qualche momento ogni giorno per respirare profondamente e praticare la mindfulness. Concentrati sui dettagli positivi e lascia andare le preoccupazioni superflue. Ricorda di dedicare tempo a te stesso, coltivando l’auto-compassione. Mantieni un diario emotivo per condividere pensieri e rafforzare l’equilibrio mentale e il benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per Bilancia il 26 giugno 2026, concentrati su esercizi di equilibrio come yoga o pilates, che migliorano energia e postura. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. Dedica del tempo al riposo e alla cura della pelle, con idratazione e tecniche di rilassamento. Questi cambiamenti supporteranno il benessere fisico e il livello di energia.",
+      "mental": "Bilancia il 26 giugno 2026, dedicati alla mindfulness e alla respirazione profonda per calmare la mente. Focalizzati sulla bilancia tra pensieri e emozioni, evitando decisioni affrettate. Prenditi del tempo per riflettere e praticare gratitudine, rafforzando il benessere emotivo. Ricorda di ascoltare te stesso e cercare serenità nelle piccole cose quotidiane.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Per lo Scorpione del 26 giugno 2026, concentrati sull’equilibrio tra esercizio e riposo. Dedica del tempo a yoga o stretching per rilassare il corpo e migliorare la postura. Mantieni una dieta ricca di frutta, verdura e acqua idratante. Ascolta il tuo corpo e concediti pause rigeneranti per mantenere energia e benessere ottimali.",
+      "mental": "Il 26 giugno 2026, per lo Scorpione, concentrati sulla pratica della mindfulness per migliorare la chiarezza mentale. Dedica momenti alla respirazione profonda e alla riflessione interiore, affinché possa gestire meglio lo stress. Coltiva emozioni positive attraverso l'autoaccettazione e l'empatia, creando un equilibrio sereno e duraturo. Ricorda, il benessere inizia da te.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 26 giugno 2026, Sagittario, dedica attenzione al riposo e all’alimentazione equilibrata. Favorisci esercizi all’aperto come camminate o yoga per migliorare energia e flessibilità. Mantieni una buona idratazione e cura la tua postura quotidiana. Ascolta il tuo corpo e concediti pause rigenerative, rafforzando il benessere complessivo e la vitalità.",
+      "mental": "Caro Sagittario, il 26 giugno 2026 è il momento ideale per dedicarti alla mindfulness e alla riflessione. Pratica la meditazione quotidiana e respira profondamente per mantenere la calma. Focalizzati sulle emozioni senza giudizio e concediti pause rigeneranti. Ricorda che il benessere mentale nasce dall’equilibrio tra corpo e spirito, coltivando gratitudine e auto-compassione ogni giorno.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 26 giugno 2026, i Capricorno sono incoraggiati a dedicare tempo al benessere fisico con esercizi moderati come yoga o camminate all'aperto. Mantieni una dieta equilibrata ricca di frutta e verdura, idratandoti adeguatamente. Ascolta il tuo corpo, riposa quando necessario e cura la postura. Questi piccoli atteggiamenti ti aiuteranno a mantenere energia e vitalità.",
+      "mental": "Caro Capricorno, il 26 giugno 2026, dedicati alla meditazione quotidiana per migliorare la chiarezza mentale. Ricorda di ascoltare le tue emozioni senza giudizio, trovando momenti di calma anche nelle giornate più intense. Pratica tecniche di rilassamento e respira profondamente, favorendo l’equilibrio emotivo. Con pazienza, rafforzerai il tuo benessere mentale e sentimentale.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 26 giugno 2026, Acquario è invitato a prendersi cura del proprio corpo con attenzione. Dedica del tempo a esercizi di stretching e attività cardio leggere per energizzarti. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e acqua. Riposa adeguatamente e ascolta i segnali del tuo corpo per mantenere vitalità e benessere durante la giornata.",
+      "mental": "Per l’Acquario il 26 giugno 2026, dedicati alla pratica della mindfulness quotidiana per rafforzare la chiarezza mentale. Prenditi momenti di riflessione e respirazione profonda per gestire lo stress. Coltiva l’empatia e il supporto alle tue emozioni, permettendoti di mantenere equilibrio e serenità anche nelle situazioni più impegnative. Coccolati con attività che ti facciano sentire bene.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Cari Pesci, il 26 giugno 2026 è un momento ideale per dedicarti alla cura del tuo corpo. Focalizzati su esercizi di stretching e attività di rilassamento come lo yoga. Mantieni un'alimentazione equilibrata e idratati bene. Dormi a sufficienza e ascolta i segnali del tuo corpo per aumentare energia e benessere generale. Ricorda, il tuo benessere viene prima di tutto.",
+      "mental": "Cari Pesci, il 26 giugno 2026 invita a dedicare tempo alla meditazione e alla respirazione profonda per favorire la chiarezza mentale. Coltivate l’empatia e l’autocompassione per mantenere l’equilibrio emotivo. Gestite lo stress praticando tecniche di rilassamento quotidiane e connecto con la natura per rinvigorire lo spirito. Ricordate, il benessere emotivo è un viaggio, non una destinazione.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
