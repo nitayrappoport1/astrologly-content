@@ -1,28 +1,103 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "tz": "Asia/Jerusalem",
   "entries": {
     "aries": {
-      "headline": "Bold steps open new doors in your personal journey",
-      "general": "2026-06-27\n\n**Harness Your Inner Drive for Dynamic Growth**\n\nToday, Aries, your enthusiasm fuels your pursuits across different areas of life. Opportunities for connection flourish as your natural energy draws others in, inspiring collaborative moments that boost your morale. This is a day to trust your instincts, especially when exploring new ideas or taking fearless steps toward your goals. Emotional clarity enhances your interactions, making communication more genuine and engaging. Challenges may arise, but your resilience keeps you grounded. Focus on balancing your ambition with patience, allowing small wins to build momentum. You might also feel a surge of creative inspiration—channel it into a side project or personal hobby. Remember, your proactive spirit can transform obstacles into stepping stones. Do this today: initiate a conversation you've been postponing.",
-      "love": "**Love and Relationship Advice for Aries (2026-06-27)**\n\nToday, focus on listening more deeply to your partner or potential love interests. Single Aries should show genuine curiosity—ask thoughtful questions. For couples, plan a shared activity that sparks connection. Be patient when emotions surface; patience breeds understanding. Trust your instincts but also honor your partner’s feelings today. Do this today: Send a heartfelt message to someone you care about.",
-      "career": "author: \"Astrologly\"\nimage: \"\"\n\n**Career & Financial Guidance for Aries (2026-06-27)**\n\nToday, focus on streamlining your tasks and setting clear priorities. Avoid impulsive decisions—double-check contracts or budgets before signing. Seize opportunities for collaboration that align with your long-term goals. Consider scheduling a financial review or updating your professional skills. Do this today: create a detailed action plan for upcoming projects.",
-      "mood": "Today’s emotional tone for Aries is vibrant and energizing, sparking a sense of possibility. While moments of doubt may flicker, overall optimism encourages strength and forward momentum, filling your spirit with fiery determination.",
+      "headline": "Empowered energy fuels your boldest dreams today",
+      "general": "2026-06-28\n\n**Harness Your Inner Drive for Dynamic Growth**\n\nToday, Aries, your enthusiasm fuels your pursuits across various areas of life. Opportunities for connection flourish as your natural energy draws others in, inspiring collaborative moments that boost your morale. This is a day to trust your instincts, especially when exploring new ideas or taking fearless steps toward your goals. Emotional clarity enhances your interactions, making communication more authentic. Keep an eye on your passions—they could ignite innovative projects or deepen existing relationships. Balancing spontaneity with focus will help you stay on course without feeling overwhelmed. Remember, your motivation is contagious, so share your enthusiasm confidently. Embrace the momentum and let your determination lead the way. Do this today: Reach out to someone you've been meaning to reconnect with and share your latest ideas.",
+      "love": "Unleash your confidence today to deepen connections. Singles should share passions to attract like-minded souls, while couples prioritize honest conversations to build trust. Remember, vulnerability fosters intimacy. Focus on active listening and small gestures that show genuine care. Take action now: plan a meaningful activity together that brings hearts closer. Building stronger bonds begins with intentional, heartfelt efforts.",
+      "career": "Author: Astrologly  \nImage: \"\"  \n\n**Headline:** Igniting New Opportunities Through Focus and Innovation  \n\n**General Horoscope:**  \nToday, Aries, sharpening your focus unlocks new career chances. Embrace innovative ideas and propose projects. Break tasks into smaller steps to stay motivated. Be proactive in networking; connections may lead to growth. Stay adaptable as plans shift. Dedicate 15 minutes to brainstorming your next big step. Focus and flexibility open doors—seize the day confidently.",
+      "mood": "Today, Aries feels an invigorating surge of confidence and enthusiasm, sparking a restless energy that fuels excitement and optimism, even amid challenges. Embrace this vibrant momentum with hope and fearless passion.",
+      "lucky_numbers": [
+        7,
+        19,
+        34
+      ],
+      "lucky_color": "Red",
+      "author": "Astrologly",
+      "image": ""
+    },
+    "taurus": {
+      "headline": "Taurus Embraces Growth and New Opportunities Today",
+      "general": "Today, Taurus, your patience and persistence create a steady rhythm that carries you smoothly through the day. You may find unexpected clarity when tackling complex tasks, as your grounded perspective helps you see solutions others might overlook. Emotional connections deepen when you share genuine vulnerability, fostering trust and intimacy. In work matters, your consistent effort can lead to small breakthroughs that gradually build momentum. Financial opportunities might appear, but assess them carefully before committing. Personal growth comes from embracing calmness amid busy moments, allowing you to stay centered. Creative ideas flow when you allow yourself space to reflect. Do this today: dedicate time to organize a project or space that brings you peace.",
+      "love": "**Headline:** Embrace sincerity today to deepen your emotional bonds\n\n**General Horoscope:** Trust your genuine feelings and communicate openly with loved ones. Singles may find potential partners through heartfelt conversations, while couples can strengthen their connection by sharing vulnerable truths. Focus on patience and active listening. Small gestures of kindness foster intimacy. Today, send a thoughtful message to someone you care about to nurture your relationships and deepen emotional bonds effectively.",
+      "career": "Author: Astrologly  \nImage: \"\"  \n\n**Career and Financial Advice for Taurus — 2026-06-28**  \nToday encourages steady progress and thoughtful planning. Focus on managing your budget carefully and avoiding impulsive expenses to boost financial stability. In your career, communicate clearly with colleagues and prioritize tasks systematically. Revisit your long-term goals and adjust strategies accordingly. Today, map out your financial priorities for the next quarter, aligning actions with your core values.",
+      "mood": "Today, Taurus, your heart feels rooted yet tender, brimming with a quiet resilience. A gentle calm surrounds you, inviting reflection and gratitude, while subtle tensions encourage patience and mindful presence.",
+      "lucky_numbers": [
+        7,
+        22,
+        35
+      ],
+      "lucky_color": "green",
+      "author": "Astrologly",
+      "image": ""
+    },
+    "gemini": {
+      "headline": "Gemini Embrace change and find new opportunities today",
+      "general": "Dynamic conversations ignite your creative energy and help you connect more deeply with those around you. Your curiosity propels you to explore different perspectives, leading to meaningful insights that enhance your understanding of your goals. Professionally, your adaptable nature makes tackling challenges feel natural—your ideas might even inspire collaborative projects today. In relationships, active listening fosters trust and strengthens bonds, whether with friends, family, or partners. Take time to nurture your passions and seek moments of intellectual stimulation. Your versatility is your greatest asset now, allowing you to navigate changes with confidence and grace. Embrace spontaneity to unlock surprises that can enrich your day. Do this today: Reach out to someone you admire and ask for their advice or insights.",
+      "love": "**Love & Relationships for Gemini – 2026-06-28**\n\nToday, your curiosity can deepen connections or spark new sparks. Engage in honest conversations and share your thoughts openly. For singles, join social activities to meet like-minded people; for pairs, plan a spontaneous outing to reignite your bond. Focus on active listening and genuine curiosity. Do this today: send a heartfelt message to someone you admire.",
+      "career": "**Career and Finance for Gemini - 2026-06-28**  \nToday, Gemini, focus on sharpening your skills through online courses or workshops. Seek out networking opportunities, even virtually, to expand your professional circle. Avoid impulsive financial choices; instead, review your budget carefully. Consider long-term investments or savings plans that align with your values. Do this today: set specific career goals and outline steps to achieve them.",
+      "mood": "On 2026-06-28, Gemini's emotional tone is lively yet introspective, shimmering with curiosity amid a gentle calm. The mood sparks playful reflection, inviting openness, creativity, and a sense of spirited exploration throughout your day.",
+      "lucky_numbers": [
+        7,
+        22,
+        35
+      ],
+      "lucky_color": "Silver",
+      "author": "Astrologly",
+      "image": ""
+    },
+    "cancer": {
+      "headline": "Cancer Embrace Change for Personal Growth and New Opportunities",
+      "general": "Nurturing your inner balance brings clarity today, Cancer. You might find yourself reevaluating personal goals or making small adjustments to your daily routine that bring comfort and stability. Relationships, whether with loved ones or colleagues, thrive when you lend your compassionate ear—listening deeply can open new avenues of understanding. Creative energy flows in your environment, inspiring fresh ideas or hobbies that Ground your emotions. Financial matters may demand your attention, so take time to organize upcoming priorities. Trusting your instincts will help navigate surprises smoothly, turning uncertainties into opportunities for growth. Focus on feeling grounded, yet open to positive change. Do this today: write down three priorities to help structure your upcoming week.",
+      "love": "**Love and Relationships for Cancer – 2026-06-28**\n\nToday, Cancer, nurturing honest conversations deepens your connections, whether solo or partnered. Singles, embrace vulnerability to attract genuine intimacy; couples, share your feelings openly. Pay attention to subtle emotional cues and offer reassurance. Small gestures build trust, fostering closeness. Do this today: send a thoughtful message or plan quality time together, strengthening your bond.",
+      "career": "**Career & Financial Advice for Cancer – 2026-06-28**  \n\nToday, focus on organizing your tasks and setting clear priorities. Collaborate effectively with colleagues or partners to unlock new opportunities. Review your budget carefully—identify areas to save and invest wisely for future growth. Avoid impulsive decisions, and stay patient through any setbacks. Do this today: create a detailed plan for your upcoming projects to ensure steady progress.  \n\n**author:** Astrologly  \n**image:** \"\"",
+      "mood": "Today, Cancer feels a gentle glow of introspection blended with quiet optimism. Emotions are tender, nurturing currents guiding reflection and connection. A sense of peaceful renewal softly surrounds your inner world.",
+      "lucky_numbers": [
+        7,
+        23,
+        45
+      ],
+      "lucky_color": "Gold",
+      "author": "Astrologly",
+      "image": ""
+    },
+    "leo": {
+      "headline": "Leo Brilliance Sparks New Opportunities and Deep Connections",
+      "general": "{\n  \"author\": \"Astrologly\",\n  \"image\": \"\",\n  \"headline\": \"Radiant energy fuels your pursuits and relationships\",\n  \"main_horoscope\": \"Today, your vibrant energy sparks motivation across many areas of life. Professionally, your enthusiasm attracts admiration, helping you stand out in meetings or projects. Trust your instincts when exploring new ideas—they could lead to fruitful collaborations. In personal life, genuine connections deepen as you openly share thoughts and listen attentively. Financially, staying organized and reflecting on your priorities keeps you grounded amid shifting circumstances. This is an ideal moment to balance ambition with self-care, ensuring your energy flows constructively. Opportunities for growth unfold naturally if you remain authentic and receptive. Flexibility will serve you well, opening doors to unforeseen possibilities and enriching your day’s experience. Do this today: Write down three goals you want to accomplish this week.\",\n  \"love\": \"Whether single or paired, your love life is illuminated today. Express your feelings",
+      "love": "**Love and Relationship Advice for Leo – 2026-06-28**\n\nToday, Leo, your warmth draws others in, inspiring genuine connections. Singles should embrace vulnerability to attract authenticity; couples can plan a heartfelt surprise to deepen intimacy. Avoid rushing; focus on listening actively and expressing appreciation. Show your genuine self without overwhelming. Do this today: send a heartfelt message to someone you trust.",
+      "career": "**Author:** Astrologly  \n**Image:** \"\"  \n\n**Career & Financial Advice for Leo – 2026-06-28**  \nToday, focus on refining your skills and seeking feedback; continuous improvement opens new doors. Manage your resources carefully—avoid impulsive spending. Collaborate with trusted colleagues to advance projects. Consider budgeting for long-term goals rather than immediate gains. Stay adaptable in changing circumstances. Do this today: review your financial goals and identify one skill to enhance.",
+      "mood": "Leo's emotional tone today is vibrant yet introspective, filled with fiery passion and gentle vulnerability. There's a sense of bold optimism intertwined with moments of quiet reflection, fostering a balanced, hopeful mood.",
+      "lucky_numbers": [
+        7,
+        19,
+        34
+      ],
+      "lucky_color": "Gold",
+      "author": "Astrologly",
+      "image": ""
+    },
+    "virgo": {
+      "headline": "Your keen insight guides new opportunities and growth",
+      "general": "2026-06-28 - Virgo Horoscope\n\nToday’s energy encourages balance across your daily routines and personal goals, offering a chance to streamline essential tasks while remaining attentive to emerging opportunities. Your sharp focus can help you clarify long-term plans, especially regarding finances or personal projects. Social interactions may bring fresh perspectives, so remain open to meaningful conversations that can deepen your understanding of others. Embrace moments of calm to reflect on your priorities and adjust your approach if needed. This is a day to harmonize effort and intuition, ensuring your actions align with your values. Emotional insight strengthens your connections, fostering trust and authenticity. Do this today: organize your workspace to create clarity and inspiration.",
+      "love": "**Love & Relationships for Virgo (2026-06-28)**\n\nToday, meaningful conversations deepen connections. Singles can build confidence by sharing personal stories, attracting genuine interest. Couples should prioritize active listening to strengthen understanding. Show appreciation through small gestures, like a thoughtful note. Embrace vulnerability to foster intimacy. Do this today: plan a heartfelt talk or surprise to express your true feelings confidently.",
+      "career": "**Career and Financial Advice for Virgo (2026-06-28)**\n\nToday, focus on organizing your tasks to maximize productivity. Review your budget and identify areas to cut unnecessary expenses. Seek feedback from colleagues to improve your work approach. Consider updating your skills through online courses to boost career growth. Do this today: set aside 15 minutes to create a prioritized task list and review your financial goals.",
+      "mood": "Calm and reflective, Virgo today feels like a gentle breeze easing restless thoughts, fostering clarity and inner peace. There's a nurturing warmth that encourages self-compassion and quiet optimism.",
       "lucky_numbers": [
         7,
         14,
         23
       ],
-      "lucky_color": "red",
+      "lucky_color": "chartreuse",
       "author": "Astrologly",
       "image": ""
     },
-    "taurus": {
-      "headline": "Taurus Embrace New Opportunities for Growth and Joy Today",
-      "general": "**Main Horoscope:**  \nToday, Taurus, your steady nature grounds you as opportunities subtly emerge in unexpected places. Your practicality shines, helping you make wise decisions about long-term goals. As the day unfolds, you might feel a desire to reorganize or simplify aspects of your life to create more harmony. It’s a good time to focus on finances or personal projects that benefit from your patient, methodical approach. Relationships deepen through small, meaningful gestures, fostering trust and understanding. Trusted routines serve as anchors, but remain open to gentle shifts that inspire fresh perspectives. Your intuitive insights sharpen, guiding you toward balanced choices that serve your wellbeing. Do this today: Take time to review your upcoming goals and plan your next step with clarity.",
-      "love": "**Headline:** Trust your heart to deepen meaningful connections\n\n**Love:** Today, your patience and sincerity strengthen bonds. For singles, showing genuine interest in others fosters trust. Couples can benefit from heartfelt conversations, emphasizing active listening. Focus on small gestures that affirm commitment, like sharing a quiet moment or offering support. Do this today: schedule a heartfelt chat to clarify your feelings and future intentions.",
-      "career": "Astrologly advises Taurus today to focus on steady work progress. Review goals carefully, prioritize tasks that ensure long-term stability, and avoid impulsive investments. Conduct a budget check to find savings opportunities. Embrace patience, as consistent effort yields best results. Today, set a clear career milestone for the upcoming month to stay focused and motivated in your professional journey.",
-      "mood": "Today, Taurus feels a gentle wave of calm mingled with quiet anticipation. There's a soothing sense of grounding, yet sparks of inspiration flicker softly, inviting reflection and heartfelt connections to blossom naturally.",
+    "libra": {
+      "headline": "Balanced energies spark creative breakthroughs and renewed clarity",
+      "general": "2026-06-28\n\nToday, your natural charm and keen intuition open new doors in both personal and professional realms. Unexpected opportunities may arise; trust your instincts to navigate these moments with grace. At work, your creative insights can spark breakthroughs, especially if you collaborate with others or propose fresh ideas. In your relationships, genuine conversations deepen your connections and bring clarity to unresolved feelings. With mindfulness, you'll notice subtle shifts that inspire self-growth and confidence. Financially, a prudent approach helps you feel more secure amid fluctuating circumstances. Embrace the day's energetic flow by staying adaptable and receptive to new pathways. Your sense of purpose is highlighted now, encouraging you to pursue passions that bring fulfillment. Do this today: Reach out to someone inspiring for a meaningful chat.",
+      "love": "**Headline:** Harmonious Connections Blossom Through Honest Communication\n\n**General Horoscope:** Libras are encouraged today to express genuine feelings. Singles should engage in spontaneous conversations revealing their true selves. Couples are advised to schedule heartfelt talks, emphasizing deep listening. Patience and clarity strengthen bonds; small gestures matter. Today, initiate a sincere conversation about your feelings with someone you trust to foster deeper connection and understanding.",
+      "career": "**Career & Financial Advice for Libra (2026-06-28)**\n\nToday, focus on organizing your workspace to boost productivity and reduce stress. Review your financial goals and adjust your budget as needed. Consider new opportunities for growth, but research thoroughly before committing. Networking can bring unexpected benefits—reach out to a mentor or peer. Do this today: make a list of priority tasks for the upcoming week.  \n\n**author:** Astrologly  \n**image:** \"\"",
+      "mood": "Today, Libra feels a gentle, uplifting warmth that fosters calm optimism, blending soft hopes with quiet reflection. There’s a sense of balance and clarity, encouraging peaceful moments and heartfelt connections.",
       "lucky_numbers": [
         7,
         14,
@@ -32,90 +107,15 @@
       "author": "Astrologly",
       "image": ""
     },
-    "gemini": {
-      "headline": "New opportunities beckon to unlock your full potential",
-      "general": "**Headline:**  \nConnections deepen as your curiosity fuels growth\n\n**Main Horoscope:**  \nToday, Gemini, your lively mind and adaptable spirit open new doors in your personal and professional life. Engaging conversations spark insights, helping clarify goals and discover fresh paths. At work, your quick thinking allows you to handle complex tasks effortlessly; consider sharing your ideas with colleagues or mentors for valuable feedback. In relationships, your natural warmth and curiosity deepen bonds, fostering trust and understanding. You may feel inspired to plan new projects or social activities aligned with your passions. Pay attention to subtle signals from your environment—they can guide you toward meaningful opportunities. Balancing your intellectual pursuits with practical steps will maximize progress. Stay grounded amid your creative energy. Do this today: Reach out to someone whose perspective broadens your view.",
-      "love": "**Headlines:**  \nLove Blossoms through Honest Conversations\n\n**General Horoscope:**  \nToday, embrace open dialogue to deepen connections. Whether single or with someone, honest sharing fosters trust and clarity. Listen actively and express feelings gently. Small gestures, like a thoughtful message or sincere compliment, strengthen bonds. Be receptive to new opportunities for emotional growth. Initiate heartfelt chats today to build intimacy and foster genuine understanding in your relationships.",
-      "career": "**Author:** Astrologly  \n**Image:** \"\"  \n\n**Career & Financial Advice for Gemini (2026-06-27)**  \nToday, your quick wit and adaptability shine. Focus on refining skills that boost your professional visibility and network efficiently. Consider updating your resume or portfolio to reflect recent achievements. Be cautious with impulsive decisions in investments; thorough research is key. Collaborate openly with colleagues to foster innovative ideas. Do this today: Schedule a career review to set new goals.",
-      "mood": "On 2026-06-27, Gemini's emotional tone flows with vibrant curiosity and lighthearted confidence, fostering a sense of playful exploration. The mood is breezy, optimistic, and infused with a refreshing eagerness to connect and discover.",
-      "lucky_numbers": [
-        8,
-        19,
-        33
-      ],
-      "lucky_color": "Silver",
-      "author": "Astrologly",
-      "image": ""
-    },
-    "cancer": {
-      "headline": "Embrace new connections to unlock your personal growth",
-      "general": "**Headline: Embrace Growth Through Connection and Reflection**\n\nToday, Cancer, the stars encourage you to nurture your inner world and relationships. You may feel a gentle pull to balance personal pursuits with family or close friends. Unexpected opportunities could arise, urging you to trust your intuition and explore new ideas. Focus on grounding yourself amid emotional fluctuations, and consider revisiting long-term plans with fresh perspective. It’s a day to slow down and truly listen—not only to others but also to your own thoughts and feelings. Your natural empathy shines brightly, helping you deepen your understanding of those around you. This moment of insight can lead to meaningful breakthroughs if you stay open and present. Do this today: Write down your top three intentions for growth this week.",
-      "love": "**Love & Relationships for Cancer (2026-06-27)**\n\nToday encourages honest conversations; share your feelings clearly, whether with a partner or potential love interest. For singles, focus on opening up emotionally—your vulnerability attracts connection. For couples, plan a heartfelt moment to deepen your bond. Trust your intuition to navigate emotional currents. Do this today: send a meaningful message that expresses your true feelings.",
-      "career": "**Author: Astrologly**  \n**Image: \"\"**\n\n**Career & Financial Advice for Cancer (2026-06-27)**\n\nToday, focus on clarifying your professional goals; detailed plans will increase your confidence. Network actively, as connections may open unexpected opportunities. Examine your spending habits and prioritize saving for long-term security. Consider consulting with a financial advisor before making major investments. Do this today: Schedule a review of your financial goals and update your budget accordingly.",
-      "mood": "Today’s emotional tone is gentle yet resilient, with moments of quiet introspection interwoven with sparks of hope. A subtle sense of warmth encourages heartfelt connections and personal growth. Serenity and renewal converge today.",
-      "lucky_numbers": [
-        7,
-        19,
-        34
-      ],
-      "lucky_color": "Emerald Green",
-      "author": "Astrologly",
-      "image": ""
-    },
-    "leo": {
-      "headline": "Leo Embrace Bold Opportunities and Shine Bright today",
-      "general": "Leo, today invites you to tap into your innate confidence, allowing your passions to guide your decisions. In professional settings, your natural charisma draws attention, making collaborative efforts more fruitful. This energy also supports financial clarity—review your priorities and take decisive steps toward your goals. On a personal level, meaningful conversations can deepen bonds, so listen actively and share your authentic self. Creative outlets resonate strongly now, offering fresh ways to express your inner vitality. Embracing a balanced approach helps you navigate challenges with grace, fostering growth in all areas of life. Trust in your ability to adapt and inspire those around you, creating a ripple of positive energy. Do this today: Draft a plan to pursue a new personal project or hobby.",
-      "love": "**Love & Relationship Advice for Leo (2026-06-27)**\n\nToday, your warmth draws others in—use this energy to deepen connections or attract new interest. For singles, express your genuine self; authenticity sparks romance. Couples can plan a thoughtful surprise to reignite passion. Practice active listening and share your feelings honestly. Do this today: send a heartfelt message to someone you admire and listen deeply to their response.",
-      "career": "Astrologly predicts that Leos should focus on proactive outreach and authentic relationship-building today. Review your goals, seek feedback, and adapt quickly to new opportunities. Confidence attracts positive attention. Whether single or partnered, prioritize open communication and vulnerability to deepen understanding. Reach out to mentors or peers to discuss aspirations. Embrace collaboration for professional growth and personal fulfillment today.",
-      "mood": "Today, Leo, your spirit is radiant and filled with optimistic energy, fostering warmth and enthusiasm. Embrace your confidence, allowing joy to flow freely, while remaining mindful of balance. \n\n**Word count: 30**",
-      "lucky_numbers": [
-        7,
-        19,
-        33
-      ],
-      "lucky_color": "Gold",
-      "author": "Astrologly",
-      "image": ""
-    },
-    "virgo": {
-      "headline": "Virgo Embrace Growth and New Opportunities Today",
-      "general": "2026-06-27 - Virgo Horoscope\n\nToday’s energy invites you to find harmony between your routines and your wider aspirations. Practical tasks may flow smoothly if you approach them with mindful focus, yet new opportunities could surface unexpectedly. Your analytical mind can guide initiatives that align with your core values, helping you make meaningful progress. Emotional clarity enhances your decision-making, encouraging openness in interactions. Balancing work and personal commitments might require some adjustments, but trust your intuition to prioritize effectively. Small steps toward your goals will add up, creating momentum that lifts your spirits. Embrace moments of solitude for reflection, letting your inner voice guide you. The day’s subtle shifts can open doors to growth if you remain receptive and patient. Do this today: reconnect with a goal you've set aside.",
-      "love": "**Love & Relationships for Virgo (2026-06-27)**\n\nToday, deepen your connection by sharing your authentic feelings without overanalyzing. Singles, embrace spontaneous conversations that reveal your true self, attracting genuine interest. Couples, plan a meaningful activity that fosters trust and vulnerability. Your attentiveness builds intimacy. Do this today: initiate a heartfelt chat to strengthen bonds and nurture understanding.",
-      "career": "**Astrologly**\n\n**Headlines:**  \n\"Structured plans unlock new career opportunities\"\n\n**General:**  \nToday, your focus on details boosts effectiveness. Organize tasks, set goals, and network to open doors. Avoid rushing decisions; analyze thoroughly. Stay adaptable amidst change. Do this: create a prioritized to-do list for upcoming projects.  \n\n**Love:**  \nSupportive connections deepen, fostering trust and understanding.\n\n**Career:**  \nSeek input from colleagues to enhance progress.",
-      "mood": "Today, Virgo feels a gentle wave of calm, intertwined with understated optimism. There's a quiet motivation encouraging reflection and subtle growth, fostering inner peace and clarity amid gentle, encouraging energy.",
-      "lucky_numbers": [
-        7,
-        14,
-        23
-      ],
-      "lucky_color": "Emerald Green",
-      "author": "Astrologly",
-      "image": ""
-    },
-    "libra": {
-      "headline": "Balance and harmony guiding your decisions today",
-      "general": "2026-06-27\n\nToday’s cosmic energy sparks a wave of curiosity that encourages you to explore new ideas and embrace change with confidence. You might find inspiration in unexpected conversations or fresh perspectives at work, leading to innovative solutions. Personal relationships benefit from your attentive listening and openness, strengthening bonds that matter most. Spiritually, you may feel a subtle shift guiding you toward self-awareness and deeper understanding of your desires. Financially, cautious decisions will serve you well now, especially if you’re considering investments or shared resources. Trust your intuition but balance it with practical thinking. Your creativity is heightened, so use this momentum to clarify your goals and put your plans into motion. Do this today: jot down three new ideas that excite you.",
-      "love": "**Love & Relationships for Libra (2026-06-27)**\n\nToday encourages honest conversations and breakthroughs in connection. If single, show vulnerability to attract genuine interest—share your true passions. For couples, create intentional time for meaningful exchanges that deepen your bond. Trust your intuition when navigating new feelings or challenges. Do this today: initiate a heartfelt conversation to strengthen your emotional clarity and trust.",
-      "career": "**Career & Financial Advice for Libra on 2026-06-27**\n\nToday, prioritize organizing your workload to improve efficiency. Network with colleagues or industry contacts to discover new opportunities. Review your financial goals and adjust your budget to include investments in skills or tools that increase productivity. Stay cautious with expenses but remain open to strategic opportunities. Schedule a session to update your financial plan and connect with a professional today.",
-      "mood": "Today, Libras feel a gentle, uplifting warmth that fosters harmony inside and out. There's a soft sense of hope and connection, encouraging gentle reflection and open-hearted interactions. Embrace calm optimism today.",
-      "lucky_numbers": [
-        12,
-        25,
-        33
-      ],
-      "lucky_color": "blue",
-      "author": "Astrologly",
-      "image": ""
-    },
     "scorpio": {
-      "headline": "Scorpio Embrace New Opportunities and Deepen Inner Connections",
-      "general": "**Main Horoscope:**\n\nToday enhances your inner strength, helping you navigate complex situations with clarity and resilience. Your intuition is heightened, guiding you toward meaningful connections and wise decisions. In your personal life, embracing honesty and vulnerability fosters deeper bonds with loved ones and friends. Professionally, your focused mindset enables you to approach ongoing projects confidently, inspiring those around you. Small acts of kindness and patience create positive ripples, uplifting everyone's mood. Financially, trust your instincts when evaluating new opportunities—balance caution with openness. This day encourages grounding yourself in intentionality and listening to your inner voice amid busy moments. You may feel drawn to explore new horizons or revisit old passions. Take time to reflect and reconnect with what energizes you most. Do this today: write down your top three priorities for the week.",
-      "love": "### Love & Relationships for Scorpio on 2026-06-27\n\nOpenness deepens connections today. Singles should express genuine feelings, inviting meaningful encounters. Couples can rebuild trust by sharing vulnerabilities. Practice active listening and avoid assumptions. Small gestures, like sincere compliments or dedicated time, strengthen bonds. Stay patient with emotional shifts, allowing trust to flourish naturally. Do this today: Initiate a heartfelt conversation with someone close.",
-      "career": "**Author: Astrologly**  \n**Image: \"\"**  \n\n### Horoscope for Scorpio on 2026-06-27\n\nFocus on refining your skills today, Scorpio. Seek out new training or resources that enhance your expertise, creating opportunities for growth. Collaborate with trusted colleagues to expand your network. Stay adaptable amid changing job dynamics and don’t shy away from new challenges. Do this today: schedule a learning session or professional meeting to broaden your horizon.",
-      "mood": "A deep, introspective calm flows through you today, embracing vulnerability with gentle strength. Feelings of quiet resilience emerge, inspiring hope amidst subtle uncertainty. Seek inner balance and nurture soulful connections gently.",
+      "headline": "Uncover Hidden Strengths and Embrace New Opportunities Today",
+      "general": "Main Horoscope:\n\nToday boosts your natural resilience, empowering you to handle challenges thoughtfully and with confidence. Your sharp intuition guides you toward genuine connections, encouraging honesty in your interactions. In relationships, expressing your authentic self deepens trust and understanding, fostering mutual growth. At work, your laser focus helps in refining ideas and finding innovative solutions, especially when collaborating with others. Recognize moments to listen deeply and trust your gut feelings—they hold valuable insights. Financial decisions may require careful consideration; patience will serve you well. Creative inspiration flows, inviting you to explore new hobbies or talents that excite your senses. Staying grounded amidst shifting energies keeps you centered. Remember, your inner calm is your greatest strength today. Do this today: Reach out to reconnect with someone who inspires you.",
+      "love": "**Love & Relationships for Scorpio (2026-06-28)**\n\nToday signals deepening intimacy, whether you’re single or partnered. Be honest about your feelings and listen actively to deepen trust. For couples, plan a meaningful conversation that unveils hidden hopes. Singles might connect through shared passions; remain open and authentic. Focus on vulnerability and genuine dialogue. Do this today: initiate a heartfelt chat about your dreams.",
+      "career": "**Author:** Astrologly  \n**Image:** \"\"  \n\n**Career & Financial Advice for Scorpio (2026-06-28)**  \nFocus on building strategic partnerships that enhance your goals today. Review your expenses carefully and identify areas to streamline. Seek new skill opportunities to boost your credibility and value. Take a cautious approach to investments; prioritize stability over risk. Do this today: schedule a meeting to explore collaboration opportunities that align with your growth.",
+      "mood": "Today, Scorpio, your emotional tone is a deep, introspective calm merging with gentle resilience. A quiet strength grounds you, fostering hope and clarity amidst subtle shifts, inspiring you to embrace vulnerability with grace.",
       "lucky_numbers": [
         12,
-        27,
+        29,
         45
       ],
       "lucky_color": "Deep Red",
@@ -123,62 +123,62 @@
       "image": ""
     },
     "sagittarius": {
-      "headline": "Embrace New Horizons That Spark Your Inner Explorer",
-      "general": "Today, Sagittarius, your enthusiasm ignites multiple areas of your life, boosting confidence and purpose. Stellar energies enhance your creativity, encouraging pursuit of exciting new projects or hobbies. At work, your proactive approach garners recognition and growth opportunities; trust your instincts to handle challenges gracefully. In relationships, warm, honest communication deepens bonds and fosters meaningful connections. Financial matters benefit from your pragmatic outlook—stay attentive to details. Emotionally, a surge of optimism may inspire a fresh perspective on long-term goals. Balance your adventurous spirit with moments of reflection to remain grounded. Engaging with loved ones brings fulfillment and joy, creating ripples of positivity around you. Focus on harnessing this energy today. Do this today: dedicate time to a new creative pursuit.",
-      "love": "Embrace authenticity today to deepen your connections. Singles can attract meaningful relationships by being genuine and sharing their true selves. Couples should prioritize honest communication and vulnerability, strengthening trust. Pay attention to subtle signals, respond kindly, and let your true self shine. Initiate heartfelt conversations, listen deeply, and foster genuine bonds that grow through sincerity and openness.",
-      "career": "**Career and Financial Advice for Sagittarius (2026-06-27)**\n\nToday, focus on refining your skills to elevate your professional profile. Seek feedback from trusted colleagues and consider short courses to boost your expertise. Financially, review your budget and identify areas to save without sacrificing your passions. Stay organized and proactive in pursuing new opportunities. Do this today: schedule a time to update your career goals and financial plan.",
-      "mood": "Today, Sagittarius feels an uplifting sense of curiosity and adventure, radiating optimism even amid uncertainties. Embracing spontaneity, you exude warmth and confidence, inspiring others with your genuine enthusiasm and free spirit.",
-      "lucky_numbers": [
-        8,
-        23,
-        37
-      ],
-      "lucky_color": "violet",
-      "author": "Astrologly",
-      "image": ""
-    },
-    "capricorn": {
-      "headline": "Embrace change boldly and unlock new opportunities today",
-      "general": "Astrologly's guidance today emphasizes balancing practicality with intuition. Your ability to navigate complex situations with grace will open subtle opportunities in work and personal life. Act thoughtfully rather than impulsively, embracing moments of reflection to clarify your goals, especially in relationships and routines. Prioritize balance while remaining open to new approaches that can streamline tasks or deepen connections. Your disciplined energy supports progress, but flexibility may bring unexpected rewards. Trust your instincts and view challenges as learning experiences. Focus on integrating your ambitions with genuine care for those around you. Remember, success often comes from thoughtful reflection and authentic interactions. Do this today: schedule a quiet moment to reflect and align your intentions.",
-      "love": "**Headline:** Find Balance and Deepen Connection Today\n\nOn 2026-06-27, Capricorns feel a gentle pull toward understanding emotional layers. Singles should focus on genuine conversations, opening up gradually. For couples, prioritize active listening and shared goals. Avoid rushing decisions; patience nurtures trust. Trust that vulnerability creates stronger bonds. Do this today: Plan a meaningful chat with someone you trust, fostering deeper connection and clarity.",
-      "career": "**Career and Financial Advice for Capricorn (2026-06-27)**\n\nToday, focus on organizing your tasks to improve efficiency. Consider revisiting your budget and identifying areas to cut unnecessary expenses. Seek opportunities for collaboration to expand your reach. Stay disciplined with your goals, and don’t shy away from sharing your ideas confidently. Do this today: draft a plan for the upcoming quarter to align your priorities.",
-      "mood": "Today’s mood for Capricorn is contemplative and resilient, infused with a steady sense of purpose. You feel grounded yet open to subtle shifts, fueling quiet confidence amid lingering uncertainties. Confidence grows through mindful reflection.",
+      "headline": "Adventure and insight merge to inspire your brightest moments",
+      "general": "Today’s cosmic currents inspire a vibrant sense of possibility, urging you to expand your horizons across personal and professional realms. Your natural optimism fuels innovative ideas, making it a prime time to initiate new projects or reconnect with passions that invigorate your spirit. Emotional clarity helps you navigate conversations with authenticity, strengthening bonds with loved ones and colleagues alike. You may feel an urge to break free from routine, seeking fresh experiences that challenge and excite you. Trust your intuition to guide choices, especially in collaborations or negotiations, as your insights are particularly sharp now. Pay attention to subtle signs from your environment; they hold valuable clues. Do this today: reach out to someone new and start a meaningful conversation.",
+      "love": "**Headline:** Embrace honest conversations to deepen connections\n\n**General Horoscope:** Today, honesty and open communication foster clarity in relationships. Trust your intuition and share your true passions, attracting like-minded people. Couples should discuss needs openly for harmony, while singles can connect more deeply through genuine conversations. Focus on active listening and expressing feelings. Initiate heartfelt chats today to build mutual understanding and strengthen your emotional bonds effectively.",
+      "career": "Sagittarius, today is ideal to review your goals and refine your career strategy. Take time to network authentically, connecting meaningfully with colleagues or mentors. Consider updating your skills through short courses or online workshops to stay competitive. Stay organized and set clear priorities to boost productivity. Do this today: schedule a time to reassess your professional progress and outline next steps confidently.",
+      "mood": "Today’s mood radiates optimism and curiosity, sparking a sense of adventure and openness. You feel energized and inspired, ready to embrace new experiences with enthusiasm while maintaining a grounded sense of purpose and balance.",
       "lucky_numbers": [
         7,
         14,
         23
       ],
-      "lucky_color": "Deep Blue",
+      "lucky_color": "turquoise",
+      "author": "Astrologly",
+      "image": ""
+    },
+    "capricorn": {
+      "headline": "New Opportunities Shine Brightly for Capricorns Today",
+      "general": "2026-06-28\n\nA steady rhythm supports your growth today, Capricorn, as celestial energies enhance your focus and resilience. You may find yourself tackling routine tasks with renewed vigor, turning small details into significant progress. Personal relationships benefit from your dependable nature, fostering trust and understanding. Professionally, opportunities for recognition arise, especially if you’re willing to showcase your expertise and collaborate with others. Emotional clarity becomes clearer if you take moments to pause and listen within. Financial matters might require a cautious approach; avoid unnecessary risks. Creativity sparks when you combine your practical mindset with imaginative ideas. This day invites you to harness your discipline to nurture progress across all areas, rather than seeking quick wins. Do this today: organize your upcoming week’s goals for clarity and peace.",
+      "love": "**Love & Relationships for Capricorn (2026-06-28)**\n\nToday offers a moment to deepen emotional bonds or attract new connections. Singles should focus on genuine conversations to build trust; couples can plan a meaningful shared activity to rekindle closeness. Be open to listening without rushing to fix. Small acts of vulnerability strengthen trust. Do this today: send a heartfelt message to someone you value.",
+      "career": "**Career & Finances for Capricorn (2026-06-28)**\n\nToday, focus on strengthening your professional network. Schedule one meaningful conversation or virtual coffee chat with colleagues or mentors. Review your budget and identify one area to optimize expenses or increase savings. Stay organized and prioritize long-term goals. Do this today: set a clear monthly work milestone to track progress effectively.",
+      "mood": "On 2026-06-28, Capricorn's emotional tone feels stable yet introspective, blending quiet resilience with gentle hope. The mood is contemplative, encouraging you to embrace inner strength and patience amid subtle, inspiring shifts.",
+      "lucky_numbers": [
+        7,
+        14,
+        23
+      ],
+      "lucky_color": "Deep Green",
       "author": "Astrologly",
       "image": ""
     },
     "aquarius": {
-      "headline": "Innovative ideas spark new beginnings and exciting opportunities",
-      "general": "Aquarius Daily Horoscope — 2026-06-27\n\nToday’s bright energies encourage you to embrace your individuality and explore new ways to express yourself. Opportunities for personal growth arise as your innovative thinking attracts fresh ideas. In relationships, honest conversations deepen connections and clarify mutual goals. At work, your visionary approach inspires colleagues and opens doors for collaboration. Financially, trust your intuition when considering opportunities, but remain practical and attentive to details. Emotional balance enhances your decision-making, making complex situations easier to navigate. Reconnect with passions that invigorate your spirit—your enthusiasm is contagious. This versatile energy supports both introspection and outward pursuits, helping you progress toward your goals confidently. Do this today: Reach out to someone whose opinion you value for a sincere discussion.",
-      "love": "**Love & Relationships for Aquarius (2026-06-27)**\n\nToday, open up emotionally with your partner or potential love interest to deepen trust. For singles, try sharing your passions with someone new—authenticity attracts. Communicate honestly about your needs and listen actively. Small gestures, like a thoughtful message or eye contact, strengthen bonds. Do this today: initiate a heartfelt conversation to foster connection.",
-      "career": "**Author:** Astrologly  \n**Image:** \"\"  \n\n**Career and Financial Guidance for Aquarius – 2026-06-27**  \nToday, focus on refining your skills and expanding your network. Collaborate with colleagues and seek mentorship to elevate your projects. Avoid risky financial moves; instead, review your budget and save strategically. Embrace opportunities for growth through learning. Do this today: schedule a professional development session to enhance your expertise.",
-      "mood": "The emotional tone is uplifting and reflective, filled with curiosity and hope. Energetic yet serene, it encourages introspection, fresh perspectives, and gentle optimism, guiding you smoothly through the day’s subtle shifts with a peaceful, inspiring mood.",
+      "headline": "Innovative ideas spark growth and inspire meaningful connections",
+      "general": "Aquarius, today’s vibrant cosmic energy urges you to focus on balancing your passions with practical goals. Your inventive mind thrives on experimentation, so don’t hesitate to try fresh approaches in your projects or daily routines. Relationships benefit from open, honest dialogue—sharing your authentic self fosters deeper trust and understanding. Professionally, your unique ideas catch attention and might lead to new opportunities; stay confident in your creative edge. Financial matters require cautious review; avoid impulsive decisions and pause to assess your priorities. Embrace moments of solitude to reconnect with your inner voice and gather clarity. Overall, the day invites you to celebrate your originality while grounding your ambitions. Do this today: Write down three small, achievable goals that truly excite you.",
+      "love": "**Love & Relationships for Aquarius – 2026-06-28**  \nToday invites genuine connections; listening deepens bonds. Singles should seize authentic conversations at social events, while couples can deepen trust through honest dialogue. Show appreciation with small yet meaningful gestures. Be open to new perspectives in love, and don’t shy from heartfelt vulnerability.  \nDo this today: Write a sincere note to someone you care about.  \n\n**Author:** Astrologly  \n**Image:** \"\"",
+      "career": "author: Astrologly  \nimage: \"\"  \n\n**Career & Financial Advice for Aquarius (2026-06-28)**\n\nToday, focus on streamlining your workflow and organizing financial details. Consider reviewing your budget or investment plan to identify areas for growth. Network intentionally—reach out to a colleague or mentor for insight. Stay adaptable when new opportunities arise. Do this today: Schedule a dedicated time to assess your financial goals and adjust your strategies accordingly.",
+      "mood": "Today, Aquarius feels a gentle wave of optimism mixed with introspective calm. There's a sense of curiosity sparking hope, while subtle nostalgia whispers softly, encouraging reflection and cultivating inner peace amidst your explorations.",
       "lucky_numbers": [
-        12,
-        27,
-        34
+        7,
+        14,
+        29
       ],
-      "lucky_color": "blue",
+      "lucky_color": "turquoise",
       "author": "Astrologly",
       "image": ""
     },
     "pisces": {
-      "headline": "Creative energies ignite new pathways for your growth",
-      "general": "**Main Horoscope:**\n\nToday, your intuitive senses are heightened, guiding you through both personal reflections and interpersonal interactions. You may feel a deep desire to connect authentically with loved ones, fostering understanding and vulnerability. Professionally, opportunities for creative collaboration surface—trust your instincts when choosing which projects or partnerships to pursue. Finances might demand a careful review; small adjustments can lead to long-term stability. Emotionally, you’re encouraged to nurture self-compassion, allowing you to navigate any residual doubts gently. This balance of reflection and action helps you feel more grounded, even as your imagination sparks new ideas. Your openness to vulnerability can inspire others, strengthening bonds and encouraging mutual growth. Do this today: Reach out to someone you trust for a heartfelt conversation.",
-      "love": "**Harmony Blossoms in Your Relationships**  \nToday, Pisces, embrace open communication to deepen understanding with loved ones. Singles should pursue authentic connections by trusting your intuition and sharing your true self. For couples, plan a heartfelt conversation to reignite intimacy. Let empathy guide your interactions, fostering trust and closeness. Do this today: Reach out for a genuine chat, listening with compassion and patience.",
-      "career": "**Author:** Astrologly  \n**Image:** \"\"  \n\n**Career and Financial Advice for Pisces - 2026-06-27**  \n\nYour intuition guides you—trust it when exploring new opportunities. Focus on organizing your finances and setting clear goals for growth. Collaborate with trusted colleagues to expand your network, and avoid impulsive spending. Keep detailed records of investments and work projects. Do this today: review your upcoming financial commitments and create a realistic budget.",
-      "mood": "Today, Pisces feels a gentle wave of serenity mixed with introspective curiosity, fostering emotional openness and creative inspiration. A quiet hope emerges beneath the surface, inviting reflection and gentle connection.",
+      "headline": "Discover New Depths and Embrace Personal Transformation Today",
+      "general": "Today, your intuition sharpens, revealing insights that can deepen your understanding of personal and collective connections. You may find yourself drawn to heartfelt conversations, seeking genuine bonds that nourish your soul. At work, subtle opportunities for collaboration arise—trust your gut when assessing which partnerships align with your values. Emotional clarity helps you navigate complex situations with grace, allowing your natural empathy to shine. As your inner world and outer experiences intertwine, focus on grounding yourself in moments of stillness that restore your energy. Practical choices become clearer, guiding you toward meaningful progress. Stay open to subtle hints guiding your next steps. Do this today: journal your thoughts to clarify your next goal.",
+      "love": "**Love & Relationships for Pisces on 2026-06-28**\n\nStay open to new connections; your intuition guides meaningful conversations today. For singles, trust your gut during social moments, and don’t rush into decisions. Couples can deepen bonds through honest sharing and listening. Focus on cultivating emotional safety. Do this today: initiate a heartfelt chat or plan a quiet shared activity to strengthen your bond.",
+      "career": "**Career and Financial Advice for Pisces - 2026-06-28**\n\nFocus on honing your skills through targeted training or courses today. Seek opportunities for collaboration, especially with those who complement your strengths. Be mindful of impulsive spending; set a clear budget this week. Prioritize long-term goals over short-term gains, and attend networking events. Do this today: Schedule a skill upgrade session to boost your prospects.",
+      "mood": "Today, Pisces, your mood is gentle yet vibrant, like a shimmering wavescape illuminated by moonlight. Emotions flow intuitively, fostering hope and reflection. You feel deeply connected and secretly inspired by new possibilities.",
       "lucky_numbers": [
-        8,
-        21,
-        34
+        7,
+        22,
+        45
       ],
-      "lucky_color": "sea green",
+      "lucky_color": "Sea Green",
       "author": "Astrologly",
       "image": ""
     }
