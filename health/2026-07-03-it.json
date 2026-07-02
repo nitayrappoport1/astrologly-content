@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-03",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Il 3 luglio 2026, Ariete, dedicati a una routine equilibrata di esercizio fisico per aumentare la tua energia. Preferisci attività dinamiche come corsa o danza, che stimolano il corpo e il cuore. Ricorda di idratarti bene e di seguire un’alimentazione ricca di frutta, verdura e proteine leggere. Riposa adeguatamente per mantenere il benessere generale.",
+      "mental": "Per Ariete il 3 luglio 2026, concentrati sulla praticità e il respiro. Dedica alcuni minuti alla meditazione o alla respirazione profonda per calmerare la mente e trovare chiarezza. Ricorda di ascoltare le tue emozioni senza giudizio, prendendoti cura di te stesso con gentilezza. Mantieni un equilibrio tra azione e quiete, per affrontare la giornata con serenità.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 3 luglio 2026 è ideale dedicarsi alla cura del tuo corpo. Ricorda di mantenere una dieta equilibrata ricca di frutta, verdura e proteine magre. Integra esercizio moderato come passeggiate o yoga quotidiano per aumentare energia e benessere. Bevi molta acqua e concediti riposo sufficiente per rinforzare il sistema immunitario.",
+      "mental": "Il 3 luglio 2026, dedicati alla calma e alla riflessione. Pratica la meditazione quotidiana, respira profondamente e ascolta il tuo corpo. Mantieni un diario per esplorare emozioni e pensieri. Ricorda di concederti momenti di relax e gratitudine. Equilibrare mente ed emozioni porterà chiarezza e serenità nelle tue giornate.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Il 3 luglio 2026, Gemelli dovrebbe concentrarsi sull'equilibrio tra attività e riposo. Dedica almeno 30 minuti a esercizi leggeri come camminata o yoga, mantenendo una dieta equilibrata ricca di frutta e verdura. Idratazione e sonno di qualità sono fondamentali. Ascolta il tuo corpo e non trascurare il benessere mentale. Occupa di te con dolcezza e attenzione.",
+      "mental": "Il 3 luglio 2026, i Gemelli possono beneficiare di pratiche di mindfulness e respirazione consapevole per mantenere la chiarezza mentale e l’equilibrio emotivo. Prenditi del tempo per riflettere sulla giornata, ascolta il tuo corpo e concediti pause rigeneranti. Coltiva la pazienza e la gentilezza verso te stesso, favorendo il benessere mentale e il rilassamento.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 3 luglio 2026, concentrati sulla cura del corpo con esercizi dolci come yoga o passeggiate all'aperto, che aumentano energia e benessere. Mantieni un'alimentazione equilibrata ricca di frutta, verdura e proteine sane. Dedica tempo al riposo e all'idratazione, ascoltando sempre i segnali del tuo corpo per prevenire affaticamento e rafforzare la tua salute fisica.",
+      "mental": "Il 3 luglio 2026, Cancro, dedicati alla cura del tuo benessere emotivo. Pratica la mindfulness quotidiana per migliorare la chiarezza mentale e ridurre lo stress. Trova momenti di tranquillità per riflettere e ascoltare te stesso. Ricorda che è importante condividere i tuoi sentimenti con persone di fiducia, creando un equilibrio stabile e duraturo.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 3 luglio 2026 è un'ottima giornata per prendersi cura del tuo corpo. Dedica almeno 30 minuti a esercizi moderati come camminate, yoga o stretching. Mantieni un'alimentazione equilibrata ricca di frutta, verdura e proteine magre. Idratati adeguatamente e riposa sufficiently. Ascolta il tuo corpo e concediti momenti di relax per ristabilire energie e benessere.",
+      "mental": "Leone, il 3 luglio 2026, concentrati sulla calma e la consapevolezza. Dedica qualche minuto alla meditazione o alla respirazione profonda per liberare la mente da tensioni. Coltiva pensieri positivi e riconosci le emozioni senza giudizio. Ricorda di prenderti pause, rilassarti e connetterti con ciò che ti dà gioia e serenità.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 2026-07-03, Vergine, dedica attenzione al tuo benessere fisico. Mantieni una routine equilibrata di allenamento moderato, come camminate o yoga, per rinvigorire energia e ridurre stress. Cura l’alimentazione: prediligi cibi freschi e nutriente. Ricordati di idratarti bene e ascoltare i segnali del corpo, favorendo riposo e rigenerazione.",
+      "mental": "Vergine, il 3 luglio 2026 è un momento perfetto per dedicarti alla chiarezza mentale. Pratica la respirazione consapevole quotidianamente e prenditi del tempo per la meditazione. Riconosci e accetta le tue emozioni senza giudizio, concedendoti pause di relax. Ricorda, il benessere emotivo nasce dall’equilibrio interiore, quindi ascolta il tuo corpo e coltiva la pace interiore con gentilezza.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Il 3 luglio 2026, Bilancia, concentrati sul mantenimento di un equilibrio tra alimentazione sana e attività fisica. Dedica tempo allo stretching mattutino e a passeggiate all’aperto per aumentare energia e benessere. Cura il riposo notturno e idratati adeguatamente. Inserisci esercizi leggeri di yoga o pilates per rinforzare corpo e mente, favorendo equilibrio e vitalità.",
+      "mental": "Per i Bilancia del 3 luglio 2026, è fondamentale dedicare tempo alla meditazione e alla respirazione profonda per migliorare la chiarezza mentale. Coltiva l’equilibrio emotivo praticando il riconoscimento dei propri sentimenti senza giudizio. Gestisci lo stress dedicando momenti di relax alla natura e alla mindfulness, creando spazio per ricaricare il cuore e la mente.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Per lo Scorpione del 3 luglio 2026, concentrati sulla cura del corpo attraverso esercizi regolari come yoga o nuoto per aumentare l’energia e ridurre lo stress. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e acqua. Dedica del tempo al riposo e alla meditazione, favorendo il rilassamento muscolare e il benessere generale. Ascolta il tuo corpo.",
+      "mental": "Il 3 luglio 2026, per lo Scorpione è fondamentale coltivare la mindfulness attraverso meditazioni quotidiane e esercizi di respirazione profonda. Dedica del tempo al journaling per chiarire i sentimenti e riconoscere le emozioni. Prenditi pause regolari per ridurre lo stress e favorire un equilibrio emotivo stabile. La cura di se stessi sarà la chiave della tua serenità.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 2026-07-03, Sagittario, dedica del tempo alla cura del corpo: mantieni una dieta equilibrata ricca di frutta e verdura, e bevi molta acqua. Pratica esercizio fisico all’aperto, come camminate o yoga, per rafforzare energia e vitalità. Ricorda di ascoltare il tuo corpo, riposare adeguatamente e dedicare momenti di relaxation per il benessere completo.",
+      "mental": "Il Sagittario del 3 luglio 2026 può migliorare il suo benessere mentale dedicando del tempo alla meditazione quotidiana, focalizzandosi sul respiro. Coltiva la calma praticando attività rilassanti come lo yoga o passeggiate all'aperto. Ricorda di condividere i tuoi sentimenti con persone di fiducia, per mantenere un equilibrio emotivo e affrontare lo stress con serenità.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 3 luglio 2026, il Capricorno dovrebbe concentrarsi su un equilibrio tra attività e riposo. Dedica almeno 30 minuti a esercizi cardio o yoga per migliorare energia e flessibilità. Cura l’alimentazione, inserendo frutta, verdura e proteine magre. Ricorda di mantenere una buona idratazione e di ascoltare il corpo, evitando stress e affaticamenti.",
+      "mental": "Il 3 luglio 2026, il Capricorno può beneficiare di pratiche di meditazione e respirazione profonda per favorire la chiarezza mentale e l’equilibrio emotivo. Dedica del tempo alla consapevolezza quotidiana e ricevi attenzione ai tuoi bisogni interiori. Ricorda di essere gentile con te stesso, gestendo lo stress con attività rilassanti come passeggiate o yoga.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 3 luglio 2026, Acquario dovrebbe dedicare del tempo al risveglio energetico mattutino, praticando yoga o stretching leggero. Mantieni una dieta equilibrata ricca di frutta, verdura e proteine leggere. È importante idratarsi adeguatamente e prendersi cura della pelle con prodotti nutrienti. Ricorda di ascoltare il tuo corpo e riposare quando necessario.",
+      "mental": "Il 3 luglio 2026, Acquario, dedicati alla calma interiore e alla consapevolezza. Pratica la meditazione quotidiana per migliorare la chiarezza mentale e ridurre lo stress. Concediti momenti di riflessione e respira profondamente nei momenti di tensione. Coltiva l’autocura e ascolta le tue emozioni, trovando equilibrio e serenità in ogni giornata.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Per i Pesci il 3 luglio 2026 è importante dedicare attenzione alla cura del corpo. Consigliati esercizi dolci come lo yoga o il camminare all'aperto, che aiutano a rinvigorire energia e calma mentale. Idratati molto e assicurati di rispettare il riposo. Una giornata equilibrata favorirà il benessere fisico e mentale, migliorando la vitalità complessiva.",
+      "mental": "Per i Pesci il 3 luglio 2026 è un giorno ideale per dedicarsi alla meditazione e al respiro consapevole, che favoriscono la chiarezza mentale e l’equilibrio emotivo. Prenditi del tempo per riflettere sui tuoi sentimenti, evitando lo stress eccessivo. Ricorda di essere gentile con te stesso e di cercare supporto se necessario, coltivando la calma interiore e il benessere emotivo.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
