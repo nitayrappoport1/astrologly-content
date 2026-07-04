@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-05",
+  "language": "it",
+  "tz": "Asia/Jerusalem",
+  "entries": {
+    "aries": {
+      "physical": "Caro Ariete, il 5 luglio 2026 ti invita a dedicare attenzione al tuo benessere fisico. Ascolta il tuo corpo: integra esercizi energici come camminate o yoga per rinvigorirti. Mantieni una dieta equilibrata e idratata, privilegia il riposo e pratiche di rilassamento. Rispetta i tuoi tempi, così rinforzerai corpo e mente, affrontando la giornata con vitalità e serenità.",
+      "mental": "Ariete, il 5 luglio 2026, concediti momenti di calma e riflessione. Pratica la mindfulness per liberarti dallo stress e ritrovare equilibrio emotivo. Ricorda di ascoltare il tuo respiro e di dedicare tempo a te stesso. La chiarezza mentale arriverà affrontando con pazienza e gentilezza i tuoi pensieri, rafforzando il benessere interiore.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "taurus": {
+      "physical": "Caro Toro, il 5 luglio 2026 è importante dedicare del tempo al benessere fisico. Fai attenzione all'alimentazione equilibrata, includendo frutta, verdura e proteine magre. Dedica almeno 30 minuti all’attività fisica quotidiana, come camminate o stretching. Idratati correttamente e riposa bene per mantenere alti i livelli di energia e prendersi cura del tuo corpo.",
+      "mental": "Toro, il 5 luglio 2026, dedicati alla cura della mente e del cuore. Pratica la meditazione quotidiana per aumentare la chiarezza mentale e ridurre lo stress. Mantieni un diario emotivo per riconoscere e gestire le emozioni. Ricorda di respirare profondamente nei momenti di tensione, coltivando gratitudine e pienezza nel presente.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "gemini": {
+      "physical": "Il 5 luglio 2026, dedica attenzione alla cura del corpo: mantieni un’alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Integra esercizi aerobici come camminate o bicicletta per aumentare energia e vitalità. Assicurati di idratarti adeguatamente e di riposare bene. Piccole abitudini quotidiane rafforzeranno il tuo benessere fisico e spirituale.",
+      "mental": "Cari Gemelli, il 5 luglio 2026 è un giorno ideale per prendersi cura della mente e del cuore. Pratica la meditazione per raggiungere chiarezza mentale e ridurre lo stress. Dedica del tempo a riflettere sulle tue emozioni e condividi i tuoi sentimenti con persone di fiducia. Ricorda, il benessere interiore è la chiave per una giornata equilibrata e serena.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "cancer": {
+      "physical": "Per il Cancro del 5 luglio 2026, concentrati sul mantenimento di un'alimentazione equilibrata ricca di frutta, verdura e proteine leggere. Dedica almeno 30 minuti al giorno a esercizi dolci come camminate, yoga o stretching. Dormi a sufficienza e idratati regolarmente. Ascolta il tuo corpo e riposa quando necessario per mantenere energia e benessere.",
+      "mental": "Il 5 luglio 2026, Cancro, dedicati alla cura del tuo benessere emotivo. Pratica la mindfulness quotidiana, come respirazioni profonde o meditazione, per ridurre lo stress. Dedica del tempo a riflettere sui tuoi sentimenti e scrivi un diario. Ricorda di circondarti di persone positive e di ascoltare le tue esigenze interiori per mantenere equilibrio e serenità.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "leo": {
+      "physical": "Caro Leone, il 5 luglio 2026 è un giorno ideale per dedicarti alla cura del tuo corpo. Mantieni una dieta equilibrata ricca di frutta e verdura, e assicurati di bere molta acqua. Pratica esercizio fisico moderato come camminate o yoga, che aiutano ad aumentare l’energia e migliorare il benessere generale. Ricorda di ascoltare sempre il tuo corpo.",
+      "mental": "Ciao Leone, il 5 luglio 2026 è un ottimo momento per dedicarti alla calma interiore. Pratica mindfulness ogni mattina, respira profondamente e ascolta il tuo cuore. Ricorda di prenderti pause durante la giornata, coltivando gratitudine e autocompassione. Affronta le sfide con gentilezza e fiducia: il tuo equilibrio emotivo si rinforzerà.",
+      "recommended_activity": "camminata",
+      "diet_focus": "cereali integrali",
+      "author": "Astrologly"
+    },
+    "virgo": {
+      "physical": "Il 5 luglio 2026, Vergine, concentrati sulla cura del corpo: alimenta la tua energia con pasti nutrienti e idratati regolarmente. Dedica del tempo a esercizi leggeri come yoga o passeggiate, che migliorano il benessere e rilassano la mente. Ascolta il tuo corpo, riposa quando necessario e cura attentamente il sonno per mantenere vitalità e equilibrio.",
+      "mental": "Il 5 luglio 2026, dedica tempo alla meditazione quotidiana e alla respirazione profonda per rilassare la mente. Concentrati sul riconoscimento delle emozioni senza giudizio, praticando la gratitudine per rafforzare l’equilibrio emotivo. Gestisci lo stress pianificando momenti di pausa e di auto-cura. Ricorda che il benessere interiore nasce da piccoli gesti quotidiani di attenzione.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    },
+    "libra": {
+      "physical": "Per i Bilancia del 5 luglio 2026, concentrati sull’equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti al giorno a esercizi leggere come passeggiate o yoga, per rinvigorire corpo e mente. Mantieni un’alimentazione equilibrata ricca di frutta, verdura e acqua, evitando zuccheri raffinati. Ascolta il tuo corpo e concediti pause rigeneranti.",
+      "mental": "Il 5 luglio 2026, Bilancia dovrà dedicare del tempo alla meditazione quotidiana per ritrovare equilibrio interiore. Prenditi momenti di silenzio per riconsiderare le tue emozioni e gestire lo stress con tecniche di respirazione profonda. Ricorda di coltivare relazioni positive e di ascoltare il tuo cuore per mantenere armonia tra pensieri ed emozioni.",
+      "recommended_activity": "riposo",
+      "diet_focus": "vitamine",
+      "author": "Astrologly"
+    },
+    "scorpio": {
+      "physical": "Il 5 luglio 2026, gli Scorpione devono dedicare attenzione alla cura del corpo. Concentratevi su esercizi rejuveneanti come lo yoga o il nuoto per rinvigorire energia e ridurre lo stress. Mangiate alimenti ricchi di nutrienti e idratatevi adeguatamente. Riposatevi abbastanza e ascoltate i segnali del vostro corpo per mantenere equilibrio e benessere.",
+      "mental": "Il 5 luglio 2026, i Scorpione trovano beneficio nel dedicare del tempo alla meditazione e alla respirazione consapevole. Pratica momenti di introspezione giornalieri e circondati di persone positive. Gestisci lo stress con attività rilassanti come lo yoga o un passeggiata immersa nella natura. Ricorda di ascoltare le tue emozioni, trovando un equilibrio tra cuore e mente.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "sagittarius": {
+      "physical": "Il 5 luglio 2026, Sagittario, concentrati sul mantenimento dell’energia attraverso attività all’aperto come camminate o yoga. Dedica del tempo al riposo e all’alimentazione equilibrata, ricca di vitamine. Ricorda di ascoltare il tuo corpo e di idratarti adeguatamente. Piccoli momenti di cura personale, come massaggi o stretching, favoriranno il benessere generale e la vitalità.",
+      "mental": "Per il Sagittario del 5 luglio 2026, concentrati sulla chiarezza mentale praticando la meditazione quotidiana e scrivendo i tuoi pensieri. Coltiva l’equilibrio emotivo dedicando tempo a te stesso e ascoltando le tue emozioni. Gestisci lo stress con attività fisica e pause profonde di mindfulness, creando uno spazio di calma e riflessione per affrontare le sfide con serenità.",
+      "recommended_activity": "meditazione",
+      "diet_focus": "idratazione",
+      "author": "Astrologly"
+    },
+    "capricorn": {
+      "physical": "Il 2026-07-05, i Capricorno dovrebbero concentrarsi sull’equilibrio tra riposo e attività fisica. Mantieni una routine di esercizio moderato, come camminate o yoga, per rafforzare il corpo e ridurre lo stress. Cura l’alimentazione con pasti nutrienti e idratati adeguatamente. Dedica del tempo al rilassamento e si più consapevole dei segnali del tuo corpo.",
+      "mental": "Il 5 luglio 2026, il Capricorno è invitato a dedicare del tempo alla meditazione e alla respirazione profonda per favorire la chiarezza mentale. Pratica mindfulness quotidiana, riconoscendo e accettando le emozioni senza giudizio. Dedica momenti di pausa per ricaricare le energie e ridurre lo stress, mantenendo equilibrio tra pensieri, emozioni e corpo. Ricorda: la cura di sé è un atto di amore.",
+      "recommended_activity": "stretching",
+      "diet_focus": "frutta",
+      "author": "Astrologly"
+    },
+    "aquarius": {
+      "physical": "Il 5 luglio 2026, Acquario dovrebbe concentrarsi sull’equilibrio tra riposo e attività fisica. Dedica almeno 30 minuti a esercizi moderati come camminate o yoga per aumentare energia e benessere. Cura l’alimentazione con pasti equilibrati ricchi di frutta, verdura e proteine leggere. Ricorda di idratarti adeguatamente e di ascoltare sempre il tuo corpo.",
+      "mental": "Acquario, il 5 luglio 2026 è ideale per concentrarti sulla chiarezza mentale. Dedica del tempo alla meditazione e alla respirazione profonda per ridurre lo stress. Ascolta i tuoi sentimenti senza giudizio, praticando la mindfulness. Trova momenti di solitudine per riflettere e ricaricare le energie, aiutandoti a mantenere equilibrio emotivo e benessere interno.",
+      "recommended_activity": "yoga",
+      "diet_focus": "proteine",
+      "author": "Astrologly"
+    },
+    "pisces": {
+      "physical": "Per i Pesci il 5 luglio 2026 sarà importante dedicare attenzione al benessere fisico. Pratica yoga o passeggiate all'aperto per ricaricare energia e migliorare la circolazione. Mantieni una dieta equilibrata ricca di frutta e verdura, e idratati adeguatamente. Ascolta il tuo corpo e concediti il riposo necessario per rafforzare corpo e mente.",
+      "mental": "Cari Pesci, il 5 luglio 2026 è un giorno perfetto per dedicarti alla mindfulness e alla respirazione profonda. Pratica meditazione ogni mattina per calmare la mente e rafforzare l’equilibrio emotivo. Ricorda di usare il journaling per esprimere i tuoi sentimenti e gestire lo stress. Condividi le tue emozioni con persone di fiducia per sentirti supportato.",
+      "recommended_activity": "cardio",
+      "diet_focus": "verdure",
+      "author": "Astrologly"
+    }
+  }
+}
